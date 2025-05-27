@@ -155,9 +155,17 @@
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <figure><img src="/images/strays-in-need-serbia.jpg"
+          <p><strong>1</strong>
+<figure><img src="/images/strays-in-need-serbia.jpg"
     alt="Mein Bild" width="300px">
 </figure>
+
+<strong>2</strong>
+{{ $img := &ldquo;/images/strays-in-need-serbia.jpg&rdquo; | relURL }}
+<!-- raw HTML omitted -->
+<strong>3</strong>
+{{ $img := &ldquo;/images/strays-in-need-serbia.jpg&rdquo; | absURL }}
+<!-- raw HTML omitted --></p>
         </div>
         <a href="/adoptieren/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
       </div>
