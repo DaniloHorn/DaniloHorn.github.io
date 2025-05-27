@@ -13,7 +13,7 @@
       <link>http://localhost:1313/adoptieren/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/adoptieren/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;static/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;strong&gt;2&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;static/strays-in-need-serbia.jpg&amp;rdquo; | relURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;/static/strays-in-need-serbia.jpg&amp;rdquo; | absURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;strong&gt;2&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;images/strays-in-need-serbia.jpg&amp;rdquo; | relURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;images/strays-in-need-serbia.jpg&amp;rdquo; | absURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;/images/strays-in-need-serbia.jpg&amp;rdquo; | relURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;/images/strays-in-need-serbia.jpg&amp;rdquo; | absURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitglied werden</title>

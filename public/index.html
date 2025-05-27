@@ -156,15 +156,21 @@
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
           <p><strong>1</strong>
-<figure><img src="static/images/strays-in-need-serbia.svg"
+<figure><img src="/images/strays-in-need-serbia.svg"
     alt="Mein Bild" width="300px">
 </figure>
 
 <strong>2</strong>
-{{ $img := &ldquo;static/strays-in-need-serbia.jpg&rdquo; | relURL }}
+{{ $img := &ldquo;images/strays-in-need-serbia.jpg&rdquo; | relURL }}
 <!-- raw HTML omitted --></p>
 <p><strong>3</strong>
-{{ $img := &ldquo;/static/strays-in-need-serbia.jpg&rdquo; | absURL }}
+{{ $img := &ldquo;images/strays-in-need-serbia.jpg&rdquo; | absURL }}
+<!-- raw HTML omitted --></p>
+<p><strong>4</strong>
+{{ $img := &ldquo;/images/strays-in-need-serbia.jpg&rdquo; | relURL }}
+<!-- raw HTML omitted --></p>
+<p><strong>5</strong>
+{{ $img := &ldquo;/images/strays-in-need-serbia.jpg&rdquo; | absURL }}
 <!-- raw HTML omitted --></p>
         </div>
         <a href="/adoptieren/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
