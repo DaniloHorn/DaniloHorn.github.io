@@ -13,28 +13,28 @@
       <link>http://localhost:1313/adoptieren/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/adoptieren/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;strong&gt;2&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;images/strays-in-need-serbia.jpg&amp;rdquo; | relURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;images/strays-in-need-serbia.jpg&amp;rdquo; | absURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;/images/strays-in-need-serbia.jpg&amp;rdquo; | relURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5&lt;/strong&gt;&#xA;{{ $img := &amp;ldquo;/images/strays-in-need-serbia.jpg&amp;rdquo; | absURL }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;1jpg&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2svg&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitglied werden</title>
       <link>http://localhost:1313/mitglied-werden/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mitglied-werden/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Strays in need Serbia&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;1jpg 100px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;100px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2svg 200px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>News</title>
       <link>http://localhost:1313/news/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/news/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Strays in need Serbia&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;1jpg 300px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2svg 400px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;400px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spenden</title>
       <link>http://localhost:1313/spenden/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/spenden/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Strays in need Serbia&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;1jpg 500px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2svg 600px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;600px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unser Verein</title>

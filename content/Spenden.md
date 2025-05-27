@@ -3,6 +3,8 @@ title = 'Spenden'
 date = 2025-05-24
 +++
 
-{{< figure src="/images/strays-in-need-serbia.jpg" alt="Mein Bild" width="300px" >}}
+**1jpg 500px**
+{{< figure src="/images/strays-in-need-serbia.jpg" alt="Mein Bild" width="500px" >}}
 
-**Strays in need Serbia**
+**2svg 600px**
+{{< figure src="/images/strays-in-need-serbia.svg" alt="Mein Bild" width="600px" >}}
