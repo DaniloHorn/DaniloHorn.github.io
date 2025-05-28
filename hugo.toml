@@ -31,3 +31,8 @@ weight = 4
 [params]
   logo = "/images/strays-in-need-serbia.svg"
   footer_text = "Strays in Need – Gemeinsam für eine bessere Zukunft für Tiere."
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
