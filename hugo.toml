@@ -1,36 +1,36 @@
 baseURL = 'https://DaniloHorn.github.io/'
 languageCode = 'en-us'
-title = 'Strays in need Serbia'
 theme = 'ananke'
 
 [[menu.main]]
-name = "🐾 Adoptieren"
+name = "Adoptieren"
 url = "/adoptieren/"
 weight = 2
 
 [[menu.main]]
-name = "🧑‍🤝‍🧑 Mitglied werden"
+name = "Mitglied werden"
 url = "/mitglied-werden/"
 weight = 3
 
 [[menu.main]]
-name = "📰 News"
+name = "News"
 url = "/news/"
 weight = 5
 
 [[menu.main]]
-name = "💖 Spenden"
+name = "Spenden"
 url = "/spenden/"
 weight = 1
 
 [[menu.main]]
-name = "🏠 Unser Verein"
+name = "Unser Verein"
 url = "/unser-verein/"
 weight = 4
 
 [params]
   logo = "/images/strays-in-need-serbia.svg"
   footer_text = "Strays in Need – Gemeinsam für eine bessere Zukunft für Tiere."
+  body_classes = "quicksand bg-washed-yellow"
 
 [markup]
 [markup.goldmark]

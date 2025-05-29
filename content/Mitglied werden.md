@@ -1,6 +1,5 @@
 +++
 title = 'Mitglied werden'
-date = 2025-05-24
 +++
 
 **1jpg 100px**

@@ -23,15 +23,10 @@
       {{ partials.Include "site-navigation.html" . }}
       <div class="tc-l pv2 ph3 ph4-ns"> <!-- ↓ Reduced vertical padding -->
         <h1 class="f3 f1-l fw2 light-silver mb2 lh-title flex items-center justify-center"> <!-- ↓ Smaller font -->
-          <img src="/images/strays-in-need-serbia.svg" alt="Strays in Need Serbia"
-               style="height: 100px; width: 100px; border-radius: 50%; background-color: white; object-fit: cover;"
-               class="mr3"> <!-- ↓ Smaller image -->
-          <span class="no-underline">{{ .Title | compare.Default .Site.Title }}</span>
+          <img src="/images/Zoe-beispiel.jpg" alt="Strays in Need Serbia"
+               style="height: 100%; width: 100%;"> <!-- ↓ Smaller image -->
         </h1>
         {{ with .Params.description }}
-          <h2 class="fw1 f6 f4-l white-80 measure-wide-l center lh-copy mt2 mb3"> <!-- ↓ Smaller subtitle -->
-            {{ . }}
-          </h2>
         {{ end }}
       </div>
     </div>

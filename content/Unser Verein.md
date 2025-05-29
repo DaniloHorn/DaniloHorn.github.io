@@ -1,6 +1,5 @@
 +++ 
 title = 'Unser Verein' 
-date = 2025-05-24 
 +++
 
 <div style="display: flex; gap: 2rem; align-items: center; background: linear-gradient(to right, #f0fdfa, #ecfeff); padding: 2rem; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.05); flex-wrap: wrap;">
