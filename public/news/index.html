@@ -69,44 +69,146 @@
 
   <header>
     <div class="bg-black">
-      <nav class="flex items-center justify-between pa3 bg-dark-gray bb bw1 b--moon-gray">
+      <nav class="flex items-center justify-between pa3 bg-white bb bw1 b--moon-gray">
   <a href="http://localhost:1313/" class="flex items-center no-underline">
     <img src="/images/strays-in-need-serbia.svg" alt="Logo" class="br-100 h3 w3 dib mr3"/>
-    <span class="white f4 fw5">Strays in need Serbia</span>
+    <span class="black f4 fw5">Strays in need Serbia</span>
   </a>
-  <ul class="list flex-ns flex-row-ns flex-column pa0 ma0">
+
+  
+  <ul class="list flex-ns flex-row-ns flex-column pa0 ma0 dn db-ns">
     
       <li class="mh3-ns mv2">
-        <a class="white no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/spenden/">
+        <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/spenden/">
           💖 Spenden
         </a>
       </li>
     
       <li class="mh3-ns mv2">
-        <a class="white no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/adoptieren/">
+        <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/adoptieren/">
           🐾 Adoptieren
         </a>
       </li>
     
       <li class="mh3-ns mv2">
-        <a class="white no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/mitglied-werden/">
+        <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/mitglied-werden/">
           🧑‍🤝‍🧑 Mitglied werden
         </a>
       </li>
     
       <li class="mh3-ns mv2">
-        <a class="white no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/unser-verein/">
+        <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/unser-verein/">
           🏠 Unser Verein
         </a>
       </li>
     
       <li class="mh3-ns mv2">
-        <a class="white no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/news/">
+        <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="/news/">
           📰 News
         </a>
       </li>
     
   </ul>
+
+  
+  <div class="dn-ns">
+    <style>
+  .burger {
+    width: 2rem;
+    height: 2rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    cursor: pointer;
+    z-index: 1001;
+  }
+
+  .burger span {
+    height: 3px;
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    transform-origin: 1px;
+  }
+
+  .burger.open span:nth-child(1) {
+    transform: rotate(45deg);
+  }
+  .burger.open span:nth-child(2) {
+    opacity: 0;
+  }
+  .burger.open span:nth-child(3) {
+    transform: rotate(-45deg);
+  }
+
+  .menu-overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 70%;
+    max-width: 300px;
+    background-color: #1f2937;
+    color: white;
+    padding: 2rem;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.4);
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
+    z-index: 1000;
+  }
+
+  .menu-overlay.open {
+    transform: translateX(0);
+  }
+
+  .menu-overlay ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .menu-overlay li {
+    margin: 1rem 0;
+  }
+
+  .menu-overlay a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+</style>
+
+<div class="burger" onclick="toggleBurger(this)">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
+<div class="menu-overlay" id="mobileMenu">
+  <ul>
+    
+      <li><a href="/spenden/">💖 Spenden</a></li>
+    
+      <li><a href="/adoptieren/">🐾 Adoptieren</a></li>
+    
+      <li><a href="/mitglied-werden/">🧑‍🤝‍🧑 Mitglied werden</a></li>
+    
+      <li><a href="/unser-verein/">🏠 Unser Verein</a></li>
+    
+      <li><a href="/news/">📰 News</a></li>
+    
+  </ul>
+</div>
+
+<script>
+  function toggleBurger(el) {
+    el.classList.toggle('open');
+    document.getElementById('mobileMenu').classList.toggle('open');
+  }
+</script>
+
+  </div>
 </nav>
 
     </div>
@@ -164,35 +266,41 @@
 
     </main>
     <footer class="bg-black-80 white-80 pv4 ph3 ph5-m ph6-l">
-  <div class="mw8 center">
-    <div class="mb3">
-      <p class="f6 measure-wide lh-copy">
-         Gemeinsam für eine bessere Zukunft für Tiere in Not.
-         <br>
-        Serbien - Schweiz
-      </p>
+  <div class="mw8 center flex justify-between">
+    <div class="w-50">
+      <a class="f4 fw4 hover-white white-70 pv2 ph3 no-underline db" href="http://localhost:1313/">
+        Strays in need Serbia
+      </a>
+      <div class="mt3">
+        <p class="f6 measure-wide lh-copy">
+          Gemeinsam für eine bessere Zukunft für Tiere in Not.
+          <br>
+          Serbien - Schweiz
+        </p>
+        <p>Email: 
+          <a href="mailto:strays-in-need-serbia@gmail.com" class="link light-blue hover-white">
+            strays-in-need-serbia@gmail.com
+          </a>
+        </p>
+        <p>Besuche uns auch auf 
+          <a href="https://www.instagram.com/strays_in_need_serbia/" class="link light-blue hover-white">
+            <i class="fab fa-instagram"></i> Instagram
+          </a>
+        </p>
+        <p>Jede kleine Hilfe zählt! 
+          <a href="https://donate.raisenow.io/cctmf?lng=de/" class="link light-blue hover-white">Donate</a>
+        </p>
+      </div>
     </div>
-    <div class="f6 measure lh-copy">
-      <p>Email: <a href="strays-in-need-serbia@gmail.com" class="link light-blue hover-white">strays-in-need-serbia@gmail.com</a></p>
-      <p>Besuche uns auch auf 
-        <a href="https://www.instagram.com/strays_in_need_serbia/" class="link light-blue hover-white">Instagram</a>
-      </p>
-      <p>Jede kleine Hilfe zählt! 
-        <a href="https://donate.raisenow.io/cctmf?lng=de/" class="link light-blue hover-white">Donate</a>
-      </p>
-      <br>
-            <p><h3>Spendenkonto</h3>
-                Verein Strays in need Serbia
-                <br>
-                9000 St. Gallen
-                <br>
-                Aargauische Kantonalbank
-                <br>
-                Kontonummer: 649297282001
-                <br>
-                Bankclearing 761
-                <br>
-                IBAN CH8100761649297282001
+    <div class="w-50 ">
+      <h3>Spendenkonto</h3>
+      <p>Verein Strays in Need Serbia</p>
+      <p>9000 St. Gallen</p>
+      <p>Aargauische Kantonalbank</p>
+      <p>Kontonummer: 649297282001</p>
+      <p>Bankclearing: 761</p>
+      <p>IBAN: CH8100761649297282001</p>
+      <p>
         <a href="https://donate.raisenow.io/cctmf?lng=de/" class="link light-blue hover-white">Donate</a>
       </p>
     </div>

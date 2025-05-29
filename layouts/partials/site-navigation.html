@@ -1,15 +1,22 @@
-<nav class="flex items-center justify-between pa3 bg-dark-gray bb bw1 b--moon-gray">
+<nav class="flex items-center justify-between pa3 bg-white bb bw1 b--moon-gray">
   <a href="{{ .Site.BaseURL }}" class="flex items-center no-underline">
     <img src="{{ .Site.Params.logo | relURL }}" alt="Logo" class="br-100 h3 w3 dib mr3"/>
-    <span class="white f4 fw5">Strays in need Serbia</span>
+    <span class="black f4 fw5">Strays in need Serbia</span>
   </a>
-  <ul class="list flex-ns flex-row-ns flex-column pa0 ma0">
+
+  <!-- Desktop Menu -->
+  <ul class="list flex-ns flex-row-ns flex-column pa0 ma0 dn db-ns">
     {{ range .Site.Menus.main }}
       <li class="mh3-ns mv2">
-        <a class="white no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="{{ .URL | relLangURL }}">
+        <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="{{ .URL | relLangURL }}">
           {{ .Name }}
         </a>
       </li>
     {{ end }}
   </ul>
+
+  <!-- Burger (visible only on mobile) -->
+  <div class="dn-ns">
+    {{ partial "burger-menu.html" . }}
+  </div>
 </nav>

@@ -1,0 +1,87 @@
+<style>
+  .burger {
+    width: 2rem;
+    height: 2rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    cursor: pointer;
+    z-index: 1001;
+  }
+
+  .burger span {
+    height: 3px;
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    transform-origin: 1px;
+  }
+
+  .burger.open span:nth-child(1) {
+    transform: rotate(45deg);
+  }
+  .burger.open span:nth-child(2) {
+    opacity: 0;
+  }
+  .burger.open span:nth-child(3) {
+    transform: rotate(-45deg);
+  }
+
+  .menu-overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 70%;
+    max-width: 300px;
+    background-color: #1f2937;
+    color: white;
+    padding: 2rem;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.4);
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
+    z-index: 1000;
+  }
+
+  .menu-overlay.open {
+    transform: translateX(0);
+  }
+
+  .menu-overlay ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .menu-overlay li {
+    margin: 1rem 0;
+  }
+
+  .menu-overlay a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+</style>
+
+<div class="burger" onclick="toggleBurger(this)">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
+<div class="menu-overlay" id="mobileMenu">
+  <ul>
+    {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+
+<script>
+  function toggleBurger(el) {
+    el.classList.toggle('open');
+    document.getElementById('mobileMenu').classList.toggle('open');
+  }
+</script>
