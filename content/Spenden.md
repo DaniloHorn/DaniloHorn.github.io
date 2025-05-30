@@ -2,7 +2,6 @@
 title = 'Spenden'
 +++
 
-
 <div style="background-color: #f0fdf4; border: 1px solid #d1fae5; padding: 2rem; border-radius: 10px; display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
   <div style="flex: 0 0 500px;">

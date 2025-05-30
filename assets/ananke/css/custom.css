@@ -1,0 +1,18 @@
+.centered-content {
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start; /* Keeps items properly aligned */
+  justify-content: space-between; /* Ensures correct distribution */
+  background-color: #f0fdf4;
+  border: 1px solid #d1fae5;
+  position: relative; /* Allows precise positioning */
+}
+
+.centered-content a {
+  display: inline-block;
+  width: auto;
+  margin-top: auto; /* Pushes the button down */
+  align-self: flex-end; /* Keeps it at the bottom */
+  text-align: left; /* Positions it on the left */
+}

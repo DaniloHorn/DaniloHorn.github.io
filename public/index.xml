@@ -6,7 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>&lt;div class=&#34;centered-content&#34; &gt;&#xD;&#xA;  &lt;div style=&#34;flex: 100%;&#34;&gt;&#xD;&#xA;    &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/gofundme.webp&#34;&#xA;        alt=&#34;gofundme strays in need serbia&#34; width=&#34;100%&#34;&gt;&#xA;    &lt;/figure&gt;&#xA;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color: #065f46; margin-top: 0;&#34;&gt;Neues Projekt auf gofundme&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: #065f46;&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;b&gt;Bau mit uns ein Tierheim für die Strassenhunde von Serbien&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Liebe Hundefreunde,&lt;/p&gt;&#xA;&lt;p&gt;Wir sind Strays in need Serbia, ein Tierschutzverein mit Sitz in der Schweiz. Im April 2025 haben wir unser neues Tierheim in der Stadt Ruma, Serbien eröffnet und stehen noch ganz am Anfang. Unser Ziel ist es, Strassenhunden ein sicheres Zuhause zu bieten, mit Fürsorge, Schutz und einer Perspektive auf ein besseres Leben.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Adoptieren</title>
       <link>http://localhost:1313/adoptieren/</link>
@@ -20,13 +28,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mitglied-werden/</guid>
       <description>&lt;p&gt;&lt;strong&gt;1jpg 100px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;100px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2svg 200px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>http://localhost:1313/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;1jpg 300px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.jpg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2svg 400px&lt;/strong&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/strays-in-need-serbia.svg&#34;&#xA;    alt=&#34;Mein Bild&#34; width=&#34;400px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spenden</title>

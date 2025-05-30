@@ -30,7 +30,8 @@ weight = 4
 [params]
   logo = "/images/strays-in-need-serbia.svg"
   footer_text = "Strays in Need – Gemeinsam für eine bessere Zukunft für Tiere."
-  body_classes = "quicksand bg-washed-yellow"
+  body_classes = "quicksand bg-washed-white"
+  custom_css = ["custom.css"]
 
 [markup]
 [markup.goldmark]
