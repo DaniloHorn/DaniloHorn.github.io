@@ -1,30 +1,27 @@
-<nav class="bg-white bb bw1 b--moon-gray">
-  <div class="flex justify-center items-center pa3">
-    <!-- Container for logo/title and menu -->
-    <div class="flex items-center">
-      
-      <!-- Logo and title -->
-      <a href="{{ .Site.BaseURL }}" class="flex items-center no-underline mr5">
-        <img src="{{ .Site.Params.logo | relURL }}" alt="Logo" class="br-100 h3 w3 dib mr0"/>
-        <span class="navy f4 fw4">Strays in need Serbia</span>
-      </a>
+<nav class="bg-white bb bw1 b--moon-gray z-999 w-100">
+  <div class="mw8 center flex justify-between items-center pa3">
 
-      <!-- Desktop Menu -->
-      <ul class="list flex pa0 ma0">
-        {{ range .Site.Menus.main }}
-          <li class="mh3 mv2">
-            <a class="black no-underline f5 fw4 hover-light-blue hover-no-underline focus-no-underline" href="{{ .URL | relLangURL }}">
-              {{ .Name }}
-            </a>
-          </li>
-        {{ end }}
-      </ul>
+    <!-- Logo -->
+    <a href="{{ .Site.BaseURL }}" class="flex items-center no-underline">
+      <img src="{{ .Site.Params.logo | relURL }}" alt="Logo" class="br-100 h3 w3 mr2"/>
+      <span class="navy f4 fw4">Strays in need Serbia</span>
+    </a>
 
-    </div>
+    <!-- Desktop Menu -->
+    <ul class="list flex pa0 ma0 dn db-ns">
+      {{ range sort .Site.Menus.main "Weight" }}
+        <li class="mh3 mv2">
+          <a class="black no-underline f5 fw4 hover-light-blue" href="{{ .URL | relLangURL }}">
+            {{ .Name }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
 
-    <!-- Burger Menu for mobile -->
-    <div class="dn-ns ml3">
+    <!-- Mobile Menu (Burger) -->
+    <div class="dn-l">
       {{ partial "burger-menu.html" . }}
     </div>
+
   </div>
 </nav>

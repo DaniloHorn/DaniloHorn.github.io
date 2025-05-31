@@ -16,3 +16,9 @@
   align-self: flex-end; /* Keeps it at the bottom */
   text-align: left; /* Positions it on the left */
 }
+
+@media (min-width: 30em) {
+  nav ul {
+    display: flex !important;
+  }
+}
