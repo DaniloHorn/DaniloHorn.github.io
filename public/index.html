@@ -63,8 +63,8 @@
       <span class="navy f4 fw4">Strays in need Serbia</span>
     </a>
 
-    
-<ul class="list flex pa0 ma0 dn db-ns">
+
+<ul class="list pa0 ma0 dn db-ns flex-ns">
   
     <li class="mh3 mv2">
       <a class="black no-underline f5 fw4 hover-light-blue" href="/spenden/">
@@ -130,6 +130,10 @@
   .burger.open span:nth-child(3) {
     transform: rotate(-45deg);
   }
+  .burger.open span {
+  background: white;
+}
+
 
   .menu-overlay {
     position: fixed;
@@ -205,16 +209,25 @@
 
   
   
-    <header>
-      <div class="pb2-m pb4-l bg-white">
-        <div class="tc-l pv2 ph3 ph4-ns">
-          <h1 class="f3 f1-l fw2 light-silver mb2 lh-title flex items-center justify-center">
-            <img src="/images/Zoe-beispiel.jpg" alt="Strays in Need Serbia"
-                 style="height: 100%; width: 100%;">
-          </h1>
+<header>
+      <div style="position: relative;">
+        <img src="/images/Zoe-beispiel.jpg" alt="Strays in Need Serbia" style="width: 100%; height: auto;">
+        
+        <div style="
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              color: white;
+              text-align: center;
+              background-color: rgba(0, 0, 0, 0.4); /* optional: leichte Dimmung für bessere Lesbarkeit */
+              padding: 1rem;
+              border-radius: 4px;">
+          <h1 class="f3 f1-l fw2 light-silver mb2 lh-title">Welcome to Strays in need Serbia homepage</h1>
         </div>
       </div>
-    </header>
+</header>
+
   
 
 
@@ -251,21 +264,76 @@
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <div class="centered-content" >
+          <div class="centered-content single-flex">
   <div style="flex: 100%;">
     <figure><img src="/images/gofundme.webp"
         alt="gofundme strays in need serbia" width="100%">
     </figure>
 
   </div>
-  <div style="flex: 1;">
+  <!-- Neuer Wrapper für den Text und den Button -->
+  <div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h2 style="color: #065f46; margin-top: 0;">Neues Projekt auf gofundme</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color: #065f46;">
-<p><b>Bau mit uns ein Tierheim für die Strassenhunde von Serbien</b></p>
-<p>Liebe Hundefreunde,</p>
-<p>Wir sind Strays in need Serbia, ein Tierschutzverein mit Sitz in der Schweiz. Im April 2025 haben wir unser neues Tierheim in der Stadt Ruma, Serbien eröffnet und stehen noch ganz am Anfang. Unser Ziel ist es, Strassenhunden ein sicheres Zuhause zu bieten, mit Fürsorge, Schutz und einer Perspektive auf ein besseres Leben.</p>
+    <p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
+      <b>Bau mit uns ein Tierheim für die Strassenhunde von Serbien</b>
+      <br><br>
+      Liebe Hundefreunde,
+      <br><br>
+      Wir sind Strays in need Serbia, ein Tierschutzverein mit Sitz in der Schweiz. Im April 2025 haben wir unser neues Tierheim in der Stadt Ruma, Serbien eröffnet und stehen noch ganz am Anfang. Unser Ziel ist es, Strassenhunden ein sicheres Zuhause zu bieten, mit Fürsorge, Schutz und einer Perspektive auf ein besseres Leben.
+      <br><br>
+      Doch um ihnen wirklich helfen zu können, brauchen wir dringend deine Unterstützung!
+    </p>
         </div>
         <a href="/news/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/spenden/" class="color-inherit dim link">
+            Spenden
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <div class="centered-content single-flex" style="background-color:rgb(233, 254, 255); border: 1px solid rgb(180, 255, 255);">
+  <div style="flex: 100%; text-align: center;">
+    <figure><img src="/images/4dogsinneedserbia.jpg"
+        alt="Spendenkonto Information" width="300px">
+    </figure>
+
+  </div>
+  <!-- Wrapper containing the donation account details -->
+  <div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+    <h2 style="color:rgb(6, 85, 95); margin-top: 0;">Spendenkonto</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
+      <b>Spendenkonto Informationen:</b>
+      <br><br>
+      <strong>Verein:</strong> Strays in Need Serbia
+      <br>
+      <strong>Ort:</strong> 9000 St. Gallen
+      <br>
+      <strong>Bank:</strong> Aargauische Kantonalbank
+      <br>
+      <strong>Kontonummer:</strong> 649297282001
+      <br>
+      <strong>Bankclearing:</strong> 761
+      <br>
+      <strong>IBAN:</strong> CH8100761649297282001
+      <br><br>
+      Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Maßnahmen zu finanzieren.
+    </p>
+        </div>
+        <a href="/spenden/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
       </div>
     </div>
   </div>
@@ -286,57 +354,25 @@
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; background-color: #fff9db; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+          <p><strong>coming soon&hellip;</strong></p>
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; background-color: #e7f0fd; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="flex: 0 0 300px;">
-    <figure><img src="/images/strays-in-need-serbia.jpg"
-        alt="Mein Bild" width="300px">
+    <figure><img src="/images/strays-in-need-serbia.svg"
+        alt="Logo" width="300px">
     </figure>
 
   </div>
   <div style="flex: 1;">
-    <h2 style="margin-top: 0; color: #333;">Bereit für ein neues Zuhause</h2>
+    <h2 style="margin-top: 0; color: #333;">Unsere Mission</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
-      Unsere Hunde warten sehnsüchtig auf ein liebevolles Zuhause. Jeder bringt seine eigene Geschichte,
-      seinen Charakter und ganz viel Herz mit.
+      Wir helfen Straßenhunden in Serbien ein neues Leben zu beginnen. Sei ein Teil dieser Veränderung –
+      durch Adoption, Spende oder Unterstützung.
     </p>
-    <a href="/kontakt/" style="display: inline-block; margin-top: 1rem; background-color: #005f5f; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Jetzt Kontakt aufnehmen</a>
+    <a href="/unser-verein/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
-<p><strong>Unser Logo</strong></p>
         </div>
         <a href="/adoptieren/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="w-100 mb4 relative">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
-    <div class="flex-column flex-row-ns flex">
-      
-      <div class="blah w-100">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/mitglied-werden/" class="color-inherit dim link">
-            Mitglied werden
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <p><strong>1jpg 100px</strong>
-<figure><img src="/images/strays-in-need-serbia.jpg"
-    alt="Mein Bild" width="100px">
-</figure>
-</p>
-<p><strong>2svg 200px</strong>
-<figure><img src="/images/strays-in-need-serbia.svg"
-    alt="Mein Bild" width="200px">
-</figure>
-</p>
-        </div>
-        <a href="/mitglied-werden/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
       </div>
     </div>
   </div>
@@ -352,8 +388,8 @@
           
           
             <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/spenden/" class="link black dim">
-                Spenden
+              <a href="/mitglied-werden/" class="link black dim">
+                Mitglied werden
               </a>
             </h2>
           
@@ -370,48 +406,52 @@
   
 
     </main>
-    <footer class="bg-black-80 white-80 pv4 ph3 ph5-m ph6-l">
-  <div class="mw8 center flex justify-between">
-    <div class="w-50">
+    <footer class="bg-black-80 white pv4 ph3 ph5-m ph6-l">
+  <div class="mw8 center flex flex-wrap justify-between items-start">
+    
+    <div class="w-100 w-50-ns mb4 mb0-ns">
       <a class="f4 fw4 hover-white white-70 pv2 ph3 no-underline db" href="http://localhost:1313/">
         
       </a>
-      <div class="mt3 lh-solid">
-        <p class="f6 measure-wide lh-solid">
-          Gemeinsam für eine bessere Zukunft für Tiere in Not.
-          <br>
+      <div class="mt3 lh-copy">
+        <p class="f6 measure lh-copy">
+          Gemeinsam für eine bessere Zukunft für Tiere in Not.<br>
           Serbien - Schweiz
         </p>
-        <p>Email: 
+        <p class="f6 lh-copy">
+          Email: 
           <a href="mailto:straysinneedserbia@gmail.com" class="link light-blue hover-white">
             straysinneedserbia@gmail.com
           </a>
         </p>
-        <p>Besuche uns auch auf:
+        <p class="f6 lh-copy">
+          Besuche uns auch auf: 
           <a href="https://www.instagram.com/strays_in_need_serbia/" class="link light-blue hover-white">
             <i class="fab fa-instagram"></i> Instagram
           </a>
         </p>
-        <p>Jede kleine Hilfe zählt! 
+        <p class="f6 lh-copy">
+          Jede kleine Hilfe zählt! 
           <a href="https://donate.raisenow.io/cctmf?lng=de/" class="link light-blue hover-white">Donate</a>
         </p>
       </div>
     </div>
-    <div class="mw6 lh-solid">
-      <h3>Spendenkonto</h3>
-      <p>Verein Strays in Need Serbia</p>
-      <p>9000 St. Gallen</p>
-      <p>Aargauische Kantonalbank</p>
-      <p>Kontonummer: 649297282001</p>
-      <p>Bankclearing: 761</p>
-      <p>IBAN: CH8100761649297282001</p>
-      <p>
+
+    
+    <div class="w-100 w-40-ns lh-copy">
+      <h3 class="f5 fw6 mb2">Spendenkonto</h3>
+      <p class="f6">Verein Strays in Need Serbia</p>
+      <p class="f6">9000 St. Gallen</p>
+      <p class="f6">Aargauische Kantonalbank</p>
+      <p class="f6">Kontonummer: 649297282001</p>
+      <p class="f6">Bankclearing: 761</p>
+      <p class="f6">IBAN: CH8100761649297282001</p>
+      <p class="f6 mt3">
         <a href="https://donate.raisenow.io/cctmf?lng=de/" class="link light-blue hover-white">Donate</a>
       </p>
     </div>
   </div>
 </footer>
-
 
   </body>
 </html>

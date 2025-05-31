@@ -8,13 +8,14 @@
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/spenden/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/adoptieren/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/mitglied-werden/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spenden/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
