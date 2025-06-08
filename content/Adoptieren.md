@@ -16,7 +16,7 @@ date = 2025-06-07
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
       Das ist Cute Dog. Es soll als Beispiel dienen, wie wir zukünftig gerettete Hunde präsentieren könnten.
     </p>
-    <a href="/CuteDog/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/cutedog/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 
 </div>

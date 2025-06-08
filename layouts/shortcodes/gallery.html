@@ -5,9 +5,9 @@
   {{ range readDir (printf "static/images/%s" $folder) }}
     {{ $ext := lower (path.Ext .Name) }}
     {{ if in (slice ".jpg" ".jpeg" ".png" ".gif") $ext }}
-<a href="/images/{{ $folder }}/{{ .Name }}" class="glightbox" data-gallery="{{ $folder }}" data-title="{{ .Name }}">
-  <img src="/images/{{ $folder }}/{{ .Name }}" alt="{{ $title }} - {{ .Name }}" style="width: 100%; border-radius: 8px;" />
-</a>
+    <a href="/images/{{ $folder }}/{{ .Name }}" class="glightbox" data-gallery="{{ $folder }}" data-title="{{ .Name }}">
+        <img src="/images/{{ $folder }}/{{ .Name }}" alt="{{ $title }} - {{ .Name }}" style="width: 100%; border-radius: 8px;" />
+    </a>
     {{ end }}
   {{ end }}
 </div>
