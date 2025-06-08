@@ -1,9 +1,12 @@
+{{ $folder := .Get "folder" }}
+{{ $title := .Get "title" | default $folder }}
+
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem;">
-  {{ range readDir "static/images/cutie" }}
+  {{ range readDir (printf "static/images/%s" $folder) }}
     {{ $ext := lower (path.Ext .Name) }}
     {{ if in (slice ".jpg" ".jpeg" ".png" ".gif") $ext }}
-      <a href="/images/cutie/{{ .Name }}" data-lightbox="cutie" data-title="{{ .Name }}">
-        <img src="/images/cutie/{{ .Name }}" alt="{{ .Name }}" style="width: 100%; border-radius: 8px;" />
+      <a href="/images/{{ $folder }}/{{ .Name }}" data-lightbox="{{ $folder }}" data-title="{{ .Name }}">
+        <img src="/images/{{ $folder }}/{{ .Name }}" alt="{{ .Name }}" style="width: 100%; border-radius: 8px;" />
       </a>
     {{ end }}
   {{ end }}
