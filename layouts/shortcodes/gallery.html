@@ -1,0 +1,10 @@
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem;">
+  {{ range readDir "static/images/cutie" }}
+    {{ $ext := lower (path.Ext .Name) }}
+    {{ if in (slice ".jpg" ".jpeg" ".png" ".gif") $ext }}
+      <a href="/images/cutie/{{ .Name }}" data-lightbox="cutie" data-title="{{ .Name }}">
+        <img src="/images/cutie/{{ .Name }}" alt="{{ .Name }}" style="width: 100%; border-radius: 8px;" />
+      </a>
+    {{ end }}
+  {{ end }}
+</div>

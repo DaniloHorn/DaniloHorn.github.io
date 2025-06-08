@@ -35,3 +35,81 @@ title = 'Unser Verein'
   </div>
 
 </div>
+
+## Unsere Mitglieder
+
+<div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 3rem;">
+
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Daniela" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Daniela</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ...]</p>
+      <p>[ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; background-color: #fefce8; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Sibylle" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Sibylle</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>[ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; background-color: #ecfdf5; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Fredy" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Fredy</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>[ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; background-color: #f0f9ff; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Nicole" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Nicole</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>[ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; background-color: #fff7ed; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Danijela</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>[ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; background-color:rgb(237, 232, 250); padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danilo" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Danilo</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>[ ... ]</p>
+    </div>
+  </div>
+
+</div>

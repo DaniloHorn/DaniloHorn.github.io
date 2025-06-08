@@ -1,6 +1,6 @@
 +++
 title = 'News'
-date = 2025-05-30
+date = 2025-06-08
 +++
 
 <div class="centered-content single-flex">

@@ -3,15 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
-    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spenden/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/adoptieren/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/spenden/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/datenschutzerkl%C3%A4rung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/impressum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cutedog/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
