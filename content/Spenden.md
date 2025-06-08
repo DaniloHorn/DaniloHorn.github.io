@@ -27,8 +27,7 @@ date = 2025-06-07
     <div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h2 style="color:rgb(6, 85, 95); margin-top: 0;">Twint oder PayPal</h2>
         <p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
-      <b>Spende via <img src="/images/twint-logo-open-graph.webp" alt="TWINT" style="height: 30px;"> 
-      <br> oder <img src="/images/paypal.png" alt="TWINT" style="height: 30px;"></b>
+      <b>Spende via TWINT oder paypal</b>
     <a class="cta-btn" href="https://donate.raisenow.io/cctmf?lng=de/" style="background-color:rgb(16, 174, 185); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none;">Jetzt Spenden</a>
   </div>
     <div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
