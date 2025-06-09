@@ -8,8 +8,9 @@
   position: relative; 
 }
 
-@media (min-width: 30em) {
-  nav ul {
-    display: flex !important;
+@media (hover: none) and (pointer: coarse) {
+  .gallery-preview-overlay {
+    opacity: 1 !important;
   }
 }
+

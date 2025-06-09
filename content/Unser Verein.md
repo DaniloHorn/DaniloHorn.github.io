@@ -38,7 +38,7 @@ title = 'Unser Verein'
 
 ## Unsere Mitglieder
 
-<div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 3rem;">
+<div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
 
   <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
@@ -52,7 +52,7 @@ title = 'Unser Verein'
     </div>
   </div>
 
-  <div style="display: flex; gap: 2rem; background-color: #fefce8; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Sibylle" width="180px" >}}
     </div>
@@ -64,7 +64,7 @@ title = 'Unser Verein'
     </div>
   </div>
 
-  <div style="display: flex; gap: 2rem; background-color: #ecfdf5; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Fredy" width="180px" >}}
     </div>
@@ -76,7 +76,7 @@ title = 'Unser Verein'
     </div>
   </div>
 
-  <div style="display: flex; gap: 2rem; background-color: #f0f9ff; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Nicole" width="180px" >}}
     </div>
@@ -88,7 +88,7 @@ title = 'Unser Verein'
     </div>
   </div>
 
-  <div style="display: flex; gap: 2rem; background-color: #fff7ed; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
     </div>
@@ -100,7 +100,7 @@ title = 'Unser Verein'
     </div>
   </div>
 
-  <div style="display: flex; gap: 2rem; background-color:rgb(237, 232, 250); padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danilo" width="180px" >}}
     </div>

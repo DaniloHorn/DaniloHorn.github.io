@@ -11,26 +11,64 @@
 
 
 
+
+
+
+  
   
     
+  
+
+  
+  
     
+  
+
+  
+  
     
-        
+  
+
+  
+  
     
+  
+
+  
+  
+    
+  
+
+
+
+  
+
+  
+
+  
+    
+      
+      Galerie anzeigen
+    
+  
+
+  
     
   
     
-    
-    
-        
-    
+      
     
   
     
+      
     
+  
     
-        
+      
     
+  
+    
+      
     
   
 
@@ -84,25 +122,28 @@
 
     <meta property="og:url" content="http://localhost:1313/cutedog/">
   <meta property="og:title" content="Adoptiere Cutie">
-  <meta property="og:description" content="CutieRasse: Super CuteGeburtstag: 08.06.2025Geschlecht MännlichHerkunft: Ruma / SerbiaGefunden am: 08.06.2025Cutie ist ein junges Mädchen welcher ausserhalb der Stadt Ruma aufgefunden wurde.Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.">
+  <meta property="og:description" content="Galerie anzeigenCutieRasse: Super CuteGeburtstag: 08.06.2025Geschlecht MännlichHerkunft: Ruma / SerbiaGefunden am: 08.06.2025Cutie ist ein junges Mädchen welcher ausserhalb der Stadt Ruma aufgefunden wurde.Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
 
   <meta itemprop="name" content="Adoptiere Cutie">
-  <meta itemprop="description" content="CutieRasse: Super CuteGeburtstag: 08.06.2025Geschlecht MännlichHerkunft: Ruma / SerbiaGefunden am: 08.06.2025Cutie ist ein junges Mädchen welcher ausserhalb der Stadt Ruma aufgefunden wurde.Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.">
-  <meta itemprop="wordCount" content="52">
+  <meta itemprop="description" content="Galerie anzeigenCutieRasse: Super CuteGeburtstag: 08.06.2025Geschlecht MännlichHerkunft: Ruma / SerbiaGefunden am: 08.06.2025Cutie ist ein junges Mädchen welcher ausserhalb der Stadt Ruma aufgefunden wurde.Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.">
+  <meta itemprop="wordCount" content="54">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Adoptiere Cutie">
-  <meta name="twitter:description" content="CutieRasse: Super CuteGeburtstag: 08.06.2025Geschlecht MännlichHerkunft: Ruma / SerbiaGefunden am: 08.06.2025Cutie ist ein junges Mädchen welcher ausserhalb der Stadt Ruma aufgefunden wurde.Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.">
+  <meta name="twitter:description" content="Galerie anzeigenCutieRasse: Super CuteGeburtstag: 08.06.2025Geschlecht MännlichHerkunft: Ruma / SerbiaGefunden am: 08.06.2025Cutie ist ein junges Mädchen welcher ausserhalb der Stadt Ruma aufgefunden wurde.Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.">
 
 	
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lightbox = GLightbox({ selector: '.glightbox' });
+  });
+</script>
 
   </head><body class="ma0 quicksand bg-washed-white development">
 
@@ -290,30 +331,104 @@
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem;">
+
+
+
+
+  
   
     
+  
+
+  
+  
     
+  
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+
+  
+
+  <style>
+    .gallery-preview-container {
+      position: relative;
+      width: 100%;
+      cursor: pointer;
+    }
+    .gallery-preview-container img {
+      width: 100%;
+      border-radius: 8px;
+      display: block;
+    }
+    .gallery-preview-overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.4);
+      color: white;
+      font-size: 1.2rem;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .gallery-preview-container:hover .gallery-preview-overlay,
+    .gallery-preview-container:focus-within .gallery-preview-overlay {
+      opacity: 1;
+    }
+    @media (hover: none) and (pointer: coarse) {
+        .gallery-preview-overlay {
+         opacity: 1 !important;
+        }
+    }
+  </style>
+
+  <div class="gallery-preview-container">
     <a href="/images/cutie/cutie1.jpg" class="glightbox" data-gallery="cutie" data-title="cutie1.jpg">
-        <img src="/images/cutie/cutie1.jpg" alt="cutie - cutie1.jpg" style="width: 100%; border-radius: 8px;" />
+      <img src="/images/cutie/cutie1.jpg" alt="cutie - cutie1.jpg" />
+      <div class="gallery-preview-overlay">Galerie anzeigen</div>
     </a>
+  </div>
+
+  
     
   
     
-    
-    <a href="/images/cutie/cutie2.jpg" class="glightbox" data-gallery="cutie" data-title="cutie2.jpg">
-        <img src="/images/cutie/cutie2.jpg" alt="cutie - cutie2.jpg" style="width: 100%; border-radius: 8px;" />
-    </a>
+      <a href="/images/cutie/cutie2.jpg" class="glightbox" data-gallery="cutie" data-title="cutie2.jpg" style="display: none;"></a>
     
   
     
-    
-    <a href="/images/cutie/cutie3.jpg" class="glightbox" data-gallery="cutie" data-title="cutie3.jpg">
-        <img src="/images/cutie/cutie3.jpg" alt="cutie - cutie3.jpg" style="width: 100%; border-radius: 8px;" />
-    </a>
+      <a href="/images/cutie/cutie3.jpg" class="glightbox" data-gallery="cutie" data-title="cutie3.jpg" style="display: none;"></a>
     
   
-</div>
+    
+      <a href="/images/cutie/cutie4.jpg" class="glightbox" data-gallery="cutie" data-title="cutie4.jpg" style="display: none;"></a>
+    
+  
+    
+      <a href="/images/cutie/cutie5.jpg" class="glightbox" data-gallery="cutie" data-title="cutie5.jpg" style="display: none;"></a>
+    
+  
+
 
   <div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h2 style="color:rgb(6, 85, 95); margin-top: 0;">Cutie</h2>
@@ -332,7 +447,7 @@
       <br><br>
       Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.
     </p>
-    <a class="cta-btn" href="/Spenden/" style="background-color:rgb(16, 174, 185); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none;">Jetzt Spenden</a>
+    <a class="cta-btn" href="/spenden/" style="background-color:rgb(16, 174, 185); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none;">Jetzt Spenden</a>
   </div>
 </div>
 <ul class="pa0">
@@ -381,7 +496,7 @@
         </p>
         <p class="f6 lh-copy">
           Jede kleine Hilfe zählt! 
-          <a href="/Spenden/" class="link light-blue hover-white"><u>Spenden</u></a>
+          <a href="/spenden/" class="link light-blue hover-white"><u>Spenden</u></a>
         </p>
       </div>
     </div>
@@ -389,10 +504,10 @@
     
     <div class="w-100 w-40-ns lh-copy">
       <p class="f6 mt3">
-        <a href="/Impressum/" class="link light-blue hover-white"><u>Impressum</u></a>
+        <a href="/impressum/" class="link light-blue hover-white"><u>Impressum</u></a>
       </p>
       <p class="f6 mt3">
-        <a href="/Datenschutzerklärung/" class="link light-blue hover-white"><u>Datenschutzerklärung</u></a>
+        <a href="/datenschutzerklärung/" class="link light-blue hover-white"><u>Datenschutzerklärung</u></a>
       </p>
     </div>
   </div>

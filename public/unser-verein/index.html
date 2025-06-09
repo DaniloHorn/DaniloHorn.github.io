@@ -62,13 +62,16 @@
   <meta name="twitter:description" content="Strays in need SerbiaUnser Verein kämpft mit Herz und Tat für das Leben verlassener Hunde in Serbien. Wir bieten Schutz, Pflege und ein neues Zuhause – mit deiner Hilfe!">
 
 	
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lightbox = GLightbox({ selector: '.glightbox' });
+  });
+</script>
 
   </head><body class="ma0 quicksand bg-washed-white development">
 
@@ -285,7 +288,7 @@
   </div>
 </div>
 <h2 id="unsere-mitglieder">Unsere Mitglieder</h2>
-<div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 3rem;">
+<div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
   <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       <figure><img src="/images/strays-in-need-serbia.jpg"
@@ -300,7 +303,7 @@
       <p>[ ... ]</p>
     </div>
   </div>
-  <div style="display: flex; gap: 2rem; background-color: #fefce8; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       <figure><img src="/images/strays-in-need-serbia.jpg"
           alt="Strays in need Serbia Sibylle" width="180px">
@@ -314,7 +317,7 @@
       <p>[ ... ]</p>
     </div>
   </div>
-  <div style="display: flex; gap: 2rem; background-color: #ecfdf5; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       <figure><img src="/images/strays-in-need-serbia.jpg"
           alt="Strays in need Serbia Fredy" width="180px">
@@ -328,7 +331,7 @@
       <p>[ ... ]</p>
     </div>
   </div>
-  <div style="display: flex; gap: 2rem; background-color: #f0f9ff; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       <figure><img src="/images/strays-in-need-serbia.jpg"
           alt="Strays in need Serbia Nicole" width="180px">
@@ -342,7 +345,7 @@
       <p>[ ... ]</p>
     </div>
   </div>
-  <div style="display: flex; gap: 2rem; background-color: #fff7ed; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       <figure><img src="/images/strays-in-need-serbia.jpg"
           alt="Strays in need Serbia Danijela" width="180px">
@@ -356,7 +359,7 @@
       <p>[ ... ]</p>
     </div>
   </div>
-  <div style="display: flex; gap: 2rem; background-color:rgb(237, 232, 250); padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+  <div style="display: flex; gap: 2rem; background-color: #f1f5f9; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       <figure><img src="/images/strays-in-need-serbia.jpg"
           alt="Strays in need Serbia Danilo" width="180px">
@@ -417,7 +420,7 @@
         </p>
         <p class="f6 lh-copy">
           Jede kleine Hilfe zählt! 
-          <a href="/Spenden/" class="link light-blue hover-white"><u>Spenden</u></a>
+          <a href="/spenden/" class="link light-blue hover-white"><u>Spenden</u></a>
         </p>
       </div>
     </div>
@@ -425,10 +428,10 @@
     
     <div class="w-100 w-40-ns lh-copy">
       <p class="f6 mt3">
-        <a href="/Impressum/" class="link light-blue hover-white"><u>Impressum</u></a>
+        <a href="/impressum/" class="link light-blue hover-white"><u>Impressum</u></a>
       </p>
       <p class="f6 mt3">
-        <a href="/Datenschutzerklärung/" class="link light-blue hover-white"><u>Datenschutzerklärung</u></a>
+        <a href="/datenschutzerklärung/" class="link light-blue hover-white"><u>Datenschutzerklärung</u></a>
       </p>
     </div>
   </div>

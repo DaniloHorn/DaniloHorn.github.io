@@ -21,6 +21,6 @@ title = 'Adoptiere Cutie'
       <br><br>
       Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.
     </p>
-    <a class="cta-btn" href="/Spenden/" style="background-color:rgb(16, 174, 185); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none;">Jetzt Spenden</a>
+    <a class="cta-btn" href="/spenden/" style="background-color:rgb(16, 174, 185); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none;">Jetzt Spenden</a>
   </div>
 </div>

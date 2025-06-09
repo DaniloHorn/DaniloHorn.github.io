@@ -72,13 +72,16 @@ Cute Dog BeispielDas ist Cute Dog. Es soll als Beispiel dienen, wie wir zukünf
 Cute Dog BeispielDas ist Cute Dog. Es soll als Beispiel dienen, wie wir zukünftig gerettete Hunde präsentieren könnten.Mehr erfahren">
 
 	
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lightbox = GLightbox({ selector: '.glightbox' });
+  });
+</script>
 
   </head><body class="ma0 quicksand bg-washed-white development">
 
@@ -326,7 +329,7 @@ Cute Dog BeispielDas ist Cute Dog. Es soll als Beispiel dienen, wie wir zukünf
         </p>
         <p class="f6 lh-copy">
           Jede kleine Hilfe zählt! 
-          <a href="/Spenden/" class="link light-blue hover-white"><u>Spenden</u></a>
+          <a href="/spenden/" class="link light-blue hover-white"><u>Spenden</u></a>
         </p>
       </div>
     </div>
@@ -334,10 +337,10 @@ Cute Dog BeispielDas ist Cute Dog. Es soll als Beispiel dienen, wie wir zukünf
     
     <div class="w-100 w-40-ns lh-copy">
       <p class="f6 mt3">
-        <a href="/Impressum/" class="link light-blue hover-white"><u>Impressum</u></a>
+        <a href="/impressum/" class="link light-blue hover-white"><u>Impressum</u></a>
       </p>
       <p class="f6 mt3">
-        <a href="/Datenschutzerklärung/" class="link light-blue hover-white"><u>Datenschutzerklärung</u></a>
+        <a href="/datenschutzerklärung/" class="link light-blue hover-white"><u>Datenschutzerklärung</u></a>
       </p>
     </div>
   </div>
