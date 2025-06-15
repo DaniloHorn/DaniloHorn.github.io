@@ -22,6 +22,10 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/freiwilligenarbeit/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kontakt/</loc>
+  </url><url>
     <loc>http://localhost:1313/mitglied-werden/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
