@@ -6,7 +6,7 @@
 
 {{ range $images }}
   {{ $ext := lower (path.Ext .Name) }}
-  {{ if in (slice ".jpg" ".jpeg" ".png" ".gif") $ext }}
+  {{ if in (slice ".jpg" ".jpeg" ".png" ".gif" ".mp4") $ext }}
     {{ $validImages = $validImages | append . }}
   {{ end }}
 {{ end }}

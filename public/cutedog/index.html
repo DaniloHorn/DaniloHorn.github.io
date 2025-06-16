@@ -42,11 +42,14 @@
 
 
   
+  
 
   
 
   
     
+      
+        
       
       Galerie anzeigen
     
@@ -398,6 +401,7 @@
 
 
   
+  
 
   <style>
     .gallery-preview-container {
@@ -405,7 +409,8 @@
       width: 100%;
       cursor: pointer;
     }
-    .gallery-preview-container img {
+    .gallery-preview-container img,
+    .gallery-preview-container video {
       width: 100%;
       border-radius: 8px;
       display: block;
@@ -431,15 +436,17 @@
       opacity: 1;
     }
     @media (hover: none) and (pointer: coarse) {
-        .gallery-preview-overlay {
-         opacity: 1 !important;
-        }
+      .gallery-preview-overlay {
+        opacity: 1 !important;
+      }
     }
   </style>
 
   <div class="gallery-preview-container">
     <a href="/images/cutie/cutie1.jpg" class="glightbox" data-gallery="cutie" data-title="cutie1.jpg">
-      <img src="/images/cutie/cutie1.jpg" alt="cutie - cutie1.jpg" />
+      
+        <img src="/images/cutie/cutie1.jpg" alt="cutie - cutie1.jpg" />
+      
       <div class="gallery-preview-overlay">Galerie anzeigen</div>
     </a>
   </div>
