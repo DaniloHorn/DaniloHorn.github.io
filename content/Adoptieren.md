@@ -3,7 +3,7 @@ title = 'Adoptieren'
 date = 2025-06-07
 +++
 
-<div class="centered-content single-flex" style="display: flex; background-color: #e7f0fd; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/saru/saru1.jpg" alt="Saru" width="300px" >}}
   </div>
@@ -17,7 +17,7 @@ date = 2025-06-07
   </div>
 </div>
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; background-color: #e7f0fd; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="flex: 0 0 300px;">
     {{< figure src="/images/cutedog.jpeg" alt="cutedog" width="300px" >}}
   </div>

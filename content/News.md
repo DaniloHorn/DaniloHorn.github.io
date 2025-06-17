@@ -9,7 +9,7 @@ date = 2025-06-08
   </div>
 
   <!-- Neuer Wrapper für den Text und den Button -->
-  <div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h2 style="color: #065f46; margin-top: 0;">Neues Projekt auf gofundme</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
       <b>Bau mit uns ein Tierheim für die Strassenhunde von Serbien</b>
