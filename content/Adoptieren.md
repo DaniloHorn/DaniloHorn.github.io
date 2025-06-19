@@ -11,21 +11,9 @@ date = 2025-06-07
   <div style="flex: 1;">
     <h2 style="margin-top: 0; color: #333;">Saru</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
-      Das ist Saru.
+      Saru ist ein sensibler, etwa 4–5 Jahre alter Rüde, der nach einem Leben voller Angst nun endlich ein liebevolles Zuhause sucht. Er ist freundlich und ruhig, braucht aber viel Geduld, um Vertrauen zu fassen – ein sicherer Einzelplatz wäre sein grosses Glück..
     </p>
     <a href="/saru/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <div style="flex: 0 0 300px;">
-    {{< figure src="/images/cutedog.jpeg" alt="cutedog" width="300px" >}}
-  </div>
-  <div style="flex: 1;">
-    <h2 style="margin-top: 0; color: #333;">Cute Dog Beispiel</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
-      Das ist Cute Dog. Es soll als Beispiel dienen, wie wir zukünftig gerettete Hunde präsentieren könnten.
-    </p>
-    <a href="/cutedog/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
-  </div>
-</div>
