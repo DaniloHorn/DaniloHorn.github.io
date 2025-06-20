@@ -38,10 +38,15 @@ url = "/kontakt/"
 weight = 7
 
 [params]
-  logo = "/images/strays-in-need-serbia.svg"
+  logo = "/images/strays-in-need-serbia.jpg"
   footer_text = "Strays in Need – Gemeinsam für eine bessere Zukunft für Tiere."
   body_classes = "quicksand bg-washed-white"
   custom_css = ["custom.css"]
+    ananke_socials = [
+    { name = "instagram", url = "https://www.instagram.com/strays_in_need_serbia/" },
+    { name = "email", url = "https://www.paypal.com/donate/..." },
+    { name = "spenden", url = "/spenden/" }
+  ]
 
 [markup]
 [markup.goldmark]
