@@ -45,23 +45,7 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
 
 </div>
 
-<div style="border: 2px dashed #fbcfe8; border-radius: 20px; padding: 2.5rem; display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
-
-  <div style="flex: 0 0 300px;">
-    {{< figure src="/images/strays-in-need-serbia.jpg" alt="Mein Bild" width="300px" >}}
-  </div>
-
-  <div style="flex: 1;">
-    <h2 style="color: #9d174d;">Strays in need Serbia ausgangslage Schweiz</h2>
-    <p style="font-size: 1.1rem; color: #4b5563;">
-      Seit unserer Gründung setzen wir uns für ausgesetzte und verletzte Hunde in Serbien ein. 
-      Unsere Arbeit basiert auf Mitgefühl, Freiwilligenarbeit und Transparenz.
-    </p>
-    <a href="/unser-verein/" style="background: #ec4899; color: white; padding: 0.6rem 1.4rem; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 1rem;">Erfahre mehr</a>
-  </div>
-
-</div>
-<div class="centered-content single-flex" ><h2>Unsere Mitglieder<h2></div>
+<div class="centered-content single-flex" ><h3>Unsere Mitglieder<h3></div>
 <div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
