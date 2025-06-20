@@ -222,21 +222,19 @@ Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider mü
         
           <li class="mh2 mv2 relative">
             
-            <span class="menu-toggle no-underline f5 fw4 hover-light-blue black" style="cursor: pointer;">
-              Mitglied werden <i class="fas fa-chevron-down ml1"></i>
+            <a class="parent-link no-underline f5 fw4 hover-light-blue black" 
+               href="/mitglied-werden/">
+              Mitglied werden
+            </a>
+            
+            <span class="menu-arrow" style="cursor: pointer; margin-left: 5px;">
+              <i class="fas fa-chevron-down"></i>
             </span>
             
-            <ul class="submenu absolute bg-black-50 shadow pa2 mt1 z-999" style="display: none; min-width: 150px;">
-              
-              <li class="mb1">
-                <span class="no-underline f5 fw4 hover-light-blue white" style="cursor: pointer;">
-                  Mitglied werden
-                </span>
-              </li>
-              
+            <ul class="submenu absolute pa3 z-999" style="display: none; min-width: 200px; top: 100%; left: 0; background-color: #fff; color: #000; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
               
                 <li class="mb1">
-                  <a class="no-underline f5 fw4 hover-light-blue white" href="/freiwilligenarbeit/">
+                  <a class="no-underline f5 fw4 hover-light-blue" style="color: #000; display: block; padding: 0.5rem;" href="/freiwilligenarbeit/">
                     Freiwilligenarbeit
                   </a>
                 </li>
@@ -304,9 +302,8 @@ Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider mü
     transform: rotate(-45deg);
   }
   .burger.open span {
-  background: white;
-}
-
+    background: white;
+  }
 
   .menu-overlay {
     position: fixed;
@@ -331,6 +328,7 @@ Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider mü
   .menu-overlay ul {
     list-style: none;
     padding: 0;
+    margin: 0;
   }
 
   .menu-overlay li {
@@ -341,6 +339,12 @@ Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider mü
     color: white;
     text-decoration: none;
     font-size: 1.2rem;
+  }
+  
+   
+  .menu-overlay ul ul {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
   }
 </style>
 
@@ -353,17 +357,41 @@ Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider mü
 <div class="menu-overlay" id="mobileMenu">
   <ul>
     
-      <li><a href="/spenden/">Spenden</a></li>
+      <li>
+        <a href="/spenden/">Spenden</a>
+        
+      </li>
     
-      <li><a href="/news/">News</a></li>
+      <li>
+        <a href="/news/">News</a>
+        
+      </li>
     
-      <li><a href="/adoptieren/">Adoptieren</a></li>
+      <li>
+        <a href="/adoptieren/">Adoptieren</a>
+        
+      </li>
     
-      <li><a href="/mitglied-werden/">Mitglied werden</a></li>
+      <li>
+        <a href="/mitglied-werden/">Mitglied werden</a>
+        
+          <ul>
+            
+              <li><a href="/freiwilligenarbeit/">Freiwilligenarbeit</a></li>
+            
+          </ul>
+        
+      </li>
     
-      <li><a href="/unser-verein/">Unser Verein</a></li>
+      <li>
+        <a href="/unser-verein/">Unser Verein</a>
+        
+      </li>
     
-      <li><a href="/kontakt/">Kontakt</a></li>
+      <li>
+        <a href="/kontakt/">Kontakt</a>
+        
+      </li>
     
   </ul>
 </div>
@@ -380,24 +408,43 @@ Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider mü
 </nav>
 
 
+<style>
+   
+  .desktop-menu li.relative:hover .submenu,
+  .desktop-menu li.relative .submenu:hover {
+    display: block !important;
+  }
+   
+  .submenu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+   
+  .submenu li a:hover {
+    background-color: #f0f0f0;
+  }
+</style>
 
 
 <script>
   document.addEventListener('DOMContentLoaded', function(){
-    var toggles = document.querySelectorAll('.menu-toggle');
-    toggles.forEach(function(toggle){
-      toggle.addEventListener('click', function(e){
+    var arrows = document.querySelectorAll('.menu-arrow');
+    arrows.forEach(function(arrow){
+      arrow.addEventListener('click', function(e){
         e.preventDefault();
-        
         e.stopPropagation();
         var submenu = this.parentElement.querySelector('.submenu');
         if (submenu) {
-          if (submenu.style.display === 'block') {
-            submenu.style.display = 'none';
-          } else {
-            submenu.style.display = 'block';
-          }
+          submenu.style.display = (submenu.style.display === 'block') ? 'none' : 'block';
         }
+      });
+    });
+    
+    document.addEventListener('click', function(){
+      document.querySelectorAll('.submenu').forEach(function(menu){
+        menu.style.display = 'none';
       });
     });
   });

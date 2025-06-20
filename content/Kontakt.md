@@ -52,16 +52,5 @@ title = "Kontakt"
   textarea.addEventListener('input', () => {
     counter.textContent = textarea.value.length;
   });
-
-// Popup anzeigen nach Absenden
-function showPopup() {
-const popup = document.getElementById('popup');
-popup.style.display = 'block';
-setTimeout(() => {
-popup.style.display = 'none';
-}, 4000);
-return true; // Weiterleiten erlauben
-}
 </script>
-
 </div>
