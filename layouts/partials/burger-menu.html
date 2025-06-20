@@ -29,9 +29,8 @@
     transform: rotate(-45deg);
   }
   .burger.open span {
-  background: white;
-}
-
+    background: white;
+  }
 
   .menu-overlay {
     position: fixed;
@@ -56,6 +55,7 @@
   .menu-overlay ul {
     list-style: none;
     padding: 0;
+    margin: 0;
   }
 
   .menu-overlay li {
@@ -66,6 +66,12 @@
     color: white;
     text-decoration: none;
     font-size: 1.2rem;
+  }
+  
+  /* Styling für verschachtelte Untermenüs */
+  .menu-overlay ul ul {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
   }
 </style>
 
@@ -78,7 +84,16 @@
 <div class="menu-overlay" id="mobileMenu">
   <ul>
     {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+      <li>
+        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        {{ if .HasChildren }}
+          <ul>
+            {{ range .Children }}
+              <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </li>
     {{ end }}
   </ul>
 </div>

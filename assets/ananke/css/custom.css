@@ -92,3 +92,8 @@ figure img {
   height: auto;
   border: none;
 }
+
+.desktop-menu li.relative:hover .submenu,
+.desktop-menu li.relative .submenu:hover {
+  display: block !important;
+}

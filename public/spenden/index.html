@@ -118,6 +118,8 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
+
+
   </head><body class="ma0 quicksand bg-washed-white development">
 
     
@@ -126,74 +128,96 @@
 </div>
 
 <nav class="bg-white bb bw1 b--moon-gray z-999 w-100">
-
   
   <div class="mw8 center flex justify-between items-center pa3">
-
     
     <a href="http://localhost:1313/" class="flex flex-column items-center no-underline">
-<img src="/images/strays-in-need-serbia.jpg" alt="Logo" class="br-100" style="height: 6rem; width: 6rem;" />
-<span class="navy f5 fw4 mt1" style="font-family: 'Quicksand', sans-serif;">Strays in need Serbia</span>
+      <img src="/images/strays-in-need-serbia.jpg" alt="Logo" class="br-100" style="height: 6rem; width: 6rem;" />
+      <span class="navy f5 fw4 mt1" style="font-family: 'Quicksand', sans-serif;">
+        Strays in need Serbia
+      </span>
     </a>
 
     
     <ul class="desktop-menu list pa0 ma0 flex items-center">
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue dark-blue b" href="/spenden/">
-            Spenden
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue dark-blue b" href="/spenden/">
+              Spenden
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/news/">
-            News
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/news/">
+              News
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/adoptieren/">
-            Adoptieren
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/adoptieren/">
+              Adoptieren
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/mitglied-werden/">
-            Mitglied werden
-          </a>
-        </li>
+        
+          <li class="mh2 mv2 relative">
+            
+            <a class="parent-link no-underline f5 fw4 hover-light-blue black" 
+               href="/mitglied-werden/">
+              Mitglied werden
+            </a>
+            
+            <span class="menu-arrow" style="cursor: pointer; margin-left: 5px;">
+              <i class="fas fa-chevron-down"></i>
+            </span>
+            
+            <ul class="submenu absolute pa3 z-999" style="display: none; min-width: 200px; top: 100%; left: 0; background-color: #fff; color: #000; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              
+                <li class="mb1">
+                  <a class="no-underline f5 fw4 hover-light-blue" style="color: #000; display: block; padding: 0.5rem;" href="/freiwilligenarbeit/">
+                    Freiwilligenarbeit
+                  </a>
+                </li>
+              
+            </ul>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/freiwilligenarbeit/">
-            Freiwilligenarbeit
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/unser-verein/">
+              Unser Verein
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/unser-verein/">
-            Unser Verein
-          </a>
-        </li>
-      
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/kontakt/">
-            Kontakt
-          </a>
-        </li>
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/kontakt/">
+              Kontakt
+            </a>
+          </li>
+        
       
+      <li class="mh2 mv2">
         <a href="/spenden/"
-           class="flex items-center bg-black-10 hover-bg-white-20 green pa2 br-pill mr2 no-underline">
+           class="flex items-center bg-black-10 hover-bg-white-20 black pa2 br-pill mr2 no-underline">
           <i class="fas fa-hand-holding-heart mr2"></i> Spenden
         </a>
+      </li>
     </ul>
-
 
     
     <div class="mobile-menu">
@@ -228,9 +252,8 @@
     transform: rotate(-45deg);
   }
   .burger.open span {
-  background: white;
-}
-
+    background: white;
+  }
 
   .menu-overlay {
     position: fixed;
@@ -255,6 +278,7 @@
   .menu-overlay ul {
     list-style: none;
     padding: 0;
+    margin: 0;
   }
 
   .menu-overlay li {
@@ -265,6 +289,12 @@
     color: white;
     text-decoration: none;
     font-size: 1.2rem;
+  }
+  
+   
+  .menu-overlay ul ul {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
   }
 </style>
 
@@ -277,19 +307,41 @@
 <div class="menu-overlay" id="mobileMenu">
   <ul>
     
-      <li><a href="/spenden/">Spenden</a></li>
+      <li>
+        <a href="/spenden/">Spenden</a>
+        
+      </li>
     
-      <li><a href="/news/">News</a></li>
+      <li>
+        <a href="/news/">News</a>
+        
+      </li>
     
-      <li><a href="/adoptieren/">Adoptieren</a></li>
+      <li>
+        <a href="/adoptieren/">Adoptieren</a>
+        
+      </li>
     
-      <li><a href="/mitglied-werden/">Mitglied werden</a></li>
+      <li>
+        <a href="/mitglied-werden/">Mitglied werden</a>
+        
+          <ul>
+            
+              <li><a href="/freiwilligenarbeit/">Freiwilligenarbeit</a></li>
+            
+          </ul>
+        
+      </li>
     
-      <li><a href="/freiwilligenarbeit/">Freiwilligenarbeit</a></li>
+      <li>
+        <a href="/unser-verein/">Unser Verein</a>
+        
+      </li>
     
-      <li><a href="/unser-verein/">Unser Verein</a></li>
-    
-      <li><a href="/kontakt/">Kontakt</a></li>
+      <li>
+        <a href="/kontakt/">Kontakt</a>
+        
+      </li>
     
   </ul>
 </div>
@@ -302,9 +354,51 @@
 </script>
 
     </div>
-
   </div>
 </nav>
+
+
+<style>
+   
+  .desktop-menu li.relative:hover .submenu,
+  .desktop-menu li.relative .submenu:hover {
+    display: block !important;
+  }
+   
+  .submenu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+   
+  .submenu li a:hover {
+    background-color: #f0f0f0;
+  }
+</style>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+    var arrows = document.querySelectorAll('.menu-arrow');
+    arrows.forEach(function(arrow){
+      arrow.addEventListener('click', function(e){
+        e.preventDefault();
+        e.stopPropagation();
+        var submenu = this.parentElement.querySelector('.submenu');
+        if (submenu) {
+          submenu.style.display = (submenu.style.display === 'block') ? 'none' : 'block';
+        }
+      });
+    });
+    
+    document.addEventListener('click', function(){
+      document.querySelectorAll('.submenu').forEach(function(menu){
+        menu.style.display = 'none';
+      });
+    });
+  });
+</script>
 
 
 

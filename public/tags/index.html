@@ -96,6 +96,8 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
+
+
   </head><body class="ma0 quicksand bg-washed-white development">
 
     
@@ -104,68 +106,97 @@
 </div>
 
 <nav class="bg-white bb bw1 b--moon-gray z-999 w-100">
-
   
   <div class="mw8 center flex justify-between items-center pa3">
-
     
     <a href="http://localhost:1313/" class="flex flex-column items-center no-underline">
-<img src="/images/strays-in-need-serbia.jpg" alt="Logo" class="br-100" style="height: 6rem; width: 6rem;" />
-<span class="navy f5 fw4 mt1" style="font-family: 'Quicksand', sans-serif;">Strays in need Serbia</span>
+      <img src="/images/strays-in-need-serbia.jpg" alt="Logo" class="br-100" style="height: 6rem; width: 6rem;" />
+      <span class="navy f5 fw4 mt1" style="font-family: 'Quicksand', sans-serif;">
+        Strays in need Serbia
+      </span>
     </a>
 
     
     <ul class="desktop-menu list pa0 ma0 flex items-center">
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/spenden/">
-            Spenden
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/spenden/">
+              Spenden
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/news/">
-            News
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/news/">
+              News
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/adoptieren/">
-            Adoptieren
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/adoptieren/">
+              Adoptieren
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/mitglied-werden/">
-            Mitglied werden
-          </a>
-        </li>
+        
+          <li class="mh2 mv2 relative">
+            
+            <span class="menu-toggle no-underline f5 fw4 hover-light-blue black" style="cursor: pointer;">
+              Mitglied werden <i class="fas fa-chevron-down ml1"></i>
+            </span>
+            
+            <ul class="submenu absolute bg-black-50 shadow pa2 mt1 z-999" style="display: none; min-width: 150px;">
+              
+              <li class="mb1">
+                <span class="no-underline f5 fw4 hover-light-blue white" style="cursor: pointer;">
+                  Mitglied werden
+                </span>
+              </li>
+              
+              
+                <li class="mb1">
+                  <a class="no-underline f5 fw4 hover-light-blue white" href="/freiwilligenarbeit/">
+                    Freiwilligenarbeit
+                  </a>
+                </li>
+              
+            </ul>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/freiwilligenarbeit/">
-            Freiwilligenarbeit
-          </a>
-        </li>
+        
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/unser-verein/">
+              Unser Verein
+            </a>
+          </li>
+        
       
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/unser-verein/">
-            Unser Verein
-          </a>
-        </li>
-      
         
-        <li class="mh2 mv2">
-          <a class="no-underline f5 fw4 hover-light-blue black" href="/kontakt/">
-            Kontakt
-          </a>
-        </li>
+          <li class="mh2 mv2">
+            <a class="no-underline f5 fw4 hover-light-blue black" href="/kontakt/">
+              Kontakt
+            </a>
+          </li>
+        
       
+      <li class="mh2 mv2">
+        <a href="/spenden/"
+           class="flex items-center bg-black-10 hover-bg-white-20 black pa2 br-pill mr2 no-underline">
+          <i class="fas fa-hand-holding-heart mr2"></i> Spenden
+        </a>
+      </li>
     </ul>
 
     
@@ -258,8 +289,6 @@
     
       <li><a href="/mitglied-werden/">Mitglied werden</a></li>
     
-      <li><a href="/freiwilligenarbeit/">Freiwilligenarbeit</a></li>
-    
       <li><a href="/unser-verein/">Unser Verein</a></li>
     
       <li><a href="/kontakt/">Kontakt</a></li>
@@ -275,9 +304,32 @@
 </script>
 
     </div>
-
   </div>
 </nav>
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+    var toggles = document.querySelectorAll('.menu-toggle');
+    toggles.forEach(function(toggle){
+      toggle.addEventListener('click', function(e){
+        e.preventDefault();
+        
+        e.stopPropagation();
+        var submenu = this.parentElement.querySelector('.submenu');
+        if (submenu) {
+          if (submenu.style.display === 'block') {
+            submenu.style.display = 'none';
+          } else {
+            submenu.style.display = 'block';
+          }
+        }
+      });
+    });
+  });
+</script>
 
 
 
@@ -307,27 +359,22 @@
         <h3 class="ma0 white">Strays in need Serbia</h3>
       </a>
 
-      <p class="f6 lh-copy">
-        Gemeinsam für eine bessere Zukunft für Tiere in Not.<br>
-        Serbien – Schweiz
-      </p>
-
       <div class="mt3 flex flex-wrap gap-2">
         
         <a href="https://www.instagram.com/strays_in_need_serbia/" target="_blank"
-           class="flex items-center bg-white-10 hover-bg-white-20 white pa2 br-pill mr2">
+           class="flex items-center bg-white-10 hover-bg-white-20 white pa2 br-pill mr2 no-underline">
           <i class="fab fa-instagram mr2"></i> Instagram
         </a>
 
         
         <a href="mailto:straysinneedserbia@gmail.com"
-           class="flex items-center bg-white-10 hover-bg-white-20 white pa2 br-pill mr2">
+           class="flex items-center bg-white-10 hover-bg-white-20 white pa2 br-pill mr2 no-underline">
           <i class="fas fa-envelope mr2"></i> E-Mail
         </a>
 
         
         <a href="/spenden/"
-           class="flex items-center bg-white-10 hover-bg-white-20 white pa2 br-pill">
+           class="flex items-center bg-white-10 hover-bg-white-20 white pa2 br-pill mr2 no-underline">
           <i class="fas fa-hand-holding-heart mr2"></i> Spenden
         </a>
       </div>
