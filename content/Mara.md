@@ -19,7 +19,7 @@ title = 'Mara'
       <br><br>
 Mara sucht ein Zuhause 🐾
 
-Ihre Mutter lebte in einem verlassenen Haus und brachte dort fünf Welpen zur Welt. Gelegentliche Passanten und einige Nachbarn gaben ihr etwas Futter und Wasser, damit sie den kalten Winter überstehen konnte. Und tatsächlich: Sie schaffte es, ihre Welpen großzuziehen, klein, glücklich und noch völlig ahnungslos darüber, wie grausam die Welt manchmal sein kann.
+Ihre Mutter lebte in einem verlassenen Haus und brachte dort fünf Welpen zur Welt. Gelegentliche Passanten und einige Nachbarn gaben ihr etwas Futter und Wasser, damit sie den kalten Winter überstehen konnte. Und tatsächlich: Sie schaffte es, ihre Welpen grosszuziehen, klein, glücklich und noch völlig ahnungslos darüber, wie grausam die Welt manchmal sein kann.
 
 Doch das änderte sich, als ihre Mutter krank wurde und sich nicht mehr um sie kümmern konnte.
 
@@ -29,7 +29,7 @@ Mara ist ein fröhlicher Welpe, der bei uns auf der Ranch lebt. Sie ist immer ve
 
 In Mara wirst du einen besten Freund finden, der dich bedingungslos liebt.
 
-Mara ist eine große Schmusebacke, liebt das Spielen mit dem Ball und lernt sehr schnell.♥️
+Mara ist eine grosse Schmusebacke, liebt das Spielen mit dem Ball und lernt sehr schnell.♥️
 
 💛 Wer schenkt Mara ein neues Leben?
 <br><br>

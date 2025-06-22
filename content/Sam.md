@@ -19,16 +19,16 @@ title = 'Sam'
       <br><br>
 Sam sucht ein Zuhause 🐾
 
-Unser süßer Junge ist ca. 2,5 Jahre alt und wiegt etwa 15 kg.
+Unser süsser Junge ist ca. 2,5 Jahre alt und wiegt etwa 15 kg.
 Sam hat einen wundervollen Charakter: Er ist verschmust, menschenbezogen, unkompliziert, sozial und sehr anpassungsfähig.
 Er liebt es, in Kontakt mit Menschen zu sein und verteilt mit Begeisterung Küsschen!
 
 Sam hört gut auf seinen Namen und kommt sofort zurück, wenn man ihn ruft.
 Das Laufen an der Leine sowie das Autofahren kennt er bereits und meistert beides mit Bravour.
-Er ist außerdem stubenrein und weiß genau, wie man sich in einem Zuhause benimmt.
+Er ist ausserdem stubenrein und weiss genau, wie man sich in einem Zuhause benimmt.
 
-Gefunden wurde Sam im Alter von etwa 6 Monaten gemeinsam mit seinem Bruder auf der Straße.
-Anschließend kam er in ein Tierheim, wo er 1,5 Jahre in einem Zwinger verbringen musste.
+Gefunden wurde Sam im Alter von etwa 6 Monaten gemeinsam mit seinem Bruder auf der Strasse.
+Anschliessend kam er in ein Tierheim, wo er 1,5 Jahre in einem Zwinger verbringen musste.
 Doch nun durfte er endlich zu uns auf die Ranch umziehen, wo er zusammen mit seinen Hundefreunden viel Platz zum Spielen und Toben hat.
 
 Sam eignet sich wunderbar für eine Familie mit Kindern und wir sind überzeugt, dass er sich auch gut an Katzen gewöhnen würde.
