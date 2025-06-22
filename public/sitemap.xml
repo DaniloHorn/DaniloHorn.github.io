@@ -24,7 +24,11 @@
   </url><url>
     <loc>http://localhost:1313/kontakt/</loc>
   </url><url>
+    <loc>http://localhost:1313/mara/</loc>
+  </url><url>
     <loc>http://localhost:1313/mitglied-werden/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sam/</loc>
   </url><url>
     <loc>http://localhost:1313/saru/</loc>
   </url><url>

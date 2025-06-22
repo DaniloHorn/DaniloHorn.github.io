@@ -4,7 +4,7 @@ title = 'Unser Verein'
 
 <div class="centered-content single-flex" style="display: flex; gap: 2rem; align-items: center; padding: 2rem; border-radius: 16px; flex-wrap: wrap;">
 
-  <div style="flex: 0 0 400px;">
+  <div style="flex: 0 0 30%;">
     {{< figure src="/images/vorort.jpg" alt="Mein Bild" width="100%" >}}
   </div>
 

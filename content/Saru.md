@@ -13,7 +13,7 @@ title = 'Saru'
       <br>
       <strong>Geschlecht</strong> Männlich
       <br>
-      <strong>Herkunft:</strong> Ruma / Serbia
+      <strong>Herkunft:</strong> Ruma / Serbien
       <br>
       <strong>Gefunden am:</strong> 01.02.2025
       <br><br>
@@ -37,7 +37,6 @@ Wir hoffen sehr, dass Saru bald erleben darf, wie schön das Leben sein kann, vo
 
 💛 Wer schenkt Saru ein neues Leben?
 <br><br>
-Jede Spende hilft uns, Tieren in Not zu helfen. Deine Unterstützung ermöglicht es uns, sichere Zufluchten zu schaffen und lebensrettende Massnahmen zu finanzieren.
 
 </p>
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem;">
