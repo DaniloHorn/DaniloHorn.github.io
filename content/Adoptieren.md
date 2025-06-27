@@ -31,7 +31,7 @@ Sam ist ein etwa 2,5 Jahre alter, 15 kg schwerer Rüde mit einem liebevollen, 
 <br>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
-    {{< figure src="/images/mara/mara2.jpg" alt="Mara" width="300px" >}}
+    {{< figure src="/images/mara/mara1.png" alt="Mara" width="300px" >}}
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0; color: #333;">Mara</h2>
