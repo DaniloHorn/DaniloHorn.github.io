@@ -3,41 +3,50 @@ languageCode = 'en-us'
 theme = 'ananke'
 
 [[menu.main]]
-name = "Adoptieren"
-url = "/adoptieren/"
-weight = 3
+name = "Unser Verein"
+identifier = "verein"
+url = "#"
+weight = 3  
+
+[[menu.main]]
+name = "Über uns"
+url = "/ueber-uns/"
+weight = 4
+parent = "verein"
 
 [[menu.main]]
 name = "Mitglied werden"
 url = "/mitglied-werden/"
-weight = 4
-identifier = "mitglied"
+weight = 5
+parent = "verein"
 
 [[menu.main]]
 name = "Freiwilligenarbeit"
 url = "/freiwilligenarbeit/"
-weight = 4
-parent = "mitglied"
-
-[[menu.main]]
-name = "News"
-url = "/news/"
-weight = 2
-
-[[menu.main]]
-name = "Spenden"
-url = "/spenden/"
-weight = 1
-
-[[menu.main]]
-name = "Unser Verein"
-url = "/unser-verein/"
 weight = 6
+parent = "verein"
 
 [[menu.main]]
 name = "Kontakt"
 url = "/kontakt/"
 weight = 7
+parent = "verein"
+
+[[menu.main]]
+name = "Adoptieren"
+url = "/adoptieren/"
+weight = 2
+
+[[menu.main]]
+name = "News"
+url = "/news/"
+weight = 1
+
+[[menu.main]]
+name = "Spenden"
+url = "/spenden/"
+weight = 8
+
 
 [params]
   logo = "/images/strays-in-need-serbia.jpg"

@@ -21,10 +21,16 @@
       {{ if .HasChildren }}
         <li class="mh2 mv2 relative">
           <!-- Eltern-Link: Klickbar und navigierend -->
-          <a class="parent-link no-underline f5 fw4 hover-light-blue {{ if $isCurrent }}dark-blue b{{ else }}black{{ end }}" 
-             href="{{ .URL | relLangURL }}">
-            {{ .Name }}
-          </a>
+{{ if eq .URL "#" }}
+  <span class="parent-link no-underline f5 fw4 black-70" style="cursor: default;">
+    {{ .Name }}
+  </span>
+{{ else }}
+  <a class="parent-link no-underline f5 fw4 hover-light-blue {{ if $isCurrent }}dark-blue b{{ else }}black{{ end }}" 
+     href="{{ .URL | relLangURL }}">
+    {{ .Name }}
+  </a>
+{{ end }}
           <!-- Toggle-Pfeil: Schaltet das Dropdown per Klick um (für Touchgeräte) -->
           <span class="menu-arrow" style="cursor: pointer; margin-left: 5px;">
             <i class="fas fa-chevron-down"></i>
@@ -51,7 +57,7 @@
   {{ end }}
       <li class="mh2 mv2">
         <a href="/spenden/"
-           class="flex items-center bg-blue hover-bg-white-20 white pa2 br-pill mr2 no-rundeline">
+           class="flex no-underline items-center bg-blue hover-bg-black-20 white pa2 br-pill mr2">
           <i class="fas fa-hand-holding-heart mr2"></i> Spenden
         </a>
       </li>

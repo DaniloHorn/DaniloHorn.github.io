@@ -1,12 +1,12 @@
 +++ 
-title = 'Unser Verein' 
+title = 'Über uns' 
 +++
 
 <div class="centered-content single-flex" style="display: flex; gap: 2rem; align-items: center; padding: 2rem; border-radius: 16px; flex-wrap: wrap;">
 
-  <div style="flex: 0 0 30%;">
-    {{< figure src="/images/vorort.jpg" alt="Mein Bild" width="100%" >}}
-  </div>
+<div id="vorort-bild" style="flex: 0 0 50%;">
+  {{< figure src="/images/vorort.jpg" alt="Mein Bild" width="300px" >}}
+</div>
 
   <div style="flex: 1; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h3 style="color:rgb(0, 0, 0); margin-top: 0;">Strays in need Serbia Ausgangslage Serbien</h3>
@@ -44,6 +44,18 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
   </div>
 
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const details = document.querySelector("details");
+    const image = document.getElementById("vorort-bild");
+    if (details && image) {
+      details.addEventListener("toggle", function () {
+        image.style.display = this.open ? "none" : "block";
+      });
+    }
+});
+</script>
 
 <div class="centered-content single-flex" ><h3>Unsere Mitglieder<h3></div>
 <div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
