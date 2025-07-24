@@ -42,3 +42,16 @@ Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und le
   </div>
 </div>
 <br>
+<div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/teddy/teddy1.jpg" alt="Teddy" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Teddy</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Teddy, ein bildschöner Shar Pei-Rüde von etwa 4 Jahren, sucht seine Menschen!
+</p>
+<a href="/teddy/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
+<br>

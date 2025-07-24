@@ -7,10 +7,8 @@ title = "Datenschutzerklärung"
 <h3>Verantwortlich</h3>
 <p>
 Strays in Need Serbia<br>
-Schneebergstrasse 32<br>
 9000 St. Gallen<br>
 E-Mail: <a href="mailto:straysinneedserbia@gmail.com">straysinneedserbia@gmail.com</a><br>
-Vertreten durch Daniela Fleisch
 </p>
 
 <h3>1. Erhebung und Verarbeitung personenbezogener Daten</h3>

@@ -31,6 +31,10 @@ title = "Kontakt"
 <option value="Allgemeine Anfrage">Allgemeine Anfrage</option>
 <option value="Spende">Spende</option>
 <option value="Adoption">Adoption</option>
+<option value="Mitglied werden">Mitglied werden</option>
+<option value="Patenschaften">Patenschaften</option>
+<option value="Freiwilligenarbeit">Freiwilligenarbeit</option>
+<option value="Pflegestelle">Pflegestelle</option>
 <option value="Sonstiges">Sonstiges</option>
 </select>
 </label>
