@@ -8,6 +8,17 @@
   font-family: 'Quicksand', sans-serif;
 }
 
+.half-width {
+  display: flex;
+  justify-content: center; /* Zentriert horizontal */
+}
+
+.half-width img {
+  width: 80% !important;
+  height: auto;
+  display: block; /* Damit keine Inline-Abstände entstehen */
+}
+
 @media (hover: none) and (pointer: coarse) {
   .gallery-preview-overlay {
     opacity: 1 !important;

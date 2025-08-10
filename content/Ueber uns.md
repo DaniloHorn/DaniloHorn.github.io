@@ -3,61 +3,38 @@ title = 'Über uns'
 +++
 
 <div class="centered-content single-flex" style="display: flex; gap: 2rem; align-items: center; padding: 2rem; border-radius: 16px; flex-wrap: wrap;">
-
-<div id="vorort-bild" style="flex: 0 0 50%;">
-  {{< figure src="/images/vorort.jpg" alt="Mein Bild" width="300px" >}}
-</div>
-
   <div style="flex: 1; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-    <h3 style="color:rgb(0, 0, 0); margin-top: 0;">Strays in need Serbia Ausgangslage Serbien</h3>
+    <h3 style="color:rgb(0, 0, 0); margin-top: 0;">Unsere Geschichte</h3>
     <p style="font-size: 1.1rem; line-height: 1.6; color: #334155;">
-<details style="margin-top: 2rem; background:rgb(255, 255, 255); padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-  <summary style="font-size: 1.2rem; cursor: pointer; color: #047857;">
-    Unser Verein kämpft mit Herz und Tat für das Leben verlassener Hunde in Serbien. <em style="font-weight: normal;">(Klicke für die ganze Geschichte)</em>
-  </summary>
   <div style="margin-top: 1rem; color: #334155; line-height: 1.6;">
-    <p>Ich bin Danijela und bin seit über 10 Jahren engagierte Tierschützerinn und Aktivistin. Meine Arbeit begann aus einem persönlichen Bedürfnis heraus, den Stimmlosen zu helfen – den verlassenen Hunden und Katzen, die leider immer zahlreicher auf unseren Strassen auftauchen.</p>
-    <p>Ruma und die umliegenden Dörfer leiden unter einer hohen Zahl an streunenden und unerwünschten Hunden und Katzen. Das Problem wächst seit Jahren – es gibt keine systematische Sterilisation und das Bewusstsein für verantwortungsvolle Tierhaltung ist weiterhin gering.
-Tiere werden häufig am Strassenrand ausgesetzt, in Kartons oder sogar angebunden an Laternenpfählen. Die Behörden schauen meist weg, Tierheime sind überfüllt oder unzureichend. Leider sehen viele Menschen Strassenhunde noch immer als Störung und nicht als Lebewesen, die Hilfe brauchen.
-Man schätzt, dass es in Ruma und Umgebung mehrere hundert streunende Hunde und Katzen gibt. Jede dieser Seelen hat ihre eigene traurige Geschichte – ausgesetzte Würfe, verletzte Tiere, alte oder kranke Tiere, die allein sterben. Damit sind wir täglich konfrontiert.
-</p>
-<p>Derzeit kümmern wir uns um über 50 Hunde. Einige sind in unserem noch nicht fertiggestellten Tierasyl untergebracht, das wir mit viel Mühe erhalten. Andere befinden sich in privaten Unterkünften, die wir monatlich bezahlen, oder bei Freiwilligen.
+<p>Ruma, eine Kleinstadt im serbischen Okrug Srem mit rund 30’000 Einwohnern, leidet – wie ganz Serbien – seit jeher unter einer grossen Zahl streunender und unerwünschter Hunde und Katzen. Das Problem wächst stetig: Es gibt keine systematische Kastration, und das Bewusstsein in der Bevölkerung für verantwortungsvolle Tierhaltung ist sehr gering. Vor allem Hunde werden immer wieder am Strassenrand ausgesetzt, an Laternenpfählen angebunden oder als Welpen in Kartons bei Müllhalden entsorgt. Die Behörden sehen meist weg, staatliche Tierheime sind überfüllt und die Zustände dort sind oft katastrophal. Noch immer betrachten viele Menschen Strassenhunde als Störung – nicht als fühlende Lebewesen, die Schutz und Hilfe brauchen. Schätzungen zufolge leben in Ruma und den umliegenden Dörfern mehrere Hundert streunende Hunde und Katzen. Jede einzelne dieser Seelen hat ihre eigene traurige Geschichte: ausgesetzte Würfe, verletzte und misshandelte Tiere, alte oder kranke Tiere, die meist einsam und qualvoll sterben.</p>
+<p>Damit sind Danijela Pozarcevic und Alexandra Cosic, die selbst in Ruma leben, tagtäglich konfrontiert. Seit rund zehn Jahren setzen sie sich unermüdlich für misshandelte, verletzte und ausgesetzte Strassenhunde und -katzen in Ruma ein. Ihre Arbeit begann aus einem persönlichen Bedürfnis heraus – um dem Elend entgegenzuwirken, den streunenden Tieren eine Stimme zu geben und ihnen zu helfen. Neben ihren Vollzeitjobs versuchen sie seit Jahren, das Unmögliche möglich zu machen, und widmen jede freie Minute nach der Arbeit den Strassentieren. Die finanziellen Mittel für Futter, Unterbringung und Tierarztkosten tragen sie bislang grösstenteils aus eigener Tasche, ergänzt durch kleine Spenden, die jedoch bei weitem nicht ausreichen, um die Tiere angemessen zu versorgen. Bisher wurden die aufgenommenen Hunde in verschiedenen Gärten von Bekannten in der Nachbarschaft gegen eine Gebühr untergebracht, da Danijela und Alexandra selbst über kein eigenes Grundstück verfügen.</p>
+<p>Um Danijela und Alexandra in ihrer Arbeit nachhaltig unterstützen zu können, haben wir im März 2025 den Tierschutzverein Strays in need Serbia in der Schweiz gegründet. Unser Ziel ist es, die für diese wichtige Arbeit vor Ort benötigten Mittel bereitzustellen. Uns alle verbindet die Liebe zu Hunden – und die Tatsache, dass jeder von uns mindestens einen treuen Vierbeiner an seiner Seite hat, der uns durch den Alltag begleitet. Uns ist bewusst, dass wir nicht alle Hunde und Katzen retten können – aber für jedes Tier, das wir retten, verändert sich die ganze Welt. Und genau dafür lohnt es sich, unsere Arbeit fortzusetzen und Tag für Tag weiterzukämpfen.</p>
+<br>
+<b>Was tun wir</b>
+<p>Seit April 2025 leben 19 Hunde auf der noch nicht fertiggestellten Ranch Tutu, die derzeit durch ein Vereinsmitglied privat finanziert wird. Ausserdem versorgen wir über 20 Strassenkatzen, für die wir leider keine feste Unterkunft haben, aber regelmässig Futter- und Wasserstellen einrichten. Alle unsere Tiere werden regelmässig tierärztlich versorgt – mit Impfungen, Kastrationen sowie Behandlungen von Verletzungen und Krankheiten.</p>
+<p>Unser Ziel ist es, möglichst viele Tiere zu kastrieren, um die Anzahl der Strassentiere zu reduzieren und die Zahl der Adoptionen zu erhöhen – auch wenn die Hürden aufgrund strenger Auflagen hoch sind. Um wirklich etwas zu verändern, muss umfassende Tierschutzarbeit im ganzen Land geleistet werden. Langfristig möchten wir durch Öffentlichkeitsarbeit und Aufklärung der Bevölkerung eine verantwortungsvollere Haltung fördern, die Angst vor Strassenhunden abbauen und mehr Empathie für ein friedliches Zusammenleben schaffen.</p>
+<br>
+<b>Was wir brauchen</b>
+<p>Um weiterhelfen zu können, sind wir dringend auf Unterstützung angewiesen:</p>
 
-Alle unsere Tiere werden regelmässig tierärztlich versorgt – Impfungen, Kastrationen, Behandlungen von Verletzungen und Krankheiten. Ausserdem versorgen wir über 20 Strassenkatzen, für die wir leider keinen festen Platz haben, aber regelmässig Futter- und Wasserstellen einrichten.
+· <b>Spenden</b> für Futter, tierärztliche Versorgung und Unterhalt und Ausstattung der Ranch Tutu
 
-Ein typischer Rettungseinsatz beginnt mit einem Anruf – oft von Anwohnern, die verletzte Tiere oder verlassene Welpen gefunden haben. Wir fahren los, leisten Erste Hilfe und bringen die Tiere in Sicherheit, so oft wir können.
+· <b>Pflegestellen</b>, die Hunde vorübergehend aufnehmen, bis wir für sie ein Für-immer-Zuhause gefunden haben
 
-Unsere täglichen Aufgaben: Füttern, Reinigungsarbeiten, Buchhaltung, Fahrten zum Tierarzt, Vermittlung, Kommunikation mit Interessenten. Am schwersten ist es, wenn wir einen Kampf verlieren – doch es gibt keinen schöneren Moment, als wenn ein Hund oder eine Katze ein Zuhause findet und wir ein Foto erhalten, wie sie in ihrem Bettchen schlafen.</p>
+· <b>Patenschaften</b>, die gezielt einen bestimmten Hund auf unserer Ranch Tutu unterstützen.
 
-<p>Wir möchten die Kapazität unseres neuen „Tutu“-Ranch-Tierheims erweitern – ein Projekt, das Sibylle grosszügig durch die Zahlung der monatlichen Miete aus eigener Tasche ermöglicht. Unser Ziel ist es, möglichst viele Tiere zu sterilisieren und die Zahl der Adoptionen zu erhöhen.
-Langfristig möchten wir die Zahl streunender Tiere durch Aufklärung und verantwortungsvolle Politik auf ein Minimum reduzieren.
-Was wir dringend brauchen:
-Spenden für Futter, tierärztliche Versorgung und Ausrüstung
-Freiwillige, die Tiere vorübergehend aufnehmen können
-Weitere Helfer vor Ort – derzeit arbeiten nur 2 Personen täglich im Ausseneinsatz, neben ihren eigenen Jobs
-Finanzierung für mindestens eine feste Hilfskraft auf dem Ranch-Gelände
-Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. Ein Leben zu retten, in dankbare Augen zu blicken, einen wedelnden Schwanz zu sehen – das gibt uns die Kraft, weiterzumachen.</p>
-<p>Wir träumen von dem Tag, an dem kein einziges Tier auf dem ganzen Balkan mehr auf kaltem Beton schlafen und hungern muss. Bis dahin kämpfen wir weiter – mit der Unterstützung wunderbarer Menschen aus dem Schweizer Verein, aller Spender und jener, die daran glauben, dass das Leben unserer vierbeinigen Freunde genauso viel wert ist.</p>
+· <b>Freiwillige Helfer vor Ort</b> – aktuell arbeiten nur Danijela und Alexandra täglich im Einsatz neben ihren Vollzeitjobs. Die Arbeit ist sehr belastend, daher suchen wir dringend weitere Unterstützung vor Ort.
+
+<p>Danke, dass du dich für unseren Verein interessierst und dir die Zeit nimmst, unsere Arbeit kennenzulernen. Jede Unterstützung hilft – gemeinsam können wir viel bewegen!</p>
+    </div>
+      <div class="half-width">
+  <img src="/images/vorort.jpg" alt="Strays in need Serbia Team" />
+</div>
   </div>
-</details>
-    </p>
-  </div>
-
 </div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const details = document.querySelector("details");
-    const image = document.getElementById("vorort-bild");
-    if (details && image) {
-      details.addEventListener("toggle", function () {
-        image.style.display = this.open ? "none" : "block";
-      });
-    }
-});
-</script>
-
-<div class="centered-content single-flex" ><h3>Unsere Mitglieder<h3></div>
+<div class="centered-content single-flex" ><h3>Unser Team<h3></div>
 <div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
@@ -68,7 +45,6 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
       <h3 style="margin-top: 0;">Daniela</h3>
       <p><strong>Rolle im Verein:</strong> [ ... ]</p>
       <p><strong>Meine Motivation:</strong> [ ...]</p>
-      <p>[ ... ]</p>
     </div>
   </div>
 
@@ -80,7 +56,6 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
       <h3 style="margin-top: 0;">Sibylle</h3>
       <p><strong>Rolle im Verein:</strong> [ ... ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
-      <p>[ ... ]</p>
     </div>
   </div>
 
@@ -92,7 +67,6 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
       <h3 style="margin-top: 0;">Fredy</h3>
       <p><strong>Rolle im Verein:</strong> [ ... ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
-      <p>[ ... ]</p>
     </div>
   </div>
 
@@ -104,19 +78,6 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
       <h3 style="margin-top: 0;">Nicole</h3>
       <p><strong>Rolle im Verein:</strong> [ ... ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
-      <p>[ ... ]</p>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
-    </div>
-    <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Danijela</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
-      <p>[ ... ]</p>
     </div>
   </div>
 
@@ -128,8 +89,40 @@ Für uns ist diese Arbeit mehr als eine Verpflichtung – es ist eine Berufung. 
       <h3 style="margin-top: 0;">Danilo</h3>
       <p><strong>Rolle im Verein:</strong> [ ... ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
-      <p>[ ... ]</p>
     </div>
   </div>
 
+  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Danijela</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Alexandra" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Alexandra</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Laura" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Laura</h3>
+      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+    </div>
+  </div>
+  
 </div>
