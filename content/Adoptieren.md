@@ -75,7 +75,7 @@ Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden
 <br>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
-    {{< figure src="/images/eliot/eliot1.jpeg" alt="Eliot" width="300px" >}}
+    {{< figure src="/images/eliot/eliot2.jpeg" alt="Eliot" width="300px" >}}
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0; color: #333;">Eliot</h2>
