@@ -3,7 +3,7 @@ title = 'Spenden'
 date = 2025-06-07
 +++
 
-<div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
+<div class="centered-content" style="background-color:rgb(255, 255, 255);">
 <div class="news-text" style="flex: 2 1 400px; background-color:#fff; padding:1.5rem 2rem; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,0.1); display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem;">
   <div>
     <h2 style="color:rgb(6, 85, 95); margin-top: 0;">Spendenkonto</h2>

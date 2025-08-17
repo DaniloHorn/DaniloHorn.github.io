@@ -8,6 +8,17 @@
   font-family: 'Quicksand', sans-serif;
 }
 
+.single-flex {
+  display: flex;
+  flex-direction: column;   /* <- sorgt für untereinander */
+  align-items: stretch;      /* optional: Bild + Text mittig */
+}
+
+.single-flex > div:first-child {
+  display: flex;
+  justify-content: center; /* Bild mittig */
+}
+
 .half-width {
   display: flex;
   justify-content: center; /* Zentriert horizontal */
@@ -108,3 +119,4 @@ figure img {
 .desktop-menu li.relative .submenu:hover {
   display: block !important;
 }
+

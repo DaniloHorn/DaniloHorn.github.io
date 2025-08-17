@@ -2,7 +2,7 @@
 title = 'Über uns' 
 +++
 
-<div class="centered-content single-flex" style="display: flex; gap: 2rem; align-items: center; padding: 2rem; border-radius: 16px; flex-wrap: wrap;">
+<div class="centered-content" style="display: flex; gap: 2rem; align-items: center; padding: 2rem; border-radius: 16px; flex-wrap: wrap;">
   <div style="flex: 1; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h3 style="color:rgb(0, 0, 0); margin-top: 0;">Unsere Geschichte</h3>
     <p style="font-size: 1.1rem; line-height: 1.6; color: #334155;">
@@ -34,8 +34,8 @@ title = 'Über uns'
   </div>
 </div>
 
-<div class="centered-content single-flex" ><h3>Unser Team<h3></div>
-<div class="centered-content single-flex" style="background-color:rgb(255, 255, 255);">
+<div class="centered-content" ><h3>Unser Team<h3></div>
+<div class="centered-content" style="background-color:rgb(255, 255, 255);">
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
@@ -43,18 +43,18 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Daniela</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Vereins Präsidentin ]</p>
       <p><strong>Meine Motivation:</strong> [ ...]</p>
     </div>
   </div>
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Sibylle" width="180px" >}}
+      {{< figure src="/images/sibylle.jpg" alt="Strays in need Serbia Sibylle" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Sibylle</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Vereins Vizepräsidentin - Gründer und Sponsor Ranch Tutu ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>
@@ -65,7 +65,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Fredy</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Buchhalter ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>
@@ -76,7 +76,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Nicole</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Social Media ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>
@@ -87,7 +87,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Danilo</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Entwickler Webseite ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>
@@ -98,7 +98,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Danijela</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Heldin vor Ort ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>
@@ -109,7 +109,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Alexandra</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Heldin vor Ort ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>
@@ -120,7 +120,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Laura</h3>
-      <p><strong>Rolle im Verein:</strong> [ ... ]</p>
+      <p><strong>Rolle im Verein:</strong> [ Social Media ]</p>
       <p><strong>Meine Motivation:</strong> [ ... ]</p>
     </div>
   </div>

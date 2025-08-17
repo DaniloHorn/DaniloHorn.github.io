@@ -22,9 +22,15 @@
   </url><url>
     <loc>http://localhost:1313/datenschutzerkl%C3%A4rung/</loc>
   </url><url>
+    <loc>http://localhost:1313/dolly/</loc>
+  </url><url>
+    <loc>http://localhost:1313/eliot/</loc>
+  </url><url>
     <loc>http://localhost:1313/freiwilligenarbeit/</loc>
   </url><url>
     <loc>http://localhost:1313/impressum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/johnny/</loc>
   </url><url>
     <loc>http://localhost:1313/kontakt/</loc>
   </url><url>

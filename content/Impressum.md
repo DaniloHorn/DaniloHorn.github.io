@@ -4,12 +4,8 @@ title = "Inpressum"
 
 <p><strong>Verein:</strong><br>
 Strays in Need Serbia<br>
-Schneebergstrasse 32<br>
 9000 St. Gallen<br>
 Schweiz</p>
-
-<p><strong>Vertretungsberechtigte Person:</strong><br>
-Daniela Fleisch</p>
 
 <p><strong>Kontakt:</strong><br>
 E-Mail: <a href="mailto:straysinneedserbia@gmail.com">straysinneedserbia@gmail.com</a></p>

@@ -2,7 +2,7 @@
 title = 'Mitglied werden'
 +++
 
-<div class="centered-content single-flex">
+<div class="centered-content">
   <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h2 style="color: #065f46; margin-top: 0;">Mitglied werden</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">

@@ -2,7 +2,7 @@
 title = "Kontakt"
 +++
 
-<div class="centered-content single-flex">
+<div class="centered-content">
 <div class="kontakt-info" style="text-align: center; width: 100%;">
   <h2>Kontaktiere uns</h2>
   <p class="f6 lh-copy">

@@ -3,7 +3,7 @@ title = 'News'
 date = 2025-06-08
 +++
 
-<div class="centered-content single-flex">
+<div class="centered-content">
   <div style="flex: 100%;">
     {{< figure src="/images/gofundme.webp" alt="gofundme strays in need serbia" width="100%" >}}
   </div>

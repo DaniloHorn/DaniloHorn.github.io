@@ -17,7 +17,7 @@ title = 'Sam'
       <br>
       <strong>Gefunden am:</strong> 01.01.2024
       <br><br>
-Sam sucht ein Zuhause 🐾
+      Sam sucht ein Zuhause 🐾
 
 Unser süsser Junge ist ca. 2,5 Jahre alt und wiegt etwa 15 kg.
 Sam hat einen wundervollen Charakter: Er ist verschmust, menschenbezogen, unkompliziert, sozial und sehr anpassungsfähig.
