@@ -8,6 +8,12 @@
   font-family: 'Quicksand', sans-serif;
 }
 
+.centered-content img {
+  width: 50%;      /* each image half width */
+  height: auto;    /* keep aspect ratio */
+  display: block;
+}
+
 .single-flex {
   display: flex;
   flex-direction: column;   /* <- sorgt für untereinander */

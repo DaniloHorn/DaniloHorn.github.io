@@ -76,7 +76,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Nicole</h3>
-      <p>Social Media</p>
+      <p>Fundraising</p>
     </div>
   </div>
 
