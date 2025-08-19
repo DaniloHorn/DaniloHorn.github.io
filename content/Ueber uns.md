@@ -15,7 +15,14 @@ title = 'Über uns'
 <p>Seit April 2025 leben 19 Hunde auf der noch nicht fertiggestellten Ranch Tutu, die derzeit durch ein Vereinsmitglied privat finanziert wird. Ausserdem versorgen wir über 20 Strassenkatzen, für die wir leider keine feste Unterkunft haben, aber regelmässig Futter- und Wasserstellen einrichten. Alle unsere Tiere werden regelmässig tierärztlich versorgt – mit Impfungen, Kastrationen sowie Behandlungen von Verletzungen und Krankheiten.</p>
 <p>Unser Ziel ist es, möglichst viele Tiere zu kastrieren, um die Anzahl der Strassentiere zu reduzieren und die Zahl der Adoptionen zu erhöhen – auch wenn die Hürden aufgrund strenger Auflagen hoch sind. Um wirklich etwas zu verändern, muss umfassende Tierschutzarbeit im ganzen Land geleistet werden. Langfristig möchten wir durch Öffentlichkeitsarbeit und Aufklärung der Bevölkerung eine verantwortungsvollere Haltung fördern, die Angst vor Strassenhunden abbauen und mehr Empathie für ein friedliches Zusammenleben schaffen.</p>
 <br>
+<div class="half-width">
+      <img src="/images/ranchbilder6.jpeg" alt="Strays in need Serbia Team" />
+            <img src="/images/ranch9.jpeg" alt="Strays in need Serbia Team" />
+
+</div>
+<br>
 <b>Was wir brauchen</b>
+
 <p>Um weiterhelfen zu können, sind wir dringend auf Unterstützung angewiesen:</p>
 
 · <b>Spenden</b> für Futter, tierärztliche Versorgung und Unterhalt und Ausstattung der Ranch Tutu
@@ -28,23 +35,18 @@ title = 'Über uns'
 
 <p>Danke, dass du dich für unseren Verein interessierst und dir die Zeit nimmst, unsere Arbeit kennenzulernen. Jede Unterstützung hilft – gemeinsam können wir viel bewegen!</p>
     </div>
-      <div class="half-width">
-  <img src="/images/vorort.jpg" alt="Strays in need Serbia Team" />
-</div>
+
   </div>
 </div>
-
 <div class="centered-content" ><h3>Unser Team<h3></div>
 <div class="centered-content" style="background-color:rgb(255, 255, 255);">
-
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Daniela" width="180px" >}}
+      {{< figure src="/images/daniela.jpg" alt="Strays in need Serbia Daniela" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Daniela</h3>
-      <p><strong>Rolle im Verein:</strong> [ Vereins Präsidentin ]</p>
-      <p><strong>Meine Motivation:</strong> [ ...]</p>
+      <p>Präsidentin</p>
     </div>
   </div>
 
@@ -54,19 +56,17 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Sibylle</h3>
-      <p><strong>Rolle im Verein:</strong> [ Vereins Vizepräsidentin - Gründer und Sponsor Ranch Tutu ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Vizepräsidentin - Gründerin und Sponsorin Ranch Tutu</p>
     </div>
   </div>
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Fredy" width="180px" >}}
+      {{< figure src="/images/fredy.jpg" alt="Strays in need Serbia Fredy" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Fredy</h3>
-      <p><strong>Rolle im Verein:</strong> [ Buchhalter ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Kassier</p>
     </div>
   </div>
 
@@ -76,19 +76,17 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Nicole</h3>
-      <p><strong>Rolle im Verein:</strong> [ Social Media ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Social Media</p>
     </div>
   </div>
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danilo" width="180px" >}}
+      {{< figure src="/images/danilo.jpg" alt="Strays in need Serbia Danilo" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Danilo</h3>
-      <p><strong>Rolle im Verein:</strong> [ Entwickler Webseite ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Webseite</p>
     </div>
   </div>
 
@@ -98,8 +96,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Danijela</h3>
-      <p><strong>Rolle im Verein:</strong> [ Heldin vor Ort ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Heldin vor Ort</p>
     </div>
   </div>
 
@@ -109,20 +106,17 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Alexandra</h3>
-      <p><strong>Rolle im Verein:</strong> [ Heldin vor Ort ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Heldin vor Ort</p>
     </div>
   </div>
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Laura" width="180px" >}}
+      {{< figure src="/images/laura.jpg" alt="Strays in need Serbia Laura" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Laura</h3>
-      <p><strong>Rolle im Verein:</strong> [ Social Media ]</p>
-      <p><strong>Meine Motivation:</strong> [ ... ]</p>
+      <p>Social Media</p>
     </div>
   </div>
-  
 </div>

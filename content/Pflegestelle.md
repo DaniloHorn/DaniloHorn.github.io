@@ -1,3 +1,7 @@
++++
+title = 'Pflegestelle'
++++
+
 <div class="centered-content">
   <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
     <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Pflegestelle</h1>
@@ -9,7 +13,7 @@ Und genau da kommst du ins Spiel. Macht es dir Freude, einen Vierbeiner aufzuneh
 <br><br>
 Als Pflegestelle gibst du einem unserer Hunde die Möglichkeit, sich in einem liebevollen Zuhause von seiner Vergangenheit zu erholen. Du hilfst ihm, langsam wieder Vertrauen in uns Menschen zu fassen. Du zeigst ihm, wie es ist, in einem Haushalt zu leben, mit Alltag, Geborgenheit, Zuneigung und Sicherheit.
 <br><br>
-Was das bewirkt?
+<b>Was das bewirkt?</b>
 <br>
 • Der Hund kann sich in Ruhe entwickeln und zeigen, wer er wirklich ist.
 <br>
@@ -25,6 +29,11 @@ Wenn du Zeit, Geduld, Herz und vielleicht schon ein wenig Hundeerfahrung hast, d
 <br><br>
 Sei sein Zuhause auf Zeit. Und sein Weg in eine bessere Zukunft!
 <br>
+<br>
+<div class="half-width">
+      <img src="/images/ranchbilder10.jpeg" alt="Strays in need Serbia Team" />
+      <img src="/images/ranchbilder9.jpeg" alt="Strays in need Serbia Team" />
+    </div>
     </p>
   </div>
 </div>

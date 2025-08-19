@@ -1,9 +1,9 @@
-+++
-title = "Inpressum"
-+++
+<h2 style="font-size: 2em; font-weight: normal; margin-top: 20px;">
+  Impressum
+</h2>
 
 <p><strong>Verein:</strong><br>
-Strays in Need Serbia<br>
+Strays in need Serbia<br>
 9000 St. Gallen<br>
 Schweiz</p>
 

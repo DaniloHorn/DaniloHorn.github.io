@@ -1,5 +1,6 @@
 +++
 title = "Datenschutzerklärung"
+draft = true
 +++
 
 <p>Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und Zweck der Erhebung und Verwendung personenbezogener Daten auf unserer Website <strong>www.straysinneedserbia.ch</strong> (bzw. GitHub Pages).</p>

@@ -18,5 +18,10 @@ Oder wirke direkt vor Ort und unterstütze unser Team auf der Ranch Tutu als Vol
 <br><br>
   <a class="cta-btn" href="/Freiwilligenarbeit/" style="background-color:rgb(247, 208, 124); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;">Jetzt mithelfen</a>
     </p>
+
   </div>
+  <br>
+      <div class="half-width">
+      <img src="/images/ranchbilder8.jpeg" alt="Strays in need Serbia Team" />
+    </div>
 </div>
