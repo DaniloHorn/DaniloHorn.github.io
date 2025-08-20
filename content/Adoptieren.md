@@ -99,3 +99,17 @@ Johnny ist ein aufgeschlossener, sozialer Hund, der schnell die Herzen aller ero
     <a href="/johnny/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
+
+<br>
+<div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/milica/milica2.jpeg" alt="Milica" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Milica</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Milica, 6–7 Jahre alt, ist anfangs schüchtern, dann verschmust, lebhaft und verträglich mit Hunden und Katzen, geimpft, sterilisiert und sucht ein aktives, liebevolles Zuhause.
+    </p>
+    <a href="/milica/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
