@@ -62,6 +62,7 @@ weight = 10
   logo = "/images/strays-in-need-serbia.jpg"
   footer_text = "Strays in Need – Gemeinsam für eine bessere Zukunft für Tiere."
   body_classes = "quicksand bg-washed-white"
+  read_more_copy = "Mehr erfahren"
   custom_css = ["custom.css"]
     ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/strays_in_need_serbia/" },

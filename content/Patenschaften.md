@@ -2,9 +2,10 @@
 title = 'Patenschaften'
 +++
 
-<div class="centered-content">
-  <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-    <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Patenschaften</h1>
+<div class="centered-content2">
+  <div class="news-text">
+    <div class="text-col">
+      <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Patenschaften</h1>
 <b>Werde Patin oder Pate deines ausgewählten Schützlings</b>
 <br>
 Mit deiner Patenschaft unterstützt du gezielt <b>einen bestimmten Hund</b> auf unserer Ranch und schenkst ihm genau das, was er jetzt braucht: Sicherheit, Fürsorge und Hoffnung.
@@ -45,9 +46,10 @@ Herzlichen Dank schon jetzt für deine Unterstützung – das bedeutet uns ungla
 <br>
 <br>
     </p>
-  </div>
-  <div class="half-width">
+    </div>
+      <div class="half-width ">
       <img src="/images/ranchbilder11.jpeg" alt="Strays in need Serbia Team" />
-      <img src="/images/ranchbilder7.jpeg" alt="Strays in need Serbia Team" />
+      <img src="/images/ranchbilder6.jpeg" alt="Strays in need Serbia Team" />
     </div>
+  </div>
 </div>

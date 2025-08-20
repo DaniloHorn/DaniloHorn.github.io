@@ -2,10 +2,10 @@
 title = 'Mitglied werden'
 +++
 
-<div class="centered-content">
-  <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-    <h2 style="color: #065f46; margin-top: 0;">Mitglied werden</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
+<div class="centered-content2">
+  <div class="news-text">
+    <div class="text-col">
+    <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Mitglied werden</h1>
       <b>Willst du selber aktiv werden?</b>
 <br>
 Dann werde Teil unseres engagierten Vereins und hilf uns, das Leben von Strassenhunden in Ruma, Serbien zu verbessern! 
@@ -18,10 +18,10 @@ Oder wirke direkt vor Ort und unterstütze unser Team auf der Ranch Tutu als Vol
 <br><br>
   <a class="cta-btn" href="/Freiwilligenarbeit/" style="background-color:rgb(247, 208, 124); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;">Jetzt mithelfen</a>
     </p>
-
   </div>
   <br>
-      <div class="half-width">
+      <div class="half-width ">
       <img src="/images/ranchbilder8.jpeg" alt="Strays in need Serbia Team" />
     </div>
+  </div>
 </div>

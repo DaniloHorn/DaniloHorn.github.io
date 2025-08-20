@@ -1,990 +1,138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://DaniloHorn.github.io/</link><description>Recent content on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://DaniloHorn.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>https://DaniloHorn.github.io/news/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/news/</guid><description>&lt;div class="centered-content">
- &lt;div style="flex: 100%;">
- &lt;figure>&lt;img src="https://DaniloHorn.github.io/images/gofundme.webp"
- alt="gofundme strays in need serbia" width="100%">
- &lt;/figure>
-
- &lt;/div>
- &lt;!-- Neuer Wrapper für den Text und den Button -->
- &lt;div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
- &lt;h2 style="color: #065f46; margin-top: 0;">Neues Projekt auf gofundme&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
- &lt;b>Bau mit uns ein Tierheim für die Strassenhunde von Serbien&lt;/b>
- &lt;br>&lt;br>
- Liebe Hundefreunde,
- &lt;br>&lt;br>
- Wir sind Strays in need Serbia, ein Tierschutzverein mit Sitz in der Schweiz. Im April 2025 haben wir unser neues Tierheim in der Stadt Ruma, Serbien eröffnet und stehen noch ganz am Anfang. Unser Ziel ist es, Strassenhunden ein sicheres Zuhause zu bieten, mit Fürsorge, Schutz und einer Perspektive auf ein besseres Leben.
- &lt;br>&lt;br>
- Doch um ihnen wirklich helfen zu können, brauchen wir dringend deine Unterstützung!
- &lt;/p></description></item><item><title>Adoptieren</title><link>https://DaniloHorn.github.io/adoptieren/</link><pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/adoptieren/</guid><description>&lt;div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
- &lt;div style="display: flex;">
- &lt;figure>&lt;img src="https://DaniloHorn.github.io/images/saru/saru1.jpg"
- alt="Saru" width="300px">
- &lt;/figure>
-
- &lt;/div>
- &lt;div style="flex: 1;">
- &lt;h2 style="margin-top: 0; color: #333;">Saru&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
- Saru ist ein sensibler, etwa 4–5 Jahre alter Rüde, der nach einem Leben voller Angst nun endlich ein liebevolles Zuhause sucht. Er ist freundlich und ruhig, braucht aber viel Geduld, um Vertrauen zu fassen – ein sicherer Einzelplatz wäre sein grosses Glück..
- &lt;/p>
- &lt;a href="https://DaniloHorn.github.io/saru/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren&lt;/a>
- &lt;/div>
-&lt;/div>
-&lt;br>
-&lt;div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
- &lt;div style="display: flex;">
- &lt;figure>&lt;img src="https://DaniloHorn.github.io/images/mara/mara1.png"
- alt="Mara" width="300px">
- &lt;/figure>
-
- &lt;/div>
- &lt;div style="flex: 1;">
- &lt;h2 style="margin-top: 0; color: #333;">Mara&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
-Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und lebt nun sicher auf unserer Ranch. Nachdem ihre Mutter gerettet wurde, wartet Mara mit ihrem liebevollen Wesen und ihrer Lernfreude auf ein Zuhause, in dem sie ihr grosses Herz verschenken darf.
- &lt;/p></description></item><item><title>Spenden</title><link>https://DaniloHorn.github.io/spenden/</link><pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/spenden/</guid><description>&lt;div class="centered-content" style="background-color:rgb(255, 255, 255);">
-&lt;div class="news-text" style="flex: 2 1 400px; background-color:#fff; padding:1.5rem 2rem; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,0.1); display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem;">
- &lt;div>
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Spendenkonto&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Verein:&lt;/strong> Strays in need Serbia
- &lt;br>
- &lt;strong>Ort:&lt;/strong> 9000 St. Gallen
- &lt;br>
- &lt;strong>Bank:&lt;/strong> Aargauische Kantonalbank
- &lt;br>
- &lt;strong>Kontonummer:&lt;/strong> 649297282001
- &lt;br>
- &lt;strong>Bankclearing:&lt;/strong> 761
- &lt;br>
- &lt;strong>IBAN:&lt;/strong> CH8100761649297282001
- &lt;/p>
- &lt;/div>
- &lt;img src="https://DaniloHorn.github.io/images/spendenkonto.png" alt="Spendenkonto" style="height:230px; flex:0 0 auto;">
-&lt;/div>
-&lt;div class="news-text" style="flex: 2 1 400px; background-color:#fff; padding:1.5rem 2rem; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,0.1); display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem;">
- &lt;div>
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">TWINT oder PayPal&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;b>Spende via Twint oder PayPal&lt;/b>
- &lt;/p></description></item><item><title/><link>https://DaniloHorn.github.io/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/impressum/</guid><description>&lt;h2 style="font-size: 2em; font-weight: normal; margin-top: 20px;">
- Impressum
-&lt;/h2>
-&lt;p>&lt;strong>Verein:&lt;/strong>&lt;br>
-Strays in need Serbia&lt;br>
-9000 St. Gallen&lt;br>
-Schweiz&lt;/p>
-&lt;p>&lt;strong>Kontakt:&lt;/strong>&lt;br>
-E-Mail: &lt;a href="mailto:straysinneedserbia@gmail.com">straysinneedserbia@gmail.com&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Haftungsausschluss:&lt;/strong>&lt;br>
-Die Inhalte dieser Website werden mit grösstmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Die Nutzung der Website erfolgt auf eigene Gefahr.&lt;/p>
-&lt;p>&lt;strong>Urheberrechte:&lt;/strong>&lt;br>
-Die auf dieser Website veröffentlichten Inhalte unterliegen dem schweizerischen Urheberrecht. Jede nicht ausdrücklich erlaubte Verwertung bedarf der vorherigen schriftlichen Zustimmung des Vereins.&lt;/p></description></item><item><title>Dolly</title><link>https://DaniloHorn.github.io/dolly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/dolly/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/dolly/dolly1.jpeg" class="glightbox" data-gallery="dolly" data-title="dolly1.jpeg">
- &lt;img src="https://DaniloHorn.github.io/images/dolly/dolly1.jpeg" alt="dolly - dolly1.jpeg" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/dolly/dolly2.jpeg" class="glightbox" data-gallery="dolly" data-title="dolly2.jpeg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/dolly/dolly3.jpeg" class="glightbox" data-gallery="dolly" data-title="dolly3.jpeg" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Dolly&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Mischling
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2023
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Männlich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 01.01.2025
- &lt;br>&lt;br>
-Dolly sucht ein Zuhause 🐾
-&lt;p>Unsere süsse, immer gut gelaunte Dolly sucht ein liebevolles Zuhause.
-Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden zu spielen. Dolly ist äusserst sozial – ob mit Menschen, Hunden, Katzen oder Kindern, sie kommt mit allen wunderbar aus. Einfach eine grossartige Hündin!&lt;/p></description></item><item><title>Eliot</title><link>https://DaniloHorn.github.io/eliot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/eliot/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/eliot/eliot1.jpeg" class="glightbox" data-gallery="eliot" data-title="eliot1.jpeg">
- &lt;img src="https://DaniloHorn.github.io/images/eliot/eliot1.jpeg" alt="eliot - eliot1.jpeg" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/eliot/eliot2.jpeg" class="glightbox" data-gallery="eliot" data-title="eliot2.jpeg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/eliot/eliot3.jpeg" class="glightbox" data-gallery="eliot" data-title="eliot3.jpeg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/eliot/eliot4.jpeg" class="glightbox" data-gallery="eliot" data-title="eliot4.jpeg" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Eliot&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Mischling
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2025
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Männlich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 01.01.2025
- &lt;br>&lt;br>
-Eliot sucht ein Zuhause 🐾
-&lt;p>Unser hübscher Eliot sucht ein liebevolles neues Zuhause.
-Er wurde gemeinsam mit seiner Mama auf der Strasse gefunden. Damals war Eliot sehr krank, doch mit viel Fürsorge und Pflege ist er wieder ganz gesund geworden.
-Nun ist er bereit, in sein eigenes Glück zu starten.&lt;/p></description></item><item><title>Freiwilligenarbeit</title><link>https://DaniloHorn.github.io/freiwilligenarbeit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/freiwilligenarbeit/</guid><description>&lt;div class="centered-content">
- &lt;div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
- &lt;h2 style="color: #065f46; margin-top: 0;">Freiwilligenarbeit&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
- &lt;b>Freiwilligenarbeit bei uns auf der Ranch Tutu&lt;/b>
-&lt;br>
-Möchtest du dich aktiv im Tierschutz engagieren?
-&lt;br>
-Werde Teil unseres Tierheim-Teams.
-&lt;br>&lt;br>
-Du liebst Hunde und möchtest ihnen helfen, ein besseres Leben zu führen? Dann freuen wir uns riesig, wenn du uns im Tierheim unterstützt – Jede helfende Hand zählt!
-&lt;br>&lt;br>
-Wir bieten dir ein kleines Häuschen mit 2 Schlafplätzen, Küche und Badezimmer, ideal, um mitten unter Hunden zu leben und ihnen deine Zeit und Liebe zu schenken.
-&lt;br>&lt;br>
-Was dich erwartet:
-&lt;br>
-• Gassigehen/ Beschäftigung mit unseren Hunden
-&lt;br>
-• Zwinger sauber machen, damit sich unsere Vierbeiner wohlfühlen
-&lt;br>
-• Füttern, Kuscheln und Zeit schenken, denn Liebe heilt oft mehr als Medizin
-&lt;br>
-• Helfen, unsere Ranch schöner zu gestalten, ein Zuhause auf Zeit soll auch schön sein
-&lt;br>
-• Und vieles mehr, was Mensch und Hund guttut
-&lt;br>&lt;br>
-Unsere Hunde warten auf Menschen wie dich, mit offenen Herzen und wedelnden Schwänzen.
-&lt;br>
-Wenn du mit anpacken, lachen, manchmal auch weinen, aber vor allem lieben willst, dann melde dich bei uns – wir freuen uns auf dich!
- &lt;/p></description></item><item><title>Johnny</title><link>https://DaniloHorn.github.io/johnny/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/johnny/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/johnny/johnny1.jpeg" class="glightbox" data-gallery="johnny" data-title="johnny1.jpeg">
- &lt;img src="https://DaniloHorn.github.io/images/johnny/johnny1.jpeg" alt="johnny - johnny1.jpeg" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/johnny/johnny2.jpeg" class="glightbox" data-gallery="johnny" data-title="johnny2.jpeg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/johnny/johnny3.jpeg" class="glightbox" data-gallery="johnny" data-title="johnny3.jpeg" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Johnny&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Mischling
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2020
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Männlich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 01.01.2021
- &lt;br>&lt;br>
- Johnny sucht ein Zuhause 🐾
-&lt;p>Johnny lebte ausserhalb von Ruma in einem kleinen Dorf. Dort war er nicht mehr willkommen und sollte ins städtische Tierheim gebracht werden – für viele Hunde bedeutet das leider den Tod.
-Durch einen rechtzeitigen Anruf konnten wir ihn zu uns holen. Die letzten Jahre verbrachte Johnny in einer privaten Unterkunft, und nun darf er sein Leben bei uns auf der Ranch geniessen.&lt;/p></description></item><item><title>Kontakt</title><link>https://DaniloHorn.github.io/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/kontakt/</guid><description>&lt;div class="centered-content">
-&lt;div class="kontakt-info" style="text-align: center; width: 100%;">
- &lt;h2>Kontaktiere uns&lt;/h2>
- &lt;p class="f6 lh-copy">
- Besuche uns auch auf: 
- &lt;a href="https://www.instagram.com/strays_in_need_serbia/" class="link light-blue hover-white">
- &lt;u>Instagram&lt;/u>
- &lt;/a>
- &lt;/p>
-&lt;/div>
-&lt;form action="https://formsubmit.co/straysinneedserbia@gmail.com" method="POST" class="kontakt-formular" onsubmit="return showPopup();" style="margin: 0 auto; max-width: 800px;">
- &lt;input type="text" name="_honey" style="display:none">
- &lt;input type="hidden" name="_captcha" value="false">
-&lt;p>&lt;label>Name:&lt;span style="color: red;"> *&lt;/span>
-&lt;input type="text" name="name" required placeholder="Max Mustermann" />
-&lt;/label>&lt;/p>
-&lt;p>&lt;label>Email:&lt;span style="color: red;"> *&lt;/span>
-&lt;input type="email" name="email" required placeholder="max@example.com" />
-&lt;/label>&lt;/p>
-&lt;p>&lt;label>Betreff:
-&lt;select name="betreff">&lt;/p>
-&lt;option value="Allgemeine Anfrage">Allgemeine Anfrage&lt;/option>
-&lt;option value="Spende">Spende&lt;/option>
-&lt;option value="Adoption">Adoption&lt;/option>
-&lt;option value="Mitglied werden">Mitglied werden&lt;/option>
-&lt;option value="Patenschaften">Patenschaften&lt;/option>
-&lt;option value="Freiwilligenarbeit">Freiwilligenarbeit&lt;/option>
-&lt;option value="Pflegestelle">Pflegestelle&lt;/option>
-&lt;option value="Sonstiges">Sonstiges&lt;/option>
-&lt;/select>
-&lt;/label>
-&lt;p>&lt;label>Nachricht:&lt;span style="color: red;"> *&lt;/span>&lt;/p>
-&lt;textarea name="nachricht" id="nachricht" rows="5" maxlength="600" required placeholder="Deine Nachricht an uns...">&lt;/textarea>
-&lt;div class="counter">&lt;span id="zeichen">0&lt;/span>/600 Zeichen&lt;/div>
-&lt;/label>
-&lt;button type="submit">Senden&lt;/button>
-&lt;/form>
-&lt;div class="popup" id="popup">
- ✅ Danke für deine Nachricht! Wir melden uns bald bei dir.
-&lt;/div>
-&lt;script>
- // Zeichenzähler
- const textarea = document.getElementById('nachricht');
- const counter = document.getElementById('zeichen');
- textarea.addEventListener('input', () => {
- counter.textContent = textarea.value.length;
- });
-&lt;/script>
-&lt;/div></description></item><item><title>Mara</title><link>https://DaniloHorn.github.io/mara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/mara/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/mara/mara1.png" class="glightbox" data-gallery="mara" data-title="mara1.png">
- &lt;img src="https://DaniloHorn.github.io/images/mara/mara1.png" alt="mara - mara1.png" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/mara/mara2.png" class="glightbox" data-gallery="mara" data-title="mara2.png" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/mara/mara3.mp4" class="glightbox" data-gallery="mara" data-title="mara3.mp4" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Mara&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Mischling
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2025
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Weiblich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 2025
- &lt;br>&lt;br>
-Mara sucht ein Zuhause 🐾
-&lt;p>Ihre Mutter lebte in einem verlassenen Haus und brachte dort fünf Welpen zur Welt. Gelegentliche Passanten und einige Nachbarn gaben ihr etwas Futter und Wasser, damit sie den kalten Winter überstehen konnte. Und tatsächlich: Sie schaffte es, ihre Welpen grosszuziehen, klein, glücklich und noch völlig ahnungslos darüber, wie grausam die Welt manchmal sein kann.&lt;/p></description></item><item><title>Mitglied werden</title><link>https://DaniloHorn.github.io/mitglied-werden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/mitglied-werden/</guid><description>&lt;div class="centered-content">
- &lt;div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
- &lt;h2 style="color: #065f46; margin-top: 0;">Mitglied werden&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
- &lt;b>Willst du selber aktiv werden?&lt;/b>
-&lt;br>
-Dann werde Teil unseres engagierten Vereins und hilf uns, das Leben von Strassenhunden in Ruma, Serbien zu verbessern! 
-&lt;br>
-Gemeinsam können wir Grosses erreichen. Wir freuen uns auf deine Unterstützung als Vereinsmitglied!
-&lt;br>&lt;br>
- &lt;a class="cta-btn" href="https://DaniloHorn.github.io/kontakt/" style="background-color:rgb(247, 208, 124); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;">Jetzt Mitglied werden&lt;/a>
- &lt;br>&lt;br>
-Oder wirke direkt vor Ort und unterstütze unser Team auf der Ranch Tutu als Volunteer.
-&lt;br>&lt;br>
- &lt;a class="cta-btn" href="https://DaniloHorn.github.io/Freiwilligenarbeit/" style="background-color:rgb(247, 208, 124); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;">Jetzt mithelfen&lt;/a>
- &lt;/p></description></item><item><title>Patenschaften</title><link>https://DaniloHorn.github.io/patenschaften/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/patenschaften/</guid><description>&lt;div class="centered-content">
- &lt;div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
- &lt;h1 style="color:rgb(6, 85, 95); margin-top: 0;">Patenschaften&lt;/h1>
-&lt;b>Werde Patin oder Pate deines ausgewählten Schützlings&lt;/b>
-&lt;br>
-Mit deiner Patenschaft unterstützt du gezielt &lt;b>einen bestimmten Hund&lt;/b> auf unserer Ranch und schenkst ihm genau das, was er jetzt braucht: Sicherheit, Fürsorge und Hoffnung.
-&lt;br>&lt;br>
-&lt;b>Was bedeutet es, eine Patenschaft zu übernehmen?&lt;/b>
-&lt;br>
-Du übernimmst symbolisch die Versorgung &lt;b>eines einzelnen Hundes&lt;/b>, der aktuell auf unserer Ranch lebt.
-&lt;br>
-Deine monatliche Unterstützung von &lt;b>CHF 40.00&lt;/b> hilft dabei, die laufenden Kosten für deinen Schützling zu decken, darunter fallen:
-&lt;br>
-• Futter &amp; tägliche Pflege
-&lt;br>
-• Tierarztkosten, Impfungen &amp; Medikamente
-&lt;br>
-• Kastration, Chip &amp; Parasitenbehandlung
-&lt;br>
-• Unterbringung &amp; artgerechte Beschäftigung
-&lt;br>&lt;br>
-Mit deiner Patenschaft gibst du deinem ausgewählten Schützling Stabilität, auch wenn du ihn (noch) nicht adoptieren kannst.
-&lt;br>&lt;br>
-&lt;b>Was bekommst du als Patin oder Pate?&lt;/b>
-&lt;br>
-• Eine persönliche Patenschaftsurkunde
-&lt;br>
-• Fotos und Videos deines Patenhundes
-&lt;br>
-• Die Möglichkeit, deinen Schützling jederzeit auf der Ranch zu besuchen (nach Absprache)
-&lt;br>&lt;br>
-&lt;b>Wie lange dauert eine Patenschaft?&lt;/b>
-&lt;br>
-Die Patenschaft ist flexibel und monatlich kündbar, du entscheidest, wie lange du unterstützen möchtest.
-&lt;br>&lt;br>
-&lt;b>So funktioniert’s:&lt;/b>
-&lt;br>
-Wenn du eine Patenschaft für einen unserer Hunde übernehmen möchtest, schick uns einfach eine E-Mail mit dem Namen des Hundes oder füll das Kontaktformular aus – wir melden uns dann persönlich bei dir.
-&lt;br>&lt;br>
-Herzlichen Dank schon jetzt für deine Unterstützung – das bedeutet uns unglaublich viel!
-&lt;br>
-&lt;br>
- &lt;/p></description></item><item><title>Pflegestelle</title><link>https://DaniloHorn.github.io/pflegestelle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/pflegestelle/</guid><description>&lt;div class="centered-content">
- &lt;div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
- &lt;h1 style="color:rgb(6, 85, 95); margin-top: 0;">Pflegestelle&lt;/h1>
-&lt;b>Werde Pflegestelle – schenk einem Hund eine zweite Chance auf Leben und Liebe&lt;/b>
-&lt;br>&lt;br>
-Unsere Hunde haben oft keinen leichten Start ins Leben gehabt. Viele von ihnen kommen aus schlimmen Verhältnissen, ausgesetzt, vernachlässigt oder misshandelt. Sie tragen Angst, Misstrauen und Unsicherheit mit sich. Was sie jetzt brauchen, ist kein kalter Zwinger, sondern ein Herz, das sie aufnimmt.
-&lt;br>&lt;br>
-Und genau da kommst du ins Spiel. Macht es dir Freude, einen Vierbeiner aufzunehmen, bis er in sein endgültiges Zuhause ziehen darf?
-&lt;br>&lt;br>
-Als Pflegestelle gibst du einem unserer Hunde die Möglichkeit, sich in einem liebevollen Zuhause von seiner Vergangenheit zu erholen. Du hilfst ihm, langsam wieder Vertrauen in uns Menschen zu fassen. Du zeigst ihm, wie es ist, in einem Haushalt zu leben, mit Alltag, Geborgenheit, Zuneigung und Sicherheit.
-&lt;br>&lt;br>
-&lt;b>Was das bewirkt?&lt;/b>
-&lt;br>
-• Der Hund kann sich in Ruhe entwickeln und zeigen, wer er wirklich ist.
-&lt;br>
-• Interessenten können ihn bei dir kennenlernen, in einer Umgebung, in der er sich wohlfühlt.
-&lt;br>
-• Die Chance, sein Für-immer-Zuhause zu finden, steigt dadurch enorm.
-&lt;br>
-• Und: Wenn ein Hund in Pflege geht, wird bei uns im Tierheim ein Platz frei, für einen anderen, der dringend Hilfe braucht.
-&lt;br>&lt;br>
-Pflegestelle zu sein bedeutet Verantwortung, ja, aber vor allem bedeutet es Liebe. Du begleitest einen Hund mit viel Geduld auf einem der wichtigsten Schritte seines Lebens: vom gebrochenen Tier zur glücklichen Seele mit Perspektive.
-&lt;br>&lt;br>
-Wenn du Zeit, Geduld, Herz und vielleicht schon ein wenig Hundeerfahrung hast, dann melde dich bei uns. Gemeinsam schenken wir einem Vierbeiner die Hoffnung zurück.
-&lt;br>&lt;br>
-Sei sein Zuhause auf Zeit. Und sein Weg in eine bessere Zukunft!
-&lt;br>
-&lt;br>
-&lt;div class="half-width">
- &lt;img src="https://DaniloHorn.github.io/images/ranchbilder10.jpeg" alt="Strays in need Serbia Team" />
- &lt;img src="https://DaniloHorn.github.io/images/ranchbilder9.jpeg" alt="Strays in need Serbia Team" />
-    &lt;/div>
- &lt;/p></description></item><item><title>Sam</title><link>https://DaniloHorn.github.io/sam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/sam/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/sam/sam1.jpg" class="glightbox" data-gallery="sam" data-title="sam1.jpg">
- &lt;img src="https://DaniloHorn.github.io/images/sam/sam1.jpg" alt="sam - sam1.jpg" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/sam/sam2.jpeg" class="glightbox" data-gallery="sam" data-title="sam2.jpeg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/sam/sam3.jpeg" class="glightbox" data-gallery="sam" data-title="sam3.jpeg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/sam/sam4.mp4" class="glightbox" data-gallery="sam" data-title="sam4.mp4" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/sam/sam5.mp4" class="glightbox" data-gallery="sam" data-title="sam5.mp4" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Sam&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Mischling
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2023
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Männlich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 01.01.2024
- &lt;br>&lt;br>
- Sam sucht ein Zuhause 🐾
-&lt;p>Unser süsser Junge ist ca. 2,5 Jahre alt und wiegt etwa 15 kg.
-Sam hat einen wundervollen Charakter: Er ist verschmust, menschenbezogen, unkompliziert, sozial und sehr anpassungsfähig.
-Er liebt es, in Kontakt mit Menschen zu sein und verteilt mit Begeisterung Küsschen!&lt;/p></description></item><item><title>Saru</title><link>https://DaniloHorn.github.io/saru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/saru/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/saru/saru1.jpg" class="glightbox" data-gallery="saru" data-title="saru1.jpg">
- &lt;img src="https://DaniloHorn.github.io/images/saru/saru1.jpg" alt="saru - saru1.jpg" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/saru/saru2.jpg" class="glightbox" data-gallery="saru" data-title="saru2.jpg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/saru/saru3.mp4" class="glightbox" data-gallery="saru" data-title="saru3.mp4" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/saru/saru4.mp4" class="glightbox" data-gallery="saru" data-title="saru4.mp4" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Saru&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Rottweiler
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2021
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Männlich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 01.02.2025
- &lt;br>&lt;br>
- Saru sucht ein Zuhause 🐾
-&lt;p>Dieser wunderschöne Rüde ist ca. 4–5 Jahre alt und wiegt etwa 40 kg.
-Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider müssen wir davon ausgehen, dass er in seinem bisherigen Leben kaum gute Erfahrungen machen durfte.&lt;/p></description></item><item><title>Teddy</title><link>https://DaniloHorn.github.io/teddy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/teddy/</guid><description>&lt;div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
-
-
-
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
- &lt;style>
- .gallery-preview-container {
- position: relative;
- width: 100%;
- cursor: pointer;
- }
- .gallery-preview-container img {
- width: 100%;
- border-radius: 8px;
- display: block;
- }
- .gallery-preview-overlay {
- position: absolute;
- top: 0; left: 0;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.4);
- color: white;
- font-size: 1.2rem;
- font-weight: bold;
- display: flex;
- align-items: center;
- justify-content: center;
- border-radius: 8px;
- opacity: 0;
- transition: opacity 0.3s ease;
- }
- .gallery-preview-container:hover .gallery-preview-overlay,
- .gallery-preview-container:focus-within .gallery-preview-overlay {
- opacity: 1;
- }
- @media (hover: none) and (pointer: coarse) {
- .gallery-preview-overlay {
- opacity: 1 !important;
- }
- }
- &lt;/style>
-
- &lt;div class="gallery-preview-container">
- &lt;a href="https://DaniloHorn.github.io/images/teddy/teddy1.jpg" class="glightbox" data-gallery="teddy" data-title="teddy1.jpg">
- &lt;img src="https://DaniloHorn.github.io/images/teddy/teddy1.jpg" alt="teddy - teddy1.jpg" />
- &lt;div class="gallery-preview-overlay">Galerie anzeigen&lt;/div>
- &lt;/a>
- &lt;/div>
-
- 
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/teddy/teddy2.jpg" class="glightbox" data-gallery="teddy" data-title="teddy2.jpg" style="display: none;">&lt;/a>
- 
- 
- 
- &lt;a href="https://DaniloHorn.github.io/images/teddy/teddy3.mp4" class="glightbox" data-gallery="teddy" data-title="teddy3.mp4" style="display: none;">&lt;/a>
- 
- 
-
-
- &lt;div class="news-text" style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
- &lt;h2 style="color:rgb(6, 85, 95); margin-top: 0;">Teddy&lt;/h2>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
- &lt;strong>Rasse:&lt;/strong> Shar Pei
- &lt;br>
- &lt;strong>Geburtstag:&lt;/strong> 01.01.2021
- &lt;br>
- &lt;strong>Geschlecht&lt;/strong> Männlich
- &lt;br>
- &lt;strong>Herkunft:&lt;/strong> Ruma / Serbien
- &lt;br>
- &lt;strong>Gefunden am:&lt;/strong> 01.01.2024
- &lt;br>&lt;br>
-Teddy sucht ein Zuhause 🐾
-&lt;p>Der hübsche Shar Pei Rüde ist circa 4 Jahre alt.&lt;/p></description></item><item><title>Über uns</title><link>https://DaniloHorn.github.io/ueber-uns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://DaniloHorn.github.io/ueber-uns/</guid><description>&lt;div class="centered-content" style="display: flex; gap: 2rem; align-items: center; padding: 2rem; border-radius: 16px; flex-wrap: wrap;">
- &lt;div style="flex: 1; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
- &lt;h3 style="color:rgb(0, 0, 0); margin-top: 0;">Unsere Geschichte&lt;/h3>
- &lt;p style="font-size: 1.1rem; line-height: 1.6; color: #334155;">
- &lt;div style="margin-top: 1rem; color: #334155; line-height: 1.6;">
-&lt;p>Ruma, eine Kleinstadt im serbischen Okrug Srem mit rund 30’000 Einwohnern, leidet – wie ganz Serbien – seit jeher unter einer grossen Zahl streunender und unerwünschter Hunde und Katzen. Das Problem wächst stetig: Es gibt keine systematische Kastration, und das Bewusstsein in der Bevölkerung für verantwortungsvolle Tierhaltung ist sehr gering. Vor allem Hunde werden immer wieder am Strassenrand ausgesetzt, an Laternenpfählen angebunden oder als Welpen in Kartons bei Müllhalden entsorgt. Die Behörden sehen meist weg, staatliche Tierheime sind überfüllt und die Zustände dort sind oft katastrophal. Noch immer betrachten viele Menschen Strassenhunde als Störung – nicht als fühlende Lebewesen, die Schutz und Hilfe brauchen. Schätzungen zufolge leben in Ruma und den umliegenden Dörfern mehrere Hundert streunende Hunde und Katzen. Jede einzelne dieser Seelen hat ihre eigene traurige Geschichte: ausgesetzte Würfe, verletzte und misshandelte Tiere, alte oder kranke Tiere, die meist einsam und qualvoll sterben.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>&lt;div class=&#34;centered-content&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;news-text&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;text-col&#34;&gt;&#xD;&#xA;      &lt;h2 style=&#34;color: #065f46; margin-top: 0;&#34;&gt;Neues Projekt auf gofundme&lt;/h2&gt;&#xD;&#xA;      &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;b&gt;Bau mit uns ein Tierheim für die Strassenhunde von Serbien&lt;/b&gt;&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;      Liebe Hundefreunde,&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;      Wir sind Strays in need Serbia, ein Tierschutzverein mit Sitz in der Schweiz. Im April 2025 haben wir unser neues Tierheim in der Stadt Ruma, Serbien eröffnet und stehen noch ganz am Anfang. Unser Ziel ist es, Strassenhunden ein sicheres Zuhause zu bieten, mit Fürsorge, Schutz und einer Perspektive auf ein besseres Leben.&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;      Doch um ihnen wirklich helfen zu können, brauchen wir dringend deine Unterstützung!&#xD;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adoptieren</title>
+      <link>http://localhost:1313/adoptieren/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/adoptieren/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);&#34;&gt;&#xD;&#xA;  &lt;div style=&#34;display: flex;&#34;&gt;&#xD;&#xA;    &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/saru/saru1.jpg&#34;&#xA;        alt=&#34;Saru&#34; width=&#34;300px&#34;&gt;&#xA;    &lt;/figure&gt;&#xA;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;margin-top: 0; color: #333;&#34;&gt;Saru&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: #444;&#34;&gt;&#xD;&#xA;      Saru ist ein sensibler, etwa 4–5 Jahre alter Rüde, der nach einem Leben voller Angst nun endlich ein liebevolles Zuhause sucht. Er ist freundlich und ruhig, braucht aber viel Geduld, um Vertrauen zu fassen – ein sicherer Einzelplatz wäre sein grosses Glück..&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/saru/&#34; style=&#34;display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;&#34;&gt;Mehr erfahren&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;div class=&#34;centered-content single-flex&#34; style=&#34;display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);&#34;&gt;&#xD;&#xA;  &lt;div style=&#34;display: flex;&#34;&gt;&#xD;&#xA;    &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/mara/mara1.png&#34;&#xA;        alt=&#34;Mara&#34; width=&#34;300px&#34;&gt;&#xA;    &lt;/figure&gt;&#xA;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;margin-top: 0; color: #333;&#34;&gt;Mara&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: #444;&#34;&gt;&#xD;&#xA;Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und lebt nun sicher auf unserer Ranch. Nachdem ihre Mutter gerettet wurde, wartet Mara mit ihrem liebevollen Wesen und ihrer Lernfreude auf ein Zuhause, in dem sie ihr grosses Herz verschenken darf.&#xD;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spenden</title>
+      <link>http://localhost:1313/spenden/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/spenden/</guid>
+      <description>&lt;div class=&#34;centered-content&#34; style=&#34;background-color:rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&lt;div class=&#34;news-text&#34; style=&#34;flex: 2 1 400px; background-color:#fff; padding:1.5rem 2rem; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,0.1); display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem;&#34;&gt;&#xD;&#xA;  &lt;div&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Spendenkonto&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Verein:&lt;/strong&gt; Strays in need Serbia&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Ort:&lt;/strong&gt; 9000 St. Gallen&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Bank:&lt;/strong&gt; Aargauische Kantonalbank&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Kontonummer:&lt;/strong&gt; 649297282001&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Bankclearing:&lt;/strong&gt; 761&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;IBAN:&lt;/strong&gt; CH8100761649297282001&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/spendenkonto.png&#34; alt=&#34;Spendenkonto&#34; style=&#34;height:230px; flex:0 0 auto;&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;news-text&#34; style=&#34;flex: 2 1 400px; background-color:#fff; padding:1.5rem 2rem; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,0.1); display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem;&#34;&gt;&#xD;&#xA;  &lt;div&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;TWINT oder PayPal&lt;/h2&gt;&#xD;&#xA;            &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;    &lt;b&gt;Spende via Twint oder PayPal&lt;/b&gt;&#xD;&#xA;  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;h2 style=&#34;font-size: 2em; font-weight: normal; margin-top: 20px;&#34;&gt;&#xD;&#xA;  Impressum&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Verein:&lt;/strong&gt;&lt;br&gt;&#xD;&#xA;Strays in need Serbia&lt;br&gt;&#xD;&#xA;9000 St. Gallen&lt;br&gt;&#xD;&#xA;Schweiz&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xD;&#xA;E-Mail: &lt;a href=&#34;mailto:straysinneedserbia@gmail.com&#34;&gt;straysinneedserbia@gmail.com&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Haftungsausschluss:&lt;/strong&gt;&lt;br&gt;&#xD;&#xA;Die Inhalte dieser Website werden mit grösstmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Die Nutzung der Website erfolgt auf eigene Gefahr.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Urheberrechte:&lt;/strong&gt;&lt;br&gt;&#xD;&#xA;Die auf dieser Website veröffentlichten Inhalte unterliegen dem schweizerischen Urheberrecht. Jede nicht ausdrücklich erlaubte Verwertung bedarf der vorherigen schriftlichen Zustimmung des Vereins.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/datenschutzerkl%C3%A4rung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/datenschutzerkl%C3%A4rung/</guid>
+      <description>&lt;p&gt;Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und Zweck der Erhebung und Verwendung personenbezogener Daten auf unserer Website &lt;strong&gt;www.straysinneedserbia.ch&lt;/strong&gt; (bzw. GitHub Pages).&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Verantwortlich&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Strays in Need Serbia&lt;br&gt;&#xD;&#xA;9000 St. Gallen&lt;br&gt;&#xD;&#xA;E-Mail: &lt;a href=&#34;mailto:straysinneedserbia@gmail.com&#34;&gt;straysinneedserbia@gmail.com&lt;/a&gt;&lt;br&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;1. Erhebung und Verarbeitung personenbezogener Daten&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Wir erheben und verarbeiten personenbezogene Daten nur, wenn Sie uns diese freiwillig übermitteln – etwa durch das Ausfüllen eines Kontaktformulars oder durch direkte Kontaktaufnahme per E-Mail.&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;2. Kontaktformular&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Wenn Sie uns per Formular kontaktieren, speichern wir Ihre Angaben (Name, E-Mail-Adresse, Nachricht), um Ihre Anfrage zu bearbeiten. Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dolly</title>
+      <link>http://localhost:1313/dolly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dolly/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/dolly/dolly1.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;dolly&#34; data-title=&#34;dolly1.jpeg&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/dolly/dolly1.jpeg&#34; alt=&#34;dolly - dolly1.jpeg&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/dolly/dolly2.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;dolly&#34; data-title=&#34;dolly2.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/dolly/dolly3.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;dolly&#34; data-title=&#34;dolly3.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Dolly&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Mischling&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2023&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Männlich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 01.01.2025&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;Dolly sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Unsere süsse, immer gut gelaunte Dolly sucht ein liebevolles Zuhause.&#xA;Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden zu spielen. Dolly ist äusserst sozial – ob mit Menschen, Hunden, Katzen oder Kindern, sie kommt mit allen wunderbar aus. Einfach eine grossartige Hündin!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eliot</title>
+      <link>http://localhost:1313/eliot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eliot/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/eliotcute/eliot1.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;eliotcute&#34; data-title=&#34;eliot1.jpeg&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/eliotcute/eliot1.jpeg&#34; alt=&#34;eliotcute - eliot1.jpeg&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/eliotcute/eliot2.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;eliotcute&#34; data-title=&#34;eliot2.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/eliotcute/eliot3.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;eliotcute&#34; data-title=&#34;eliot3.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/eliotcute/eliot4.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;eliotcute&#34; data-title=&#34;eliot4.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Eliot&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Mischling&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2025&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Männlich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 01.01.2025&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;Eliot sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Unser hübscher Eliot sucht ein liebevolles neues Zuhause.&#xA;Er wurde gemeinsam mit seiner Mama auf der Strasse gefunden. Damals war Eliot sehr krank, doch mit viel Fürsorge und Pflege ist er wieder ganz gesund geworden.&#xA;Nun ist er bereit, in sein eigenes Glück zu starten.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Freiwilligenarbeit</title>
+      <link>http://localhost:1313/freiwilligenarbeit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/freiwilligenarbeit/</guid>
+      <description>&lt;div class=&#34;centered-content2&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;news-text&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;text-col&#34;&gt;&#xD;&#xA;    &lt;h1 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Freiwilligenarbeit&lt;/h1&gt;&#xD;&#xA;      &lt;b&gt;Freiwilligenarbeit bei uns auf der Ranch Tutu&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Möchtest du dich aktiv im Tierschutz engagieren?&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Werde Teil unseres Tierheim-Teams.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Du liebst Hunde und möchtest ihnen helfen, ein besseres Leben zu führen? Dann freuen wir uns riesig, wenn du uns im Tierheim unterstützt – Jede helfende Hand zählt!&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Wir bieten dir ein kleines Häuschen mit 2 Schlafplätzen, Küche und Badezimmer, ideal, um mitten unter Hunden zu leben und ihnen deine Zeit und Liebe zu schenken.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Was dich erwartet:&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Gassigehen/ Beschäftigung mit unseren Hunden&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Zwinger sauber machen, damit sich unsere Vierbeiner wohlfühlen&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Füttern, Kuscheln und Zeit schenken, denn Liebe heilt oft mehr als Medizin&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Helfen, unsere Ranch schöner zu gestalten, ein Zuhause auf Zeit soll auch schön sein&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Und vieles mehr, was Mensch und Hund guttut&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Unsere Hunde warten auf Menschen wie dich, mit offenen Herzen und wedelnden Schwänzen.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Wenn du mit anpacken, lachen, manchmal auch weinen, aber vor allem lieben willst, dann melde dich bei uns – wir freuen uns auf dich!&#xD;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Johnny</title>
+      <link>http://localhost:1313/johnny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johnny/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/johnny/johnny1.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;johnny&#34; data-title=&#34;johnny1.jpeg&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/johnny/johnny1.jpeg&#34; alt=&#34;johnny - johnny1.jpeg&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/johnny/johnny2.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;johnny&#34; data-title=&#34;johnny2.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/johnny/johnny3.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;johnny&#34; data-title=&#34;johnny3.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Johnny&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Mischling&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2020&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Männlich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 01.01.2021&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;      Johnny sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Johnny lebte ausserhalb von Ruma in einem kleinen Dorf. Dort war er nicht mehr willkommen und sollte ins städtische Tierheim gebracht werden – für viele Hunde bedeutet das leider den Tod.&#xA;Durch einen rechtzeitigen Anruf konnten wir ihn zu uns holen. Die letzten Jahre verbrachte Johnny in einer privaten Unterkunft, und nun darf er sein Leben bei uns auf der Ranch geniessen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description>&lt;div class=&#34;centered-content&#34;&gt;&#xD;&#xA;&lt;div class=&#34;kontakt-info&#34; style=&#34;text-align: center; width: 100%;&#34;&gt;&#xD;&#xA;  &lt;h2&gt;Kontaktiere uns&lt;/h2&gt;&#xD;&#xA;  &lt;p class=&#34;f6 lh-copy&#34;&gt;&#xD;&#xA;    Besuche uns auch auf: &#xD;&#xA;    &lt;a href=&#34;https://www.instagram.com/strays_in_need_serbia/&#34; class=&#34;link light-blue hover-white&#34;&gt;&#xD;&#xA;      &lt;u&gt;Instagram&lt;/u&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;form action=&#34;https://formsubmit.co/straysinneedserbia@gmail.com&#34; method=&#34;POST&#34; class=&#34;kontakt-formular&#34; onsubmit=&#34;return showPopup();&#34; style=&#34;margin: 0 auto; max-width: 800px;&#34;&gt;&#xD;&#xA;  &lt;input type=&#34;text&#34; name=&#34;_honey&#34; style=&#34;display:none&#34;&gt;&#xD;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;_captcha&#34; value=&#34;false&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;label&gt;Name:&lt;span style=&#34;color: red;&#34;&gt; *&lt;/span&gt;&#xA;&lt;input type=&#34;text&#34; name=&#34;name&#34; required placeholder=&#34;Max Mustermann&#34; /&gt;&#xA;&lt;/label&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label&gt;Email:&lt;span style=&#34;color: red;&#34;&gt; *&lt;/span&gt;&#xA;&lt;input type=&#34;email&#34; name=&#34;email&#34; required placeholder=&#34;max@example.com&#34; /&gt;&#xA;&lt;/label&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label&gt;Betreff:&#xA;&lt;select name=&#34;betreff&#34;&gt;&lt;/p&gt;&#xA;&lt;option value=&#34;Allgemeine Anfrage&#34;&gt;Allgemeine Anfrage&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Spende&#34;&gt;Spende&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Adoption&#34;&gt;Adoption&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Mitglied werden&#34;&gt;Mitglied werden&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Patenschaften&#34;&gt;Patenschaften&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Freiwilligenarbeit&#34;&gt;Freiwilligenarbeit&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Pflegestelle&#34;&gt;Pflegestelle&lt;/option&gt;&#xD;&#xA;&lt;option value=&#34;Sonstiges&#34;&gt;Sonstiges&lt;/option&gt;&#xD;&#xA;&lt;/select&gt;&#xD;&#xA;&lt;/label&gt;&#xD;&#xA;&lt;p&gt;&lt;label&gt;Nachricht:&lt;span style=&#34;color: red;&#34;&gt; *&lt;/span&gt;&lt;/p&gt;&#xA;&lt;textarea name=&#34;nachricht&#34; id=&#34;nachricht&#34; rows=&#34;5&#34; maxlength=&#34;600&#34; required placeholder=&#34;Deine Nachricht an uns...&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;&lt;div class=&#34;counter&#34;&gt;&lt;span id=&#34;zeichen&#34;&gt;0&lt;/span&gt;/600 Zeichen&lt;/div&gt;&#xD;&#xA;&lt;/label&gt;&#xD;&#xA;&lt;button type=&#34;submit&#34;&gt;Senden&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&lt;div class=&#34;popup&#34; id=&#34;popup&#34;&gt;&#xD;&#xA;  ✅ Danke für deine Nachricht! Wir melden uns bald bei dir.&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;  // Zeichenzähler&#xD;&#xA;  const textarea = document.getElementById(&#39;nachricht&#39;);&#xD;&#xA;  const counter = document.getElementById(&#39;zeichen&#39;);&#xD;&#xA;  textarea.addEventListener(&#39;input&#39;, () =&gt; {&#xD;&#xA;    counter.textContent = textarea.value.length;&#xD;&#xA;  });&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Mara</title>
+      <link>http://localhost:1313/mara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mara/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/mara/mara1.png&#34; class=&#34;glightbox&#34; data-gallery=&#34;mara&#34; data-title=&#34;mara1.png&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/mara/mara1.png&#34; alt=&#34;mara - mara1.png&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/mara/mara2.png&#34; class=&#34;glightbox&#34; data-gallery=&#34;mara&#34; data-title=&#34;mara2.png&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/mara/mara3.mp4&#34; class=&#34;glightbox&#34; data-gallery=&#34;mara&#34; data-title=&#34;mara3.mp4&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Mara&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Mischling&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2025&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Weiblich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 2025&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;Mara sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Ihre Mutter lebte in einem verlassenen Haus und brachte dort fünf Welpen zur Welt. Gelegentliche Passanten und einige Nachbarn gaben ihr etwas Futter und Wasser, damit sie den kalten Winter überstehen konnte. Und tatsächlich: Sie schaffte es, ihre Welpen grosszuziehen, klein, glücklich und noch völlig ahnungslos darüber, wie grausam die Welt manchmal sein kann.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mitglied werden</title>
+      <link>http://localhost:1313/mitglied-werden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mitglied-werden/</guid>
+      <description>&lt;div class=&#34;centered-content2&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;news-text&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;text-col&#34;&gt;&#xD;&#xA;    &lt;h1 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Mitglied werden&lt;/h1&gt;&#xD;&#xA;      &lt;b&gt;Willst du selber aktiv werden?&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Dann werde Teil unseres engagierten Vereins und hilf uns, das Leben von Strassenhunden in Ruma, Serbien zu verbessern! &#xD;&#xA;&lt;br&gt;&#xD;&#xA;Gemeinsam können wir Grosses erreichen. Wir freuen uns auf deine Unterstützung als Vereinsmitglied!&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;  &lt;a class=&#34;cta-btn&#34; href=&#34;http://localhost:1313/kontakt/&#34; style=&#34;background-color:rgb(247, 208, 124); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;&#34;&gt;Jetzt Mitglied werden&lt;/a&gt;&#xD;&#xA; &lt;br&gt;&lt;br&gt;&#xD;&#xA;Oder wirke direkt vor Ort und unterstütze unser Team auf der Ranch Tutu als Volunteer.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;  &lt;a class=&#34;cta-btn&#34; href=&#34;http://localhost:1313/Freiwilligenarbeit/&#34; style=&#34;background-color:rgb(247, 208, 124); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;&#34;&gt;Jetzt mithelfen&lt;/a&gt;&#xD;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patenschaften</title>
+      <link>http://localhost:1313/patenschaften/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/patenschaften/</guid>
+      <description>&lt;div class=&#34;centered-content2&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;news-text&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;text-col&#34;&gt;&#xD;&#xA;      &lt;h1 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Patenschaften&lt;/h1&gt;&#xD;&#xA;&lt;b&gt;Werde Patin oder Pate deines ausgewählten Schützlings&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Mit deiner Patenschaft unterstützt du gezielt &lt;b&gt;einen bestimmten Hund&lt;/b&gt; auf unserer Ranch und schenkst ihm genau das, was er jetzt braucht: Sicherheit, Fürsorge und Hoffnung.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;b&gt;Was bedeutet es, eine Patenschaft zu übernehmen?&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Du übernimmst symbolisch die Versorgung &lt;b&gt;eines einzelnen Hundes&lt;/b&gt;, der aktuell auf unserer Ranch lebt.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Deine monatliche Unterstützung von &lt;b&gt;CHF 40.00&lt;/b&gt; hilft dabei, die laufenden Kosten für deinen Schützling zu decken, darunter fallen:&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Futter &amp; tägliche Pflege&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Tierarztkosten, Impfungen &amp; Medikamente&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Kastration, Chip &amp; Parasitenbehandlung&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Unterbringung &amp; artgerechte Beschäftigung&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Mit deiner Patenschaft gibst du deinem ausgewählten Schützling Stabilität, auch wenn du ihn (noch) nicht adoptieren kannst.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;b&gt;Was bekommst du als Patin oder Pate?&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Eine persönliche Patenschaftsurkunde&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Fotos und Videos deines Patenhundes&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Die Möglichkeit, deinen Schützling jederzeit auf der Ranch zu besuchen (nach Absprache)&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;b&gt;Wie lange dauert eine Patenschaft?&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Die Patenschaft ist flexibel und monatlich kündbar, du entscheidest, wie lange du unterstützen möchtest.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;b&gt;So funktioniert’s:&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;Wenn du eine Patenschaft für einen unserer Hunde übernehmen möchtest, schick uns einfach eine E-Mail mit dem Namen des Hundes oder füll das Kontaktformular aus – wir melden uns dann persönlich bei dir.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Herzlichen Dank schon jetzt für deine Unterstützung – das bedeutet uns unglaublich viel!&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pflegestelle</title>
+      <link>http://localhost:1313/pflegestelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pflegestelle/</guid>
+      <description>&lt;div class=&#34;centered-content2&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;news-text&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;text-col&#34;&gt;&#xD;&#xA;    &lt;h1 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Pflegestelle&lt;/h1&gt;&#xD;&#xA;&lt;b&gt;Werde Pflegestelle – schenk einem Hund eine zweite Chance auf Leben und Liebe&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Unsere Hunde haben oft keinen leichten Start ins Leben gehabt. Viele von ihnen kommen aus schlimmen Verhältnissen, ausgesetzt, vernachlässigt oder misshandelt. Sie tragen Angst, Misstrauen und Unsicherheit mit sich. Was sie jetzt brauchen, ist kein kalter Zwinger, sondern ein Herz, das sie aufnimmt.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Und genau da kommst du ins Spiel. Macht es dir Freude, einen Vierbeiner aufzunehmen, bis er in sein endgültiges Zuhause ziehen darf?&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Als Pflegestelle gibst du einem unserer Hunde die Möglichkeit, sich in einem liebevollen Zuhause von seiner Vergangenheit zu erholen. Du hilfst ihm, langsam wieder Vertrauen in uns Menschen zu fassen. Du zeigst ihm, wie es ist, in einem Haushalt zu leben, mit Alltag, Geborgenheit, Zuneigung und Sicherheit.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;b&gt;Was das bewirkt?&lt;/b&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Der Hund kann sich in Ruhe entwickeln und zeigen, wer er wirklich ist.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Interessenten können ihn bei dir kennenlernen, in einer Umgebung, in der er sich wohlfühlt.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Die Chance, sein Für-immer-Zuhause zu finden, steigt dadurch enorm.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;• Und: Wenn ein Hund in Pflege geht, wird bei uns im Tierheim ein Platz frei, für einen anderen, der dringend Hilfe braucht.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Pflegestelle zu sein bedeutet Verantwortung, ja, aber vor allem bedeutet es Liebe. Du begleitest einen Hund mit viel Geduld auf einem der wichtigsten Schritte seines Lebens: vom gebrochenen Tier zur glücklichen Seele mit Perspektive.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Wenn du Zeit, Geduld, Herz und vielleicht schon ein wenig Hundeerfahrung hast, dann melde dich bei uns. Gemeinsam schenken wir einem Vierbeiner die Hoffnung zurück.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Sei sein Zuhause auf Zeit. Und sein Weg in eine bessere Zukunft!&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sam</title>
+      <link>http://localhost:1313/sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sam/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/sam/sam1.jpg&#34; class=&#34;glightbox&#34; data-gallery=&#34;sam&#34; data-title=&#34;sam1.jpg&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/sam/sam1.jpg&#34; alt=&#34;sam - sam1.jpg&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/sam/sam2.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;sam&#34; data-title=&#34;sam2.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/sam/sam3.jpeg&#34; class=&#34;glightbox&#34; data-gallery=&#34;sam&#34; data-title=&#34;sam3.jpeg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/sam/sam4.mp4&#34; class=&#34;glightbox&#34; data-gallery=&#34;sam&#34; data-title=&#34;sam4.mp4&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/sam/sam5.mp4&#34; class=&#34;glightbox&#34; data-gallery=&#34;sam&#34; data-title=&#34;sam5.mp4&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Sam&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Mischling&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2023&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Männlich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 01.01.2024&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;      Sam sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Unser süsser Junge ist ca. 2,5 Jahre alt und wiegt etwa 15 kg.&#xA;Sam hat einen wundervollen Charakter: Er ist verschmust, menschenbezogen, unkompliziert, sozial und sehr anpassungsfähig.&#xA;Er liebt es, in Kontakt mit Menschen zu sein und verteilt mit Begeisterung Küsschen!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saru</title>
+      <link>http://localhost:1313/saru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/saru/</guid>
+      <description>&lt;div class=&#34;centered-content2 single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/saru/saru1.jpg&#34; class=&#34;glightbox&#34; data-gallery=&#34;saru&#34; data-title=&#34;saru1.jpg&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/saru/saru1.jpg&#34; alt=&#34;saru - saru1.jpg&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/saru/saru2.jpg&#34; class=&#34;glightbox&#34; data-gallery=&#34;saru&#34; data-title=&#34;saru2.jpg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/saru/saru3.mp4&#34; class=&#34;glightbox&#34; data-gallery=&#34;saru&#34; data-title=&#34;saru3.mp4&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/saru/saru4.mp4&#34; class=&#34;glightbox&#34; data-gallery=&#34;saru&#34; data-title=&#34;saru4.mp4&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Saru&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Rottweiler&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2021&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Männlich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 01.02.2025&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;      Saru sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Dieser wunderschöne Rüde ist ca. 4–5 Jahre alt und wiegt etwa 40 kg.&#xA;Saru sucht die Nähe zum Menschen und geniesst jede Streicheleinheit. Leider müssen wir davon ausgehen, dass er in seinem bisherigen Leben kaum gute Erfahrungen machen durfte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teddy</title>
+      <link>http://localhost:1313/teddy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teddy/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34; style=&#34;background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    .gallery-preview-container {&#xD;&#xA;      position: relative;&#xD;&#xA;      width: 100%;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container img {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-overlay {&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0; left: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      height: 100%;&#xD;&#xA;      background: rgba(0, 0, 0, 0.4);&#xD;&#xA;      color: white;&#xD;&#xA;      font-size: 1.2rem;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      justify-content: center;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      opacity: 0;&#xD;&#xA;      transition: opacity 0.3s ease;&#xD;&#xA;    }&#xD;&#xA;    .gallery-preview-container:hover .gallery-preview-overlay,&#xD;&#xA;    .gallery-preview-container:focus-within .gallery-preview-overlay {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }&#xD;&#xA;    @media (hover: none) and (pointer: coarse) {&#xD;&#xA;        .gallery-preview-overlay {&#xD;&#xA;         opacity: 1 !important;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;gallery-preview-container&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/images/teddy/teddy1.jpg&#34; class=&#34;glightbox&#34; data-gallery=&#34;teddy&#34; data-title=&#34;teddy1.jpg&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;http://localhost:1313/images/teddy/teddy1.jpg&#34; alt=&#34;teddy - teddy1.jpg&#34; /&gt;&#xD;&#xA;      &lt;div class=&#34;gallery-preview-overlay&#34;&gt;Galerie anzeigen&lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/teddy/teddy2.jpg&#34; class=&#34;glightbox&#34; data-gallery=&#34;teddy&#34; data-title=&#34;teddy2.jpg&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;      &lt;a href=&#34;http://localhost:1313/images/teddy/teddy3.mp4&#34; class=&#34;glightbox&#34; data-gallery=&#34;teddy&#34; data-title=&#34;teddy3.mp4&#34; style=&#34;display: none;&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div style=&#34;flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;&#34;&gt;&#xD;&#xA;    &lt;h2 style=&#34;color:rgb(6, 85, 95); margin-top: 0;&#34;&gt;Teddy&lt;/h2&gt;&#xD;&#xA;    &lt;p style=&#34;font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);&#34;&gt;&#xD;&#xA;      &lt;strong&gt;Rasse:&lt;/strong&gt; Shar Pei&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geburtstag:&lt;/strong&gt; 01.01.2021&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Geschlecht&lt;/strong&gt; Männlich&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Herkunft:&lt;/strong&gt; Ruma / Serbien&#xD;&#xA;      &lt;br&gt;&#xD;&#xA;      &lt;strong&gt;Gefunden am:&lt;/strong&gt; 01.01.2024&#xD;&#xA;      &lt;br&gt;&lt;br&gt;&#xD;&#xA;Teddy sucht ein Zuhause 🐾&#xD;&#xA;&lt;p&gt;Der hübsche Shar Pei Rüde ist circa 4 Jahre alt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über uns</title>
+      <link>http://localhost:1313/ueber-uns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ueber-uns/</guid>
+      <description>&lt;div class=&#34;centered-content single-flex&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;news-text&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;text-col&#34;&gt;&#xD;&#xA;      &lt;h3&gt;Unsere Geschichte&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Ruma, eine Kleinstadt im serbischen Okrug Srem mit rund 30’000 Einwohnern, leidet – wie ganz Serbien – seit jeher unter einer grossen Zahl streunender und unerwünschter Hunde und Katzen. Das Problem wächst stetig: Es gibt keine systematische Kastration, und das Bewusstsein in der Bevölkerung für verantwortungsvolle Tierhaltung ist sehr gering. Vor allem Hunde werden immer wieder am Strassenrand ausgesetzt, an Laternenpfählen angebunden oder als Welpen in Kartons bei Müllhalden entsorgt. Die Behörden sehen meist weg, staatliche Tierheime sind überfüllt und die Zustände dort sind oft katastrophal. Noch immer betrachten viele Menschen Strassenhunde als Störung – nicht als fühlende Lebewesen, die Schutz und Hilfe brauchen. Schätzungen zufolge leben in Ruma und den umliegenden Dörfern mehrere Hundert streunende Hunde und Katzen. Jede einzelne dieser Seelen hat ihre eigene traurige Geschichte: ausgesetzte Würfe, verletzte und misshandelte Tiere, alte oder kranke Tiere, die meist einsam und qualvoll sterben.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

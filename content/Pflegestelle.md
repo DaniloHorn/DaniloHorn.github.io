@@ -2,8 +2,9 @@
 title = 'Pflegestelle'
 +++
 
-<div class="centered-content">
-  <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+<div class="centered-content2">
+  <div class="news-text">
+    <div class="text-col">
     <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Pflegestelle</h1>
 <b>Werde Pflegestelle – schenk einem Hund eine zweite Chance auf Leben und Liebe</b>
 <br><br>
@@ -30,10 +31,11 @@ Wenn du Zeit, Geduld, Herz und vielleicht schon ein wenig Hundeerfahrung hast, d
 Sei sein Zuhause auf Zeit. Und sein Weg in eine bessere Zukunft!
 <br>
 <br>
-<div class="half-width">
+    </p>
+    </div>
+      <div class="half-width ">
       <img src="/images/ranchbilder10.jpeg" alt="Strays in need Serbia Team" />
       <img src="/images/ranchbilder9.jpeg" alt="Strays in need Serbia Team" />
     </div>
-    </p>
   </div>
 </div>

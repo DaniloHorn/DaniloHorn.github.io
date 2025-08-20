@@ -12,7 +12,7 @@ date = 2025-06-07
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
       Saru ist ein sensibler, etwa 4–5 Jahre alter Rüde, der nach einem Leben voller Angst nun endlich ein liebevolles Zuhause sucht. Er ist freundlich und ruhig, braucht aber viel Geduld, um Vertrauen zu fassen – ein sicherer Einzelplatz wäre sein grosses Glück..
     </p>
-    <a href="/saru/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/saru/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
@@ -26,7 +26,7 @@ date = 2025-06-07
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und lebt nun sicher auf unserer Ranch. Nachdem ihre Mutter gerettet wurde, wartet Mara mit ihrem liebevollen Wesen und ihrer Lernfreude auf ein Zuhause, in dem sie ihr grosses Herz verschenken darf.
     </p>
-    <a href="/mara/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/mara/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und le
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Sam ist ein etwa 2,5 Jahre alter, 15 kg schwerer Rüde mit einem liebevollen, verschmusten und unkomplizierten Wesen, der sich gut mit Menschen, Kindern und anderen Tieren versteht. Nach 1,5 Jahren im Tierheim geniesst er nun das Leben auf der Ranch und sucht ein liebevolles Für-immer-Zuhause.
     </p>
-    <a href="/sam/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/sam/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Sam ist ein etwa 2,5 Jahre alter, 15 kg schwerer Rüde mit einem liebevollen, 
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Teddy, ein bildschöner Shar Pei-Rüde von etwa 4 Jahren, sucht seine Menschen!
     </p>
-    <a href="/teddy/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/teddy/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Teddy, ein bildschöner Shar Pei-Rüde von etwa 4 Jahren, sucht seine Menschen!
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden zu spielen. Dolly ist äusserst sozial – ob mit Menschen, Hunden, Katzen oder Kindern, sie kommt mit allen wunderbar aus.
     </p>
-    <a href="/dolly/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/dolly/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
@@ -82,7 +82,7 @@ Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Eliot ist anfangs etwas schüchtern, taut jedoch schnell auf, wenn er Vertrauen gefasst hat. Er ist ein freundlicher, verschmuster Hund, der die Nähe zu Menschen geniesst und es liebt, mit anderen Hunden zu spielen.
     </p>
-    <a href="/eliot/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/eliot/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
@@ -96,6 +96,6 @@ Eliot ist anfangs etwas schüchtern, taut jedoch schnell auf, wenn er Vertrauen 
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Johnny ist ein aufgeschlossener, sozialer Hund, der schnell die Herzen aller erobert.
     </p>
-    <a href="/johnny/" style="display: inline-block; margin-top: 1rem; background-color: #0077cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/johnny/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>

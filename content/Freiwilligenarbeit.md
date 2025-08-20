@@ -2,10 +2,10 @@
 title = 'Freiwilligenarbeit'
 +++
 
-<div class="centered-content">
-  <div class="news-text" style="flex: 2 1 400px; background-color:rgb(255, 255, 255); padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-    <h2 style="color: #065f46; margin-top: 0;">Freiwilligenarbeit</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
+<div class="centered-content2">
+  <div class="news-text">
+    <div class="text-col">
+    <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Freiwilligenarbeit</h1>
       <b>Freiwilligenarbeit bei uns auf der Ranch Tutu</b>
 <br>
 Möchtest du dich aktiv im Tierschutz engagieren?
@@ -33,10 +33,12 @@ Unsere Hunde warten auf Menschen wie dich, mit offenen Herzen und wedelnden Schw
 Wenn du mit anpacken, lachen, manchmal auch weinen, aber vor allem lieben willst, dann melde dich bei uns – wir freuen uns auf dich!
     </p>
   </div>
-<div class="half-width">
+  <br>
+            <div class="half-width-grid">
       <img src="/images/ranchbilder12.jpeg" alt="Strays in need Serbia Team" />
-      <split>
       <img src="/images/ranch5.jpeg" alt="Strays in need Serbia Team" />
       <img src="/images/ranch7.jpeg" alt="Strays in need Serbia Team" />
       <img src="/images/ranch3.jpeg" alt="Strays in need Serbia Team" />
+    </div>
+  </div>
 </div>
