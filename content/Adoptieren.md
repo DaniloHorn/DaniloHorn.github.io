@@ -43,7 +43,7 @@ Sam ist ein etwa 2,5 Jahre alter, 15 kg schwerer Rüde mit einem liebevollen, 
     <a href="/sam/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
-
+<!--more-->
 <br>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">

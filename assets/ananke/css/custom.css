@@ -17,7 +17,7 @@
 
 @media (min-width: 801px) {
   .single-flex figure img {
-    width: 50%;        /* half width on desktop */
+    width: 40%;        /* half width on desktop */
   }
 }
 
@@ -237,4 +237,98 @@ figure img {
     grid-template-columns: 1fr;
   }
 }
+
+
+
+
+/*SPENDEN SITE*/
+/* Donation Section */
+.donation-card {
+  background: #fff;
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  display: grid;
+  grid-template-columns: 1fr auto; /* text left, image right */
+  gap: 1.5rem;
+  align-items: start;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.donation-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.12);
+}
+
+.donation-card h2 {
+  color: #065f46;
+  margin: 0 0 0.5rem 0;
+}
+
+.donation-card p {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+}
+
+.donation-card img {
+  height: 230px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+/* For cards where image should be below text */
+.donation-card.stacked {
+  grid-template-columns: 1fr; /* one column only */
+}
+
+.donation-card.stacked img {
+  margin-top: 1rem;
+  justify-self: start; /* keep image aligned left */
+}
+
+
+/* Buttons */
+.cta-btn-spenden {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white !important;
+  transition: background 0.2s ease-in-out;
+}
+
+.cta-btn-spenden.black { background: #000; }
+.cta-btn-spenden.black:hover { background: #333; }
+
+.cta-btn-spenden.green { background: #10b981; }
+.cta-btn-spenden.green:hover { background: #059669; }
+
+/* Responsive */
+@media (max-width: 800px) {
+  .donation-card {
+    grid-template-columns: 1fr;   /* force single column */
+    justify-items: center;        /* center content as a block */
+  }
+
+  .donation-card > div {
+    text-align: left;             /* text still left-aligned */
+    width: 100%;                  /* let text fill width */
+    max-width: 500px;             /* but keep it readable */
+  }
+
+  .donation-card img {
+    margin-top: 1rem;
+    width: 80%;
+    max-width: 300px;
+    height: auto;
+    justify-self: center;         /* center the image */
+  }
+}
+
+
+/*DOG GRID*/
 

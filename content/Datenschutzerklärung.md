@@ -1,5 +1,4 @@
 +++
-title = "Datenschutzerklärung"
 draft = true
 +++
 
@@ -12,7 +11,7 @@ Strays in Need Serbia<br>
 E-Mail: <a href="mailto:straysinneedserbia@gmail.com">straysinneedserbia@gmail.com</a><br>
 </p>
 
-<h3>1. Erhebung und Verarbeitung personenbezogener Daten</h3>
+<h3>1. Erhebung und Verarbeitung personenbezogener Daten</h3> 
 <p>Wir erheben und verarbeiten personenbezogene Daten nur, wenn Sie uns diese freiwillig übermitteln – etwa durch das Ausfüllen eines Kontaktformulars oder durch direkte Kontaktaufnahme per E-Mail.</p>
 
 <h3>2. Kontaktformular</h3>

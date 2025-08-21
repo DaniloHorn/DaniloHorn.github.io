@@ -89,7 +89,7 @@ title = 'Über uns'
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
+      {{< figure src="/images/danijela.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Danijela</h3>
