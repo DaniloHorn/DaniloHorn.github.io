@@ -5,7 +5,7 @@ title = 'Johnny'
 <div class="centered-content single-flex" style="background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);">
 {{< gallery folder="johnny" >}}
   <div style="flex: 2 1 400px; background-color: #ffffff; padding: 1.5rem 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); word-break: break-word;">
-    <h2 style="color:rgb(6, 85, 95); margin-top: 0;">Johnny</h2>
+    <h2 style="color: #077052ff; margin-top: 0;">Johnny</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; color: rgb(0, 0, 0);">
       <strong>Rasse:</strong> Mischling
       <br>

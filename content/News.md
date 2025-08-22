@@ -6,7 +6,7 @@ date = 2025-06-08
 <div class="centered-content">
   <div class="news-text">
     <div class="text-col">
-      <h2 style="color: #065f46; margin-top: 0;">Neues Projekt auf gofundme</h2>
+      <h2 style="color: #077052ff; margin-top: 0;">Neues Projekt auf gofundme</h2>
       <p style="font-size: 1.1rem; line-height: 1.6; color:rgb(0, 0, 0);">
       <b>Bau mit uns ein Tierheim für die Strassenhunde von Serbien</b>
       <br><br>

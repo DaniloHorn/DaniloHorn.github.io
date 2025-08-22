@@ -3,6 +3,54 @@ title = 'Adoptieren'
 date = 2025-06-07
 +++
 
+<div class="dog-overview flex">
+  <a href="#saru" class="tc no-underline">
+    {{< figure src="/images/saru/saru1.jpg" alt="Saru">}}
+    <div class="f6 mt1">Saru</div>
+  </a>
+
+  <a href="#mara" class="tc no-underline">
+    {{< figure src="/images/mara/mara1.png" alt="Mara">}}
+    <div class="f6 mt1">Mara</div>
+  </a>
+
+  <a href="#sam" class="tc no-underline">
+    {{< figure src="/images/sam/sam1.jpg" alt="Sam">}}
+    <div class="f6 mt1">Sam</div>
+  </a>
+
+  <a href="#teddy" class="tc no-underline">
+    {{< figure src="/images/teddy/teddy1.jpg" alt="Teddy">}}
+    <div class="f6 mt1">Teddy</div>
+  </a>
+
+  <a href="#dolly" class="tc no-underline">
+    {{< figure src="/images/dolly/dolly1.jpeg" alt="Dolly">}}
+    <div class="f6 mt1">Dolly</div>
+  </a>
+
+  <a href="#eliot" class="tc no-underline">
+    {{< figure src="/images/eliotcute/eliot3.jpeg" alt="Eliot">}}
+    <div class="f6 mt1">Eliot</div>
+  </a>
+
+  <a href="#johnny" class="tc no-underline">
+    {{< figure src="/images/johnny/johnny1.jpeg" alt="Johnny">}}
+    <div class="f6 mt1">Johnny</div>
+  </a>
+
+  <a href="#milica" class="tc no-underline">
+    {{< figure src="/images/milica/milica2.jpeg" alt="Milica">}}
+    <div class="f6 mt1">Milica</div>
+  </a>
+
+  <a href="#lucky" class="tc no-underline">
+    {{< figure src="/images/lucky/lucky2.jpeg" alt="Lucky">}}
+    <div class="f6 mt1">Lucky</div>
+  </a>
+</div>
+<br><br><br>
+<div id="saru"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/saru/saru1.jpg" alt="Saru" width="300px" >}}
@@ -17,6 +65,7 @@ date = 2025-06-07
 </div>
 
 <br>
+<div id="mara"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/mara/mara1.png" alt="Mara" width="300px" >}}
@@ -31,6 +80,7 @@ Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und le
 </div>
 
 <br>
+<div id="sam"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/sam/sam1.jpg" alt="Sam" width="300px" >}}
@@ -45,6 +95,7 @@ Sam ist ein etwa 2,5 Jahre alter, 15 kg schwerer Rüde mit einem liebevollen, 
 </div>
 <!--more-->
 <br>
+<div id="teddy"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/teddy/teddy1.jpg" alt="Teddy" width="300px" >}}
@@ -59,6 +110,7 @@ Teddy, ein bildschöner Shar Pei-Rüde von etwa 4 Jahren, sucht seine Menschen!
 </div>
 
 <br>
+<div id="dolly"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/dolly/dolly1.jpeg" alt="Dolly" width="300px" >}}
@@ -73,6 +125,7 @@ Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden
 </div>
 
 <br>
+<div id="eliot"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/eliotcute/eliot3.jpeg" alt="Eliot" width="300px" >}}
@@ -87,6 +140,7 @@ Eliot ist anfangs etwas schüchtern, taut jedoch schnell auf, wenn er Vertrauen 
 </div>
 
 <br>
+<div id="johnny"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/johnny/johnny1.jpeg" alt="Johnny" width="300px" >}}
@@ -101,6 +155,7 @@ Johnny ist ein aufgeschlossener, sozialer Hund, der schnell die Herzen aller ero
 </div>
 
 <br>
+<div id="milica"></div>
 <div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/milica/milica2.jpeg" alt="Milica" width="300px" >}}
@@ -111,5 +166,20 @@ Johnny ist ein aufgeschlossener, sozialer Hund, der schnell die Herzen aller ero
 Milica, 6–7 Jahre alt, ist anfangs schüchtern, dann verschmust, lebhaft und verträglich mit Hunden und Katzen, geimpft, sterilisiert und sucht ein aktives, liebevolles Zuhause.
     </p>
     <a href="/milica/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
+
+<br>
+<div id="lucky"></div>
+<div class="centered-content single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/lucky/lucky2.jpeg" alt="Lucky" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Lucky</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Lucky ist ein sozialer, verspielter und verschmuster Hund – nun wünscht er sich nichts sehnlicher, als endlich ein liebevolles Zuhause zu finden.
+    </p>
+    <a href="/lucky/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>

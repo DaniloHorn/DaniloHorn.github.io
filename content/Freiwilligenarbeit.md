@@ -5,7 +5,7 @@ title = 'Freiwilligenarbeit'
 <div class="centered-content2">
   <div class="news-text">
     <div class="text-col">
-    <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Freiwilligenarbeit</h1>
+    <h1 style="color: #077052ff; margin-top: 0;">Freiwilligenarbeit</h1>
       <b>Freiwilligenarbeit bei uns auf der Ranch Tutu</b>
 <br>
 Möchtest du dich aktiv im Tierschutz engagieren?
@@ -31,6 +31,9 @@ Was dich erwartet:
 Unsere Hunde warten auf Menschen wie dich, mit offenen Herzen und wedelnden Schwänzen.
 <br>
 Wenn du mit anpacken, lachen, manchmal auch weinen, aber vor allem lieben willst, dann melde dich bei uns – wir freuen uns auf dich!
+<br><br>
+  <a class="cta-btn" href="/kontakt/" style="background-color:oklch(46.811% 0.08195 174.359); color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; flex: 1 1 200px; text-align: center;">Schreib uns</a>
+ <br><br>
     </p>
   </div>
   <br>

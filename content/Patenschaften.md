@@ -5,7 +5,7 @@ title = 'Patenschaften'
 <div class="centered-content2">
   <div class="news-text">
     <div class="text-col">
-      <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Patenschaften</h1>
+      <h1 style="color: #077052ff; margin-top: 0;">Patenschaften</h1>
 <b>Werde Patin oder Pate deines ausgewählten Schützlings</b>
 <br>
 Mit deiner Patenschaft unterstützt du gezielt <b>einen bestimmten Hund</b> auf unserer Ranch und schenkst ihm genau das, was er jetzt braucht: Sicherheit, Fürsorge und Hoffnung.

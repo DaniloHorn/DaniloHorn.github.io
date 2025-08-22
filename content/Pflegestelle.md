@@ -5,7 +5,7 @@ title = 'Pflegestelle'
 <div class="centered-content2">
   <div class="news-text">
     <div class="text-col">
-    <h1 style="color:rgb(6, 85, 95); margin-top: 0;">Pflegestelle</h1>
+    <h1 style="color: #077052ff; margin-top: 0;">Pflegestelle</h1>
 <b>Werde Pflegestelle – schenk einem Hund eine zweite Chance auf Leben und Liebe</b>
 <br><br>
 Unsere Hunde haben oft keinen leichten Start ins Leben gehabt. Viele von ihnen kommen aus schlimmen Verhältnissen, ausgesetzt, vernachlässigt oder misshandelt. Sie tragen Angst, Misstrauen und Unsicherheit mit sich. Was sie jetzt brauchen, ist kein kalter Zwinger, sondern ein Herz, das sie aufnimmt.

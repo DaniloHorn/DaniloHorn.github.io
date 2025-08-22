@@ -8,6 +8,35 @@
   font-family: 'Quicksand', sans-serif;
 }
 
+  /* 1) breite des bildschirms auf handy bestimmen */
+@media (max-width: 800px) {
+  .container,
+  .site-content,       /* je nach Ananke-Version */
+  .centered-content {  /* dein eigener Wrapper */
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  /* 2) News-Grid in Vollbreite anzeigen */
+  .news-text,
+  .news-text-grid {
+    gap: 1rem;
+    padding: 0 1rem;   /* optional: etwas Abstand zu den Bildschirmrändern */
+    width: 100%;
+  }
+
+  .text-col,
+  .half-width,
+  .half-width-grid {
+    flex: 0 1 100%;
+    max-width: 100%;
+  }
+}
+
+
 .single-flex figure img {
   display: block;
   margin: 0 auto;      /* center */
@@ -327,8 +356,58 @@ figure img {
     height: auto;
     justify-self: center;         /* center the image */
   }
-}
 
 
 /*DOG GRID*/
+.dog-overview {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 2rem;
 
+  /* mobile first: two cols */
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* from 600px up, switch to four cols */
+@media (min-width: 400px) {
+  .dog-overview {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.dog-overview a {
+  /* fixiere die Box auf 80×80px */
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: inherit;
+  margin-top: 0.5rem;
+}
+
+.dog-overview a figure {
+  /* Figure läuft jetzt randlos über die volle Link-Box */
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;       /* Bildüberlauf abschneiden */
+}
+
+.dog-overview a figure img {
+  /* Bild auf die Containergröße zwingen */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transform: translate(-50%, -50%);  
+  display: block;
+}
+  
+}
