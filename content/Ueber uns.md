@@ -99,10 +99,10 @@ title = 'Über uns'
 
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
-      {{< figure src="/images/strays-in-need-serbia.jpg" alt="Strays in need Serbia Alexandra" width="180px" >}}
+      {{< figure src="/images/aleksandra.jpg" alt="Strays in need Serbia Aleksandra" width="180px" >}}
     </div>
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Alexandra</h3>
+      <h3 style="margin-top: 0;">Aleksandra</h3>
       <p>Heldin vor Ort</p>
     </div>
   </div>
