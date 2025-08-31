@@ -35,8 +35,8 @@ title = 'Über uns'
 </div>
   </div>
 </div>
-<div class="centered-content" ><h3>Unser Team<h3></div>
-<div class="centered-content" style="background-color:rgb(255, 255, 255);">
+<div class="centered-content3" ><h3>Unser Team<h3></div>
+<div class="centered-content3" style="background-color:rgb(255, 255, 255);">
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/daniela.jpg" alt="Strays in need Serbia Daniela" width="180px" >}}
@@ -53,7 +53,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Sibylle</h3>
-      <p>Vizepräsidentin - Gründerin und Sponsorin Ranch Tutu</p>
+      <p>Vizepräsidentin - Gründerin und Sponsorin Ranch Tutu - Fundraising</p>
     </div>
   </div>
 
@@ -113,7 +113,7 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Laura</h3>
-      <p>Social Media</p>
+      <p>Social Media - Fundraising</p>
     </div>
   </div>
 </div>

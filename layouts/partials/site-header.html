@@ -1,16 +1,30 @@
-<!-- Ensure site-navigation is always included -->
+<!-- Always include navigation -->
 {{ partials.Include "site-navigation.html" . }}
 
-{{ if or (compare.Eq .Kind "home") (compare.Eq .Kind "section") }}
+{{ if eq .Kind "home" }}
+  <!-- 🚀 Custom Hero only for Homepage -->
+  <header class="hero">
+    <div class="hero-overlay">
+      <div class="hero-text">
+        <h1>Wir sind Strays in need Serbia</h1>
+        <p>Jeden Tag kämpfen wir für die vergessenen Hunde – für Sicherheit, Zuwendung und eine zweite Chance.</p>
+        <a href="/ueber-uns" class="hero-button">Mehr erfahren</a>
+      </div>
+    </div>
+    <img src="/images/ranchbilder12.jpeg" alt="Strays in need Serbia" class="hero-image">
+  </header>
+
+{{ else }}
+  <!-- ✅ Fallback for all other pages -->
   {{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
   {{ if $featured_image }}
-    {{ $featured_image_class := site.Params.featured_image_class | compare.Default "cover bg-top" }}
+    {{ $featured_image_class := site.Params.featured_image_class | default "cover bg-top" }}
     <header class="{{ $featured_image_class }}" style="background-image: url('{{ $featured_image }}');">
-      {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
+      {{ $cover_dimming_class := site.Params.cover_dimming_class | default "bg-black-60" }}
       <div class="{{ $cover_dimming_class }}">
         <div class="tc-l pv2 pv4-l ph3 ph4-ns">
           <h1 class="f3 f1-l fw2 white-90 mb2 lh-title">
-            {{ .Title | compare.Default .Site.Title }}
+            {{ .Title | default .Site.Title }}
           </h1>
           {{ with .Params.description }}
             <h2 class="fw1 f6 f4-l white-80 measure-wide-l center mt2 mb3">
@@ -20,7 +34,5 @@
         </div>
       </div>
     </header>
-  {{ else }}
   {{ end }}
 {{ end }}
-

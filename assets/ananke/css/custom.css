@@ -38,6 +38,7 @@
 
 
 .single-flex figure img {
+  border-radius: 10px;   /* adjust to taste */
   display: block;
   margin: 0 auto;      /* center */
   width: 100%;         /* full width on mobile */
@@ -356,22 +357,20 @@ figure img {
     height: auto;
     justify-self: center;         /* center the image */
   }
-
+}
 
 /*DOG GRID*/
 .dog-overview {
   display: grid;
   gap: 1rem;
   margin-bottom: 2rem;
-
-  /* mobile first: two cols */
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
 }
 
 /* from 600px up, switch to four cols */
-@media (min-width: 400px) {
+@media (max-width: 800px) {
   .dog-overview {
-    grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   }
 }
 
@@ -397,8 +396,9 @@ figure img {
   overflow: hidden;       /* Bildüberlauf abschneiden */
 }
 
-.dog-overview a figure img {
+.dog-overview figure img {
   /* Bild auf die Containergröße zwingen */
+  border-radius: 10px; 
   position: absolute;
   top: 50%;
   left: 50%;
@@ -410,4 +410,85 @@ figure img {
   display: block;
 }
   
+
+/*main page picture css */
+.hero {
+  position: relative;
+  width: 100%;
+  height: 60vh; /* adjust hero height */
+  overflow: hidden;
+  border-radius: 0 0 20px 20px; /* optional: rounded bottom */
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ensures the image covers nicely */
+  object-position: center;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.3)
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-size: 1.25rem;
+  color: #f0f0f0;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+}
+
+.hero-button {
+  display: inline-block;
+  background-color: #077052;
+  color: #fff !important;
+  padding: 0.75rem 1.5rem;
+  border-radius: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+.hero-button:hover {
+  background-color: #055c42;
+}
+
+
+
+
+/* Team cards: stack image above text on mobile */
+@media (max-width: 800px) {
+  .centered-content3 > div {
+    flex-direction: column !important;
+    align-items: center;         /* center image + text */
+    text-align: center;          /* center text below image */
+  }
+
+  .centered-content3 > div > div {
+    flex: unset !important;
+    max-width: 100% !important;
+  }
+
+  .centered-content3 figure img {
+    width: 150px;                /* keep portrait images smaller */
+    height: auto;
+    margin: 0 auto 1rem;         /* spacing below the image */
+    border-radius: 12px;
+  }
 }
