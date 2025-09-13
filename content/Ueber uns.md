@@ -38,7 +38,7 @@ title = 'Über uns'
 <div class="centered-content3" ><h3>Unser Team<h3></div>
 <div class="centered-content3" style="background-color:rgb(255, 255, 255);">
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;">
+    <div style="flex: 0 0 180px;" >
       {{< figure src="/images/daniela.jpg" alt="Strays in need Serbia Daniela" width="180px" >}}
     </div>
     <div style="flex: 1;">

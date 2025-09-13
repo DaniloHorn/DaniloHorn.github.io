@@ -53,6 +53,11 @@ date = 2025-08-31
     {{< figure src="/images/ela/ela2.jpeg" alt="Ela">}}
     <div class="f6 mt1">Ela</div>
   </a>
+
+  <a href="/adoptieren/#rina" class="tc no-underline">
+    {{< figure src="/images/rina/rina1.jpg" alt="Rina">}}
+    <div class="f6 mt1">Rina</div>
+  </a>
 </div>
 <br><br><br>
 <div id="saru"></div>
@@ -201,5 +206,20 @@ Lucky ist ein sozialer, verspielter und verschmuster Hund – nun wünscht er si
 Für Ela wünschen wir uns einfühlsame Menschen, die ihr die Zeit und Geduld schenken, die sie braucht, um anzukommen und ihr Herz zu öffnen.
     </p>
     <a href="/ela/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
+
+<br>
+<div id="rina"></div>
+<div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/rina/rina1.jpg" alt="Rina" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Rina</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Ein Amstaff der freundlich mit Menschen ist, viel Energie hat, sozial mit Hunden nach sympathie und sehr verschmust.
+    </p>
+    <a href="/rina/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>

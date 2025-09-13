@@ -492,3 +492,11 @@ figure img {
     border-radius: 12px;
   }
 }
+
+.centered-content3 figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;           /* Rundung auch auf Desktop */
+  object-fit: cover;             /* falls Bild nicht exakt quadratisch ist */
+}

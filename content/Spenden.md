@@ -32,23 +32,12 @@ date = 2025-06-07
   <img src="/images/twintqr.png" alt="TWINT | PayPal">
 </div>
 <br>
-<!--Teaming-->
-<div class="donation-card">
-  <div>
-    <h2>Teaming</h2>
-    <p><b>Spende monatlich 1.00 € via Teaming</b></p>
-    <a class="cta-btn-spenden green" href="https://www.teaming.net/straysinneedserbia-theirchancebeginswithyou-">
-      {{< heart >}} Jetzt Spenden
-    </a>
-  </div>
-</div>
-<br>
 <!--GoFundMe-->
 <div class="donation-card">
   <div>
     <h2>GoFundMe</h2>
     <p><b>Spende via GoFundMe</b></p>
-    <a class="cta-btn-spenden green" href="https://www.gofundme.com/f/bau-mit-uns-ein-tierheim-fur-die-strassenhunde-von-serbien">
+    <a class="cta-btn-spenden green" href="https://gofund.me/06c2d9a3">
       {{< heart >}} Jetzt Spenden
     </a>
   </div>
