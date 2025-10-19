@@ -18,6 +18,8 @@
   </url><url>
     <loc>http://localhost:1313/impressum/</loc>
   </url><url>
+    <loc>http://localhost:1313/benny/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/dolly/</loc>
@@ -55,5 +57,7 @@
     <loc>http://localhost:1313/teddy/</loc>
   </url><url>
     <loc>http://localhost:1313/ueber-uns/</loc>
+  </url><url>
+    <loc>http://localhost:1313/victoria/</loc>
   </url>
 </urlset>
