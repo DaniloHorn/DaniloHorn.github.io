@@ -13,7 +13,7 @@ date = 2025-06-07
         <strong>Bank:</strong> Aargauische Kantonalbank<br>
         <strong>Kontonummer:</strong> 649297282001<br>
         <strong>Bankclearing:</strong> 761<br>
-        <strong>IBAN:</strong> CH81 0076 1649 2972 8200 1
+        <strong>IBAN:</strong> CH81 0076 1649 2972 8200 1 
       </p>
       </div>
   <img src="/images/spendenkonto.png" alt="Spendenkonto">
@@ -38,6 +38,17 @@ date = 2025-06-07
     <h2>GoFundMe</h2>
     <p><b>Spende via GoFundMe</b></p>
     <a class="cta-btn-spenden green" href="https://gofund.me/06c2d9a3">
+      {{< heart >}} Jetzt Spenden
+    </a>
+  </div>
+</div>
+<br>
+<!--Teaming-->
+<div class="donation-card">
+  <div>
+    <h2>Teaming</h2>
+    <p><b>Spende monatlich 1€ via Teaming</b></p>
+    <a class="cta-btn-spenden green" href="https://www.teaming.net/straysinneedserbia-asecondchanceforforgottenpaws">
       {{< heart >}} Jetzt Spenden
     </a>
   </div>
