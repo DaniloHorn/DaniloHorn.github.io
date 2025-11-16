@@ -68,6 +68,21 @@ date = 2025-08-31
     {{< figure src="/images/benny/benny1.jpg" alt="Benny">}}
     <div class="f6 mt1">Benny</div>
   </a>
+
+  <a href="/adoptieren/#alex" class="tc no-underline">
+    {{< figure src="/images/alex/alex1.jpg" alt="Alex">}}
+    <div class="f6 mt1">Alex</div>
+  </a>
+
+  <a href="/adoptieren/#avani" class="tc no-underline">
+    {{< figure src="/images/avani/avani1.jpg" alt="Avani">}}
+    <div class="f6 mt1">Avani</div>
+  </a>
+
+  <a href="/adoptieren/#mila" class="tc no-underline">
+    {{< figure src="/images/mila/mila1.jpg" alt="Mila">}}
+    <div class="f6 mt1">Mila</div>
+  </a>
 </div>
 <br><br><br>
 <div id="saru"></div>
@@ -261,5 +276,50 @@ Victoria ist eine schüchterne, ruhige Hündin, die sich gut mit Artgenossen ver
 Benny ist ein fröhlicher, verspielter Beagle-Mischlingwelpe, der dringend ein liebevolles Zuhause sucht, bevor er im Tierheim erwachsen wird.
     </p>
     <a href="/benny/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
+
+<br>
+<div id="alex"></div>
+<div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/alex/alex1.jpg" alt="Alex" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Alex</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Alex wurde nach einem Autounfall verletzt und mit Parvovirose gefunden, konnte damals nicht operiert werden, hat sich aber gut erholt und lebt heute mit seiner kleinen Einschränkung zufrieden. Er ist ein freundlicher, sozialer Hund, der anfangs etwas schüchtern ist, aber liebevolle Zuwendung sehr schätzt und sich ein geduldiges, herzliches Zuhause wünscht.
+    </p>
+    <a href="/alex/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
+
+<br>
+<div id="avani"></div>
+<div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/avani/avani1.jpg" alt="Avani" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Avani</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Avani wurde verlassen nahe einer Fabrik gefunden, hat sich ihren fröhlichen Charakter aber trotz ihres schweren Starts bewahrt. Sie ist eine energievolle, verspielte und sehr liebe Hündin, die sowohl mit Hunden tobt als auch menschliche Nähe über alles liebt.
+    </p>
+    <a href="/avani/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  </div>
+</div>
+
+<br>
+<div id="mila"></div>
+<div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="display: flex;">
+    {{< figure src="/images/mila/mila1.jpg" alt="Mila" width="300px" >}}
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; color: #333;">Mila</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
+Mila überlebte zwei Jahre allein auf der Strasse, bekam dort zweimal Welpen und wurde trotz ihrer Not immer wieder vertrieben, obwohl sie eine sanfte und liebevolle Hündin ist. Anfangs etwas schüchtern, fasst sie schnell Vertrauen, geniesst Streicheleinheiten, versteht sich mit anderen Hunden und wünscht sich ein ruhiges, liebevolles Zuhause.
+    </p>
+    <a href="/mila/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>

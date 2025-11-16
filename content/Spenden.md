@@ -42,14 +42,3 @@ date = 2025-06-07
     </a>
   </div>
 </div>
-<br>
-<!--Teaming-->
-<div class="donation-card">
-  <div>
-    <h2>Teaming</h2>
-    <p><b>Spende monatlich 1€ via Teaming</b></p>
-    <a class="cta-btn-spenden green" href="https://www.teaming.net/straysinneedserbia-asecondchanceforforgottenpaws">
-      {{< heart >}} Jetzt Spenden
-    </a>
-  </div>
-</div>
