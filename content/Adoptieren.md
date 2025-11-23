@@ -9,11 +9,6 @@ date = 2025-08-31
     <div class="f6 mt1">Saru</div>
   </a>
 
-  <a href="/adoptieren/#mara" class="tc no-underline">
-    {{< figure src="/images/mara/mara1.png" alt="Mara">}}
-    <div class="f6 mt1">Mara</div>
-  </a>
-
   <a href="/adoptieren/#sam" class="tc no-underline">
     {{< figure src="/images/sam/sam1.jpg" alt="Sam">}}
     <div class="f6 mt1">Sam</div>
@@ -96,21 +91,6 @@ date = 2025-08-31
       Saru ist ein sensibler, etwa 4–5 Jahre alter Rüde, der nach einem Leben voller Angst nun endlich ein liebevolles Zuhause sucht. Er ist freundlich und ruhig, braucht aber viel Geduld, um Vertrauen zu fassen – ein sicherer Einzelplatz wäre sein grosses Glück..
     </p>
     <a href="/saru/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
-  </div>
-</div>
-
-<br>
-<div id="mara"></div>
-<div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <div style="display: flex;">
-    {{< figure src="/images/mara/mara1.png" alt="Mara" width="300px" >}}
-  </div>
-  <div style="flex: 1;">
-    <h2 style="margin-top: 0; color: #333;">Mara</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
-Mara, ein fröhlicher und verspielter Welpe, wurde im Januar 2025 geboren und lebt nun sicher auf unserer Ranch. Nachdem ihre Mutter gerettet wurde, wartet Mara mit ihrem liebevollen Wesen und ihrer Lernfreude auf ein Zuhause, in dem sie ihr grosses Herz verschenken darf.
-    </p>
-    <a href="/mara/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
