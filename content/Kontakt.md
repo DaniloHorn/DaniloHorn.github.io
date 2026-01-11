@@ -6,9 +6,13 @@ title = "Kontakt"
 <div class="kontakt-info" style="text-align: center; width: 100%;">
   <h2>Kontaktiere uns</h2>
   <p class="f6 lh-copy">
-    Besuche uns auch auf: 
+    Besuche uns auch gerne auf 
     <a href="https://www.instagram.com/strays_in_need_serbia/" class="link light-blue hover-white">
       <u>Instagram</u>
+    </a>
+    oder
+    <a href="https://www.facebook.com/profile.php?id=61585307795602" class="link light-blue hover-white">
+    <u>Facebook</u>
     </a>
   </p>
 </div>

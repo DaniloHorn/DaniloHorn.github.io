@@ -1,80 +1,80 @@
 +++
-title = 'Adoptieren'
+title = 'unsere Hunde'
 date = 2025-08-31
 +++
 
 <div class="dog-overview flex">
-  <a href="/adoptieren/#saru" class="tc no-underline">
+  <a href="/unsere-Hunde/#saru" class="tc no-underline">
     {{< figure src="/images/saru/saru1.jpg" alt="Saru">}}
     <div class="f6 mt1">Saru</div>
   </a>
 
-  <a href="/adoptieren/#sam" class="tc no-underline">
+  <a href="/unsere-Hunde/#sam" class="tc no-underline">
     {{< figure src="/images/sam/sam1.jpg" alt="Sam">}}
     <div class="f6 mt1">Sam</div>
   </a>
 
-  <a href="/adoptieren/#teddy" class="tc no-underline">
+  <a href="/unsere-Hunde/#teddy" class="tc no-underline">
     {{< figure src="/images/teddy/teddy1.jpg" alt="Teddy">}}
     <div class="f6 mt1">Teddy</div>
   </a>
 
-  <a href="/adoptieren/#dolly" class="tc no-underline">
+  <a href="/unsere-Hunde/#dolly" class="tc no-underline">
     {{< figure src="/images/dolly/dolly1.jpeg" alt="Dolly">}}
     <div class="f6 mt1">Dolly</div>
   </a>
 
-  <a href="/adoptieren/#eliot" class="tc no-underline">
+  <a href="/unsere-Hunde/#eliot" class="tc no-underline">
     {{< figure src="/images/eliotcute/eliot3.jpeg" alt="Eliot">}}
     <div class="f6 mt1">Eliot</div>
   </a>
 
-  <a href="/adoptieren/#johnny" class="tc no-underline">
+  <a href="/unsere-Hunde/#johnny" class="tc no-underline">
     {{< figure src="/images/johnny/johnny1.jpeg" alt="Johnny">}}
     <div class="f6 mt1">Johnny</div>
   </a>
 
-  <a href="/adoptieren/#milica" class="tc no-underline">
+  <a href="/unsere-Hunde/#milica" class="tc no-underline">
     {{< figure src="/images/milica/milica2.jpeg" alt="Milica">}}
     <div class="f6 mt1">Milica</div>
   </a>
 
-  <a href="/adoptieren/#lucky" class="tc no-underline">
+  <a href="/unsere-Hunde/#lucky" class="tc no-underline">
     {{< figure src="/images/lucky/lucky2.jpeg" alt="Lucky">}}
     <div class="f6 mt1">Lucky</div>
   </a>
 
-  <a href="/adoptieren/#ela" class="tc no-underline">
+  <a href="/unsere-Hunde/#ela" class="tc no-underline">
     {{< figure src="/images/ela/ela2.jpeg" alt="Ela">}}
     <div class="f6 mt1">Ela</div>
   </a>
 
-  <a href="/adoptieren/#rina" class="tc no-underline">
+  <a href="/unsere-Hunde/#rina" class="tc no-underline">
     {{< figure src="/images/rina/rina1.jpg" alt="Rina">}}
     <div class="f6 mt1">Rina</div>
   </a>
 
-  <a href="/adoptieren/#victoria" class="tc no-underline">
+  <a href="/unsere-Hunde/#victoria" class="tc no-underline">
     {{< figure src="/images/victoria/victoria1.jpg" alt="Victoria">}}
     <div class="f6 mt1">Victoria</div>
   </a>
 
-  <a href="/adoptieren/#benny" class="tc no-underline">
+  <a href="/unsere-Hunde/#benny" class="tc no-underline">
     {{< figure src="/images/benny/benny1.jpg" alt="Benny">}}
     <div class="f6 mt1">Benny</div>
   </a>
 
-  <a href="/adoptieren/#alex" class="tc no-underline">
+  <a href="/unsere-Hunde/#alex" class="tc no-underline">
     {{< figure src="/images/alex/alex1.jpg" alt="Alex">}}
     <div class="f6 mt1">Alex</div>
   </a>
 
-  <a href="/adoptieren/#mila" class="tc no-underline">
+  <a href="/unsere-Hunde/#mila" class="tc no-underline">
     {{< figure src="/images/mila/mila1.jpg" alt="Mila">}}
     <div class="f6 mt1">Mila</div>
   </a>
   
-  <a href="/adoptieren/#louWinniAva" class="tc no-underline">
+  <a href="/unsere-Hunde/#louWinniAva" class="tc no-underline">
     {{< figure src="/images/louWinniAva/louWinniAva1.jpeg" alt="LouWinniAva">}}
     <div class="f6 mt1">Lou Winni Ava</div>
   </a>
