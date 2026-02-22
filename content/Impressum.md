@@ -3,8 +3,9 @@
 </h2>
 
 <p><strong>Verein:</strong><br>
-Strays in need Serbia<br>
-9000 St. Gallen<br>
+  Strays in need Serbia<br />
+  Distelweg 23<br />
+  8048 Zürich<br />
 Schweiz</p>
 
 <p><strong>Kontakt:</strong><br>

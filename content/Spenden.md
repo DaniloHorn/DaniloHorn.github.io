@@ -1,7 +1,11 @@
 +++
 title = 'Spenden'
-date = 2025-06-07
+date = 2026-02-22
 +++
+
+<b>Neu:</b> Wir sind als gemeinnütziger Verein steuerbefreit, Ihre Spenden sind steuerlich abziehbar. Mit Ihrem Beitrag unterstützen Sie direkt unsere Tierschutzarbeit und helfen Tieren in Not.<br>
+Vielen Dank für Ihre Unterstützung 🤍
+<br><br>
 
 <!--Bank Transfer-->
 <div class="donation-card stacked">
@@ -9,7 +13,7 @@ date = 2025-06-07
     <h2>Spendenkonto</h2>
       <p>
         <strong>Verein:</strong> Strays in need Serbia<br>
-        <strong>Ort:</strong> 9000 St. Gallen<br>
+        <strong>Ort:</strong> 8048 Zürich<br>
         <strong>Bank:</strong> Aargauische Kantonalbank<br>
         <strong>Kontonummer:</strong> 649297282001<br>
         <strong>Bankclearing:</strong> 761<br>

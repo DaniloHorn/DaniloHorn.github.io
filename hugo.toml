@@ -43,8 +43,8 @@ weight = 9
 parent = "verein"
 
 [[menu.main]]
-name = "unsere Hunde"
-url = "/unsere-Hunde/"
+name = "Unsere Hunde"
+url = "/Unsere-Hunde/"
 weight = 2
 
 [[menu.main]]
