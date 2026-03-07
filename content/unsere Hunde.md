@@ -74,7 +74,7 @@ date = 2025-08-31
     <div class="f6 mt1">Mila</div>
   </a>
   
-  <a href="/unsere-hunde/#louWinniAva" class="tc no-underline">
+  <a href="/unsere-hunde/#louwinniava" class="tc no-underline">
     {{< figure src="/images/louWinniAva/louWinniAva1.jpeg" alt="LouWinniAva">}}
     <div class="f6 mt1">Lou Winni Ava</div>
   </a>
@@ -290,7 +290,7 @@ Mila überlebte zwei Jahre allein auf der Strasse, bekam dort zweimal Welpen und
 </div>
 
 <br>
-<div id="louWinniAva"></div>
+<div id="louwinniava"></div>
 <div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <div style="display: flex;">
     {{< figure src="/images/louWinniAva/louWinniAva1.jpeg" alt="LouWinniAva" width="300px" >}}
@@ -300,6 +300,6 @@ Mila überlebte zwei Jahre allein auf der Strasse, bekam dort zweimal Welpen und
     <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
 Winni, Ava und Lou sind drei etwa 5 Monate alte, vollständig geimpfte Welpen, verspielt, neugierig und bereit für ein liebevolles Zuhause – Lou selbstbewusst und frech, Winni anfangs schüchtern, dann mutig. Die kleinen Schätze wiegen ca. 9 kg, werden klein bis mittelgross und warten darauf, ihr Herz zu verschenken.
     </p>
-    <a href="/louWinniAva/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+    <a href="/louwinniava/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
