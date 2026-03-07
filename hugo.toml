@@ -59,7 +59,7 @@ weight = 10
 
 
 [params]
-  logo = "/images/strays-in-need-serbia.jpg"
+  logo = "/images/strays-in-need-serbia-logo.jpeg"
   footer_text = "Strays in Need – Gemeinsam für eine bessere Zukunft für Tiere."
   body_classes = "quicksand bg-washed-white"
   read_more_copy = "Mehr erfahren"
