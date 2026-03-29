@@ -3,8 +3,8 @@ title = 'Spenden'
 date = 2026-02-22
 +++
 
-<b>Neu:</b> Wir sind als gemeinnütziger Verein steuerbefreit, Ihre Spenden sind steuerlich abziehbar. Mit Ihrem Beitrag unterstützen Sie direkt unsere Tierschutzarbeit und helfen Tieren in Not.<br>
-Vielen Dank für Ihre Unterstützung 🤍
+<b>Neu:</b> Wir sind als gemeinnütziger Verein steuerbefreit, eure Spenden sind steuerlich abziehbar. Mit eurem Beitrag unterstützt ihr direkt unsere Tierschutzarbeit und helft Tieren in Not.<br>
+Vielen Dank für eure Unterstützung 🤍
 <br><br>
 
 <!--Bank Transfer-->
