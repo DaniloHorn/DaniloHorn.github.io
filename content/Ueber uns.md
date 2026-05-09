@@ -38,62 +38,12 @@ title = 'Über uns'
 <div class="centered-content3" ><h3>Unser Team<h3></div>
 <div class="centered-content3" style="background-color:rgb(255, 255, 255);">
   <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;" >
-      {{< figure src="/images/daniela.jpg" alt="Strays in need Serbia Daniela" width="180px" >}}
-    </div>
-    <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Daniela</h3>
-      <p>Präsidentin</p>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
     <div style="flex: 0 0 180px;">
       {{< figure src="/images/sibylle.jpg" alt="Strays in need Serbia Sibylle" width="180px" >}}
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Sibylle</h3>
-      <p>Vizepräsidentin - Gründerin und Sponsorin Ranch Tutu - Fundraising</p>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;">
-      {{< figure src="/images/fredy.jpg" alt="Strays in need Serbia Fredy" width="180px" >}}
-    </div>
-    <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Fredy</h3>
-      <p>Kassier</p>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;">
-      {{< figure src="/images/nicii.jpg" alt="Strays in need Serbia Nicole" width="180px" >}}
-    </div>
-    <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Nicole</h3>
-      <p>Fundraising</p>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;">
-      {{< figure src="/images/danilo.jpg" alt="Strays in need Serbia Danilo" width="180px" >}}
-    </div>
-    <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Danilo</h3>
-      <p>Webseite</p>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
-    <div style="flex: 0 0 180px;">
-      {{< figure src="/images/danijela.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
-    </div>
-    <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Danijela</h3>
-      <p>Heldin vor Ort</p>
+      <p>Präsidentin - Gründerin und Sponsorin Ranch Tutu - Fundraising</p>
     </div>
   </div>
 
@@ -103,6 +53,16 @@ title = 'Über uns'
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;">Aleksandra</h3>
+      <p>Vizepräsidentin - Heldin vor Ort</p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 2rem; padding: 1.5rem; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.05); flex-wrap: wrap;">
+    <div style="flex: 0 0 180px;">
+      {{< figure src="/images/danijela.jpg" alt="Strays in need Serbia Danijela" width="180px" >}}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;">Danijela</h3>
       <p>Heldin vor Ort</p>
     </div>
   </div>
