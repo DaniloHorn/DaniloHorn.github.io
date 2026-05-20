@@ -29,11 +29,6 @@ date = 2025-08-31
     <div class="f6 mt1">Eliot</div>
   </a>
 
-  <a href="/unsere-hunde/#johnny" class="tc no-underline">
-    {{< figure src="/images/johnny/johnny1.jpeg" alt="Johnny">}}
-    <div class="f6 mt1">Johnny</div>
-  </a>
-
   <a href="/unsere-hunde/#milica" class="tc no-underline">
     {{< figure src="/images/milica/milica2.jpeg" alt="Milica">}}
     <div class="f6 mt1">Milica</div>
@@ -151,21 +146,6 @@ Sie ist ein kleiner Wirbelwind, der es liebt, zu kuscheln und mit anderen Hunden
 Eliot ist anfangs etwas schüchtern, taut jedoch schnell auf, wenn er Vertrauen gefasst hat. Er ist ein freundlicher, verschmuster Hund, der die Nähe zu Menschen geniesst und es liebt, mit anderen Hunden zu spielen.
     </p>
     <a href="/eliot/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
-  </div>
-</div>
-
-<br>
-<div id="johnny"></div>
-<div class="centered-content2 single-flex" style="display: flex; background-color:rgb(255, 255, 255); padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <div style="display: flex;">
-    {{< figure src="/images/johnny/johnny1.jpeg" alt="Johnny" width="300px" >}}
-  </div>
-  <div style="flex: 1;">
-    <h2 style="margin-top: 0; color: #333;">Johnny</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color: #444;">
-Johnny ist ein aufgeschlossener, sozialer Hund, der schnell die Herzen aller erobert.
-    </p>
-    <a href="/johnny/" style="display: inline-block; margin-top: 1rem; background-color: oklch(46.811% 0.08195 174.359); color: white; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
   </div>
 </div>
 
